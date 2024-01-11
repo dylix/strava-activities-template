@@ -1,0 +1,7 @@
+{
+    "commandName": "App.Domain.Strava.Segment.ImportSegments.ImportSegments",
+    "payload": {
+        "metadata": [],
+        "output": {}
+    }
+}
