@@ -14,11 +14,13 @@ use App\Domain\Strava\Activity\BuildWeekdayStatsChart\WeekdayStats;
 use App\Domain\Strava\Activity\BuildWeekdayStatsChart\WeekdayStatsChartsBuilder;
 use App\Domain\Strava\Activity\BuildWeeklyDistanceChart\WeeklyDistanceChartBuilder;
 use App\Domain\Strava\Activity\BuildYearlyDistanceChart\YearlyDistanceChartBuilder;
+use App\Domain\Strava\Activity\BuildYearlyDistanceChart\YearlyStatistics;
 use App\Domain\Strava\Activity\HeartRateDistributionChartBuilder;
 use App\Domain\Strava\Activity\Image\Image;
 use App\Domain\Strava\Activity\Image\ImageRepository;
 use App\Domain\Strava\Activity\PowerDistributionChartBuilder;
 use App\Domain\Strava\Activity\ReadModel\ActivityDetailsRepository;
+use App\Domain\Strava\Activity\Stream\PowerOutputChartBuilder;
 use App\Domain\Strava\Activity\Stream\ReadModel\ActivityHeartRateRepository;
 use App\Domain\Strava\Activity\Stream\ReadModel\ActivityPowerRepository;
 use App\Domain\Strava\Activity\Stream\ReadModel\ActivityStreamDetailsRepository;
@@ -51,6 +53,7 @@ use App\Infrastructure\KeyValue\ReadModel\KeyValueStore;
 use App\Infrastructure\Serialization\Json;
 use App\Infrastructure\ValueObject\DataTableRow;
 use App\Infrastructure\ValueObject\Time\SerializableDateTime;
+use App\Infrastructure\ValueObject\Time\YearCollection;
 use Lcobucci\Clock\Clock;
 use League\Flysystem\FilesystemOperator;
 use Twig\Environment;
@@ -99,17 +102,31 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             startDate: $allActivities->getFirstActivityStartDate(),
             now: $now
         );
+        $allYears = YearCollection::create(
+            startDate: $allActivities->getFirstActivityStartDate(),
+            endDate: $now
+        );
         $monthlyStatistics = MonthlyStatistics::fromActivitiesAndChallenges(
             activities: $allActivities,
             challenges: $allChallenges,
             months: $allMonths,
         );
+        $bestPowerOutputs = $this->activityPowerRepository->findBest();
 
         /** @var \App\Domain\Strava\Activity\Activity $activity */
         foreach ($allActivities as $activity) {
             $activity->enrichWithBestPowerOutputs(
                 $this->activityPowerRepository->findBestForActivity($activity->getId())
             );
+
+            $streams = $this->activityStreamDetailsRepository->findByActivityAndStreamTypes(
+                activityId: $activity->getId(),
+                streamTypes: StreamTypeCollection::fromArray([StreamType::CADENCE])
+            );
+
+            if ($cadenceStream = $streams->getByStreamType(StreamType::CADENCE)) {
+                $activity->enrichWithMaxCadence(max($cadenceStream->getData()));
+            }
 
             try {
                 $ftp = $this->ftpDetailsRepository->find($activity->getStartDate());
@@ -118,12 +135,11 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             }
             $activity->enrichWithAthleteBirthday($athleteBirthday);
 
-            if (!$activity->getGearId()) {
-                continue;
+            if ($activity->getGearId()) {
+                $activity->enrichWithGearName(
+                    $this->gearDetailsRepository->find($activity->getGearId())->getName()
+                );
             }
-            $activity->enrichWithGearName(
-                $this->gearDetailsRepository->find($activity->getGearId())->getName()
-            );
         }
 
         /** @var \App\Domain\Strava\Ftp\Ftp $ftp */
@@ -151,7 +167,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
         $this->filesystem->write(
             'build/html/dashboard.html',
             $this->twig->load('html/dashboard.html.twig')->render([
-                'mostRecentActivities' => array_slice($allActivities->toArray(), 0, 5),
+                'mostRecentActivities' => $allActivities->slice(0, 5),
                 'activityHighlights' => $activityHighlights,
                 'intro' => ActivityTotals::fromActivities(
                     activities: $allActivities,
@@ -165,9 +181,10 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                         ->withAnimation(true)
                         ->withoutBackgroundColor()
                         ->withDataZoom(true)
+                        ->withAverageTimes(true)
                         ->build(),
                 ),
-                'powerOutputs' => $this->activityPowerRepository->findBest(),
+                'powerOutputs' => $bestPowerOutputs,
                 'activityHeatmapChart' => Json::encode(
                     ActivityHeatmapChartBuilder::fromActivities(
                         activities: $allActivities,
@@ -217,12 +234,20 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                     monthlyStatistics: $monthlyStatistics,
                     activities: $allActivities
                 ),
-                'YearlyDistanceChart' => Json::encode(
+                'yearlyDistanceChart' => Json::encode(
                     YearlyDistanceChartBuilder::fromActivities($allActivities, $now)
                         ->withAnimation(true)
                         ->withoutBackgroundColor()
                         ->build()
                 ),
+                'yearlyStatistics' => YearlyStatistics::fromActivities(
+                    activities: $allActivities,
+                    years: $allYears
+                ),
+                'powerOutputChart' => PowerOutputChartBuilder::fromBestPowerOutputs($bestPowerOutputs)
+                    ->withAnimation(true)
+                    ->withoutBackgroundColor()
+                    ->build(),
             ]),
         );
 
@@ -384,15 +409,6 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
 
         $dataDatableRows = [];
         foreach ($allActivities as $activity) {
-            $streams = $this->activityStreamDetailsRepository->findByActivityAndStreamTypes(
-                activityId: $activity->getId(),
-                streamTypes: StreamTypeCollection::fromArray([StreamType::CADENCE])
-            );
-
-            if ($cadenceStream = $streams->getByStreamType(StreamType::CADENCE)) {
-                $activity->enrichWithMaxCadence(max($cadenceStream->getData()));
-            }
-
             $heartRateData = $this->activityHeartRateRepository->findTimeInSecondsPerHeartRateForActivity($activity->getId());
             $powerData = $this->activityPowerRepository->findTimeInSecondsPerWattageForActivity($activity->getId());
             $leafletMap = $activity->getLeafletMap();

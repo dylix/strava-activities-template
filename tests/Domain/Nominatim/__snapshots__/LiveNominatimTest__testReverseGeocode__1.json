@@ -1,7 +1,0 @@
-{
-    "query": {
-        "lat": 80,
-        "lon": 100,
-        "format": "json"
-    }
-}
