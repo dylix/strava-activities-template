@@ -1,0 +1,101 @@
+{
+    "width": 1000,
+    "height": 300,
+    "options": {
+        "animation": false,
+        "backgroundColor": "#ffffff",
+        "color": [
+            "#E34902"
+        ],
+        "grid": {
+            "left": "3%",
+            "right": "4%",
+            "bottom": "3%",
+            "containLabel": true
+        },
+        "legend": null,
+        "dataZoom": [],
+        "xAxis": [
+            {
+                "type": "category",
+                "boundaryGap": false,
+                "axisTick": {
+                    "show": false
+                },
+                "axisLabel": {
+                    "interval": 0
+                },
+                "data": [
+                    "",
+                    "Nov 2023",
+                    "",
+                    "Dec 2023",
+                    "",
+                    "",
+                    "",
+                    "Jan 2024",
+                    "",
+                    "",
+                    ""
+                ],
+                "splitLine": {
+                    "show": true,
+                    "lineStyle": {
+                        "color": "#E0E6F1"
+                    }
+                }
+            }
+        ],
+        "yAxis": [
+            {
+                "type": "value",
+                "splitLine": {
+                    "show": false
+                },
+                "axisLabel": {
+                    "formatter": "{value} km"
+                },
+                "max": 550
+            },
+            []
+        ],
+        "series": [
+            {
+                "type": "line",
+                "smooth": false,
+                "label": {
+                    "show": true,
+                    "rotate": -45,
+                    "formatter": "{@[1]} km"
+                },
+                "lineStyle": {
+                    "width": 1
+                },
+                "symbolSize": 6,
+                "showSymbol": true,
+                "areaStyle": {
+                    "opacity": 0.3,
+                    "color": "rgba(227, 73, 2, 0.3)"
+                },
+                "emphasis": {
+                    "focus": "series"
+                },
+                "name": "Average distance \/ week",
+                "data": [
+                    357,
+                    335,
+                    350,
+                    354,
+                    389,
+                    296,
+                    520,
+                    397,
+                    392,
+                    384,
+                    197
+                ],
+                "yAxisIndex": 0
+            }
+        ]
+    }
+}

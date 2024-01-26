@@ -1,0 +1,471 @@
+<nav class="flex mb-5" aria-label="Breadcrumb">
+    <ol class="inline-flex items-center space-x-1 text-sm font-medium md:space-x-2">
+        <li class="inline-flex items-center">
+            <a href="#" data-router-navigate="dashboard" class="inline-flex items-center text-gray-700 hover:text-primary-600 dark:text-gray-300 dark:hover:text-white hover:underline">
+                <svg class="w-5 h-5 mr-2.5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"></path></svg>
+                Dashboard
+            </a>
+        </li>
+            <li>
+        <div class="flex items-center">
+            <svg class="w-6 h-6 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
+            <a href="#" data-router-navigate="gear-stats" class="ml-1 text-gray-700 hover:text-primary-600 md:ml-2 dark:text-gray-300 dark:hover:text-white">Gear stats</a>
+        </div>
+    </li>
+    </ol>
+</nav>
+            <!-- GEAR STATS -->
+        <div class="grid grid-cols-1 mb-4">
+            <!-- STATS PER GEAR -->
+            <div class="mb-4 p-4 bg-white border border-gray-200 rounded-lg shadow-sm dark:border-gray-700 sm:p-6 dark:bg-gray-800">
+                <h3 class="mb-4 text-lg font-semibold">
+                    Stats per bike
+                </h3>
+                <div class="relative overflow-x-auto">
+                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-2 py-3 sticky left-0 bg-gray-50 dark:bg-gray-700">
+
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                # rides
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="3" stroke="#F26722" fill="none"><path d="M17.94,54.81a.1.1,0,0,1-.14,0c-1-1.11-11.69-13.23-11.69-21.26,0-9.94,6.5-12.24,11.76-12.24,4.84,0,11.06,2.6,11.06,12.24C28.93,41.84,18.87,53.72,17.94,54.81Z"/><circle cx="17.52" cy="31.38" r="4.75"/><path d="M49.58,34.77a.11.11,0,0,1-.15,0c-.87-1-9.19-10.45-9.19-16.74,0-7.84,5.12-9.65,9.27-9.65,3.81,0,8.71,2,8.71,9.65C58.22,24.52,50.4,33.81,49.58,34.77Z"/><circle cx="49.23" cy="17.32" r="3.75"/><path d="M17.87,54.89a28.73,28.73,0,0,0,3.9.89"/><path d="M24.68,56.07c2.79.12,5.85-.28,7.9-2.08,5.8-5.09,2.89-11.25,6.75-14.71a16.72,16.72,0,0,1,4.93-3" stroke-dasharray="7.8 2.92"/><path d="M45.63,35.8a23,23,0,0,1,3.88-.95"/></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" fill="#F26722" viewBox="0 0 32 32"><path d="M 17.011719 3.0214844 L 16.099609 4.6816406 C 13.925337 8.6341175 11.752154 12.584804 9.578125 16.537109 L 7.6621094 14.621094 L 7.0019531 15.71875 C 5.0489841 18.973698 3.0956556 22.230199 1.1425781 25.486328 L 0.234375 27 L 2 27 L 31.517578 27 L 30.919922 25.605469 C 29.919963 23.272564 28.919963 20.938564 27.919922 18.605469 L 27.337891 17.248047 L 25.269531 19.316406 C 22.803333 14.44792 20.334132 9.5793478 17.867188 4.7109375 L 17.011719 3.0214844 z M 16.939453 7.3027344 C 17.952378 9.3017082 18.965829 11.299996 19.978516 13.298828 L 19.205078 13.962891 L 16.925781 12.009766 L 14.646484 13.962891 L 13.716797 13.164062 C 14.791046 11.210336 15.864885 9.2563086 16.939453 7.3027344 z M 16.925781 14.642578 L 19.205078 16.595703 L 20.908203 15.136719 C 21.974522 17.24151 23.041208 19.346257 24.107422 21.451172 L 24.730469 22.683594 L 26.662109 20.751953 C 27.268948 22.167887 27.875558 23.583992 28.482422 25 L 3.765625 25 C 5.1965747 22.614689 6.6276315 20.230552 8.0585938 17.845703 L 10.046875 19.833984 L 10.689453 18.667969 C 11.370357 17.430195 12.051768 16.192896 12.732422 14.955078 L 14.646484 16.595703 L 16.925781 14.642578 z"/></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M12 8V12L15 15" stroke="#F26722" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="9" stroke="#F26722" stroke-width="2"/></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M6.34315 17.6569C5.22433 16.538 4.4624 15.1126 4.15372 13.5607C3.84504 12.0089 4.00346 10.4003 4.60896 8.93853C5.21446 7.47672 6.23984 6.22729 7.55544 5.34824C8.87103 4.46919 10.4177 4 12 4C13.5823 4 15.129 4.46919 16.4446 5.34824C17.7602 6.22729 18.7855 7.47672 19.391 8.93853C19.9965 10.4003 20.155 12.0089 19.8463 13.5607C19.5376 15.1126 18.7757 16.538 17.6569 17.6569" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 12L16 10" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20"><path stroke="#F26722" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.147 15.085a7.159 7.159 0 0 1-6.189 3.307A6.713 6.713 0 0 1 3.1 15.444c-2.679-4.513.287-8.737.888-9.548A4.373 4.373 0 0 0 5 1.608c1.287.953 6.445 3.218 5.537 10.5 1.5-1.122 2.706-3.01 2.853-6.14 1.433 1.049 3.993 5.395 1.757 9.117Z"></path></svg>
+                                </div>
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Canyon Endurace
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    447
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            44<span class="text-xs">km avg</span> /
+                                        19 602<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    163 193<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    3w 4d 13h 59m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    31.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    495 029<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    Lynskey R500
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    78
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            80<span class="text-xs">km avg</span> /
+                                        6 213<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    37 489<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1w 23h 8m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    32.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    167 975<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Stages
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    124
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            47<span class="text-xs">km avg</span> /
+                                        5 771<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    41 045<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    6d 18h 10m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    35.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    113 945<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    Canyon Grail
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    89
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            64<span class="text-xs">km avg</span> /
+                                        5 703<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    49 332<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1w 1d 23h 22m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    26.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    178 485<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Vitus Rapide
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    64
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            35<span class="text-xs">km avg</span> /
+                                        2 244<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    31 577<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    5d 2h 29m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    18.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    78 606<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    Lynskey Pro GR
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    11
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            88<span class="text-xs">km avg</span> /
+                                        969<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    9 646<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1d 14h 12m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    25.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    30 140<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Lynskey Pro29
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    7
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            18<span class="text-xs">km avg</span> /
+                                        123<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    3 215<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    9h 18m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    13.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    5 964<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    Bigfoot
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    2
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            14<span class="text-xs">km avg</span> /
+                                        28<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    582<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    2h 40m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    10.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1 754<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Fuji Roubaix 3 ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    418
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            76<span class="text-xs">km avg</span> /
+                                        31 731<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    133 890<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1mo 2w 2d 21h 14m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    29.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    740 105<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    Trainer ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    191
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            33<span class="text-xs">km avg</span> /
+                                        6 209<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    75 141<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1w 16h 40m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    33.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    145 874<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Schwinn Volare 1300 ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    715
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            8<span class="text-xs">km avg</span> /
+                                        5 883<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    5 347<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1w 3d 4h 31m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    24.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    123 292<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    Trek ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    14
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            40<span class="text-xs">km avg</span> /
+                                        557<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    5 373<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    23h 54m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    23.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    14 339<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Trainer ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    5
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            35<span class="text-xs">km avg</span> /
+                                        177<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    0<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    5h 42m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    31.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1 434<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    POS ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    3
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            42<span class="text-xs">km avg</span> /
+                                        126<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    814<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    5h 55m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    21.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    2 304<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    Projekt ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    7
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            14<span class="text-xs">km avg</span> /
+                                        96<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    135<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    4h 16m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    22.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    1 553<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="px-2 py-2 sticky left-0 font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    Other ☠️
+                                </th>
+                                <td class="px-6 py-2 truncate">
+                                    1
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                                                            12<span class="text-xs">km avg</span> /
+                                        12<span class="text-xs">km total</span>
+                                                                    </td>
+                                <td class="px-6 py-2 truncate">
+                                    13<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    34m
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    20.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-6 py-2 truncate">
+                                    163<span class="text-xs">kcal</span>
+                                </td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- DISTANCE OVER TIME PER BIKE -->
+            <div class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm dark:border-gray-700 sm:p-6 dark:bg-gray-800">
+                <div class="mb-4 flex items-center">
+                    <h3 class="text-lg font-semibold">
+                        Distance over time per bike
+                    </h3>
+                    <button data-popover-target="popover-description" data-popover-placement="right" type="button">
+                        <svg class="w-4 h-4 ml-1 text-gray-400 hover:text-gray-500" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg>
+                        <span class="sr-only">Show information</span>
+                    </button>
+                    <div data-popover id="popover-description" role="tooltip" class="w-[200px] lg:w-[450px] absolute z-[100] invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-400">
+                        <p class="p-3">
+                            Gear that is <span class="font-bold">retired</span> or that hasn't been used in the last <span class="font-bold">three months</span>, is disabled by default.
+                        </p>
+                    </div>
+                </div>
+                <div class="relative overflow-x-auto">
+                    <div class="h-[32rem]" data-echarts-options='{"backgroundColor":"#ffffff","animation":true,"color":["#91cc75","#fac858","#ee6666","#73c0de","#3ba272","#fc8452","#9a60b4","#ea7ccc"],"grid":{"left":"3%","right":"4%","bottom":"50px","containLabel":true},"tooltip":{"trigger":"axis","axisPointer":{"type":"none"}},"legend":{"selected":{"Canyon Endurace":true,"Lynskey R500":true,"Stages":true,"Canyon Grail":true,"Vitus Rapide":false,"Lynskey Pro GR":true,"Lynskey Pro29":true,"Bigfoot":true,"Fuji Roubaix 3 \u2620\ufe0f":false,"Trainer \u2620\ufe0f":false,"Schwinn Volare 1300 \u2620\ufe0f":false,"Trek \u2620\ufe0f":false,"POS \u2620\ufe0f":false,"Projekt \u2620\ufe0f":false,"Other \u2620\ufe0f":false}},"xAxis":[{"type":"category","axisTick":{"show":false},"data":["December 2014","January 2015","February 2015","March 2015","April 2015","May 2015","June 2015","July 2015","August 2015","September 2015","October 2015","November 2015","December 2015","January 2016","February 2016","March 2016","April 2016","May 2016","June 2016","July 2016","August 2016","September 2016","October 2016","November 2016","December 2016","January 2017","February 2017","March 2017","April 2017","May 2017","June 2017","July 2017","August 2017","September 2017","October 2017","November 2017","December 2017","January 2018","February 2018","March 2018","April 2018","May 2018","June 2018","July 2018","August 2018","September 2018","October 2018","November 2018","December 2018","January 2019","February 2019","March 2019","April 2019","May 2019","June 2019","July 2019","August 2019","September 2019","October 2019","November 2019","December 2019","January 2020","February 2020","March 2020","April 2020","May 2020","June 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020","January 2021","February 2021","March 2021","April 2021","May 2021","June 2021","July 2021","August 2021","September 2021","October 2021","November 2021","December 2021","January 2022","February 2022","March 2022","April 2022","May 2022","June 2022","July 2022","August 2022","September 2022","October 2022","November 2022","December 2022","January 2023","February 2023","March 2023","April 2023","May 2023","June 2023","July 2023","August 2023","September 2023","October 2023","November 2023","December 2023","January 2024"]}],"yAxis":[{"type":"value"}],"dataZoom":[{"type":"inside","startValue":106,"endValue":110,"minValueSpan":4,"maxValueSpan":4,"brushSelect":false,"zoomLock":true},[]],"series":[{"name":"Canyon Endurace","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,224,263,663,839,895,810,662,726,705,722,532,770,587,525,273,489,401,202,57,162,132,477,631,817,675,1650,482,43,43,579,1531,1133,324,73,123,0,8,6,0,21,0,0,222,126]},{"name":"Lynskey R500","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,567,497,0,0,76,0,72,722,60,387,1363,137,0,2051,207,75,0]},{"name":"Stages","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1305,1043,218,12,68,0,0,126,76,756,1020,1146]},{"name":"Canyon Grail","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137,220,0,37,131,423,425,303,113,74,207,96,178,153,260,346,0,755,479,229,80,108,231,218,0,81,0,0,0,0,0,0,54,293,71]},{"name":"Vitus Rapide","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,317,233,95,55,34,85,56,0,29,12,0,207,23,217,95,62,41,0,0,0,47,0,67,219,0,202,63,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"Lynskey Pro GR","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,253,361,190,0,0,0,0,77,0,0]},{"name":"Lynskey Pro29","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,15,42,33,0,0,0,23,0,0]},{"name":"Bigfoot","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28]},{"name":"Fuji Roubaix 3 \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,547,908,1314,1039,1400,1484,1110,507,174,0,0,0,0,1092,797,1246,506,1205,987,1225,549,90,0,517,1780,1638,1895,954,1353,1065,452,0,0,0,0,0,1030,1647,773,431,286,555,190,585,103,0,195,21,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"Trainer \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,263,484,588,488,679,540,696,524,252,0,13,260,655,705,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"Schwinn Volare 1300 \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[68,1099,485,180,36,13,13,0,0,0,63,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,31,24,55,45,15,0,0,0,0,0,0,0,0,119,61,202,280,342,292,277,312,314,188,226,282,143,167,164,175,22,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"Trek \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,374,82,5,7,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"Trainer \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"POS \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"Projekt \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,4,65,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},{"name":"Other \u2620\ufe0f","type":"bar","barGap":0,"emphasis":{"focus":"series"},"label":{"show":true,"position":"insideBottom","verticalAlign":"middle","align":"left","color":"#000","rotate":90,"distance":15,"formatter":"{distance|{c} km} - {a}","rich":{"distance":{"fontSize":14,"fontWeight":"bold"}}},"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}]}'></div>
+                </div>
+            </div>
+        </div>
+    

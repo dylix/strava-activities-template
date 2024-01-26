@@ -1,0 +1,2456 @@
+<nav class="flex mb-5" aria-label="Breadcrumb">
+    <ol class="inline-flex items-center space-x-1 text-sm font-medium md:space-x-2">
+        <li class="inline-flex items-center">
+            <a href="#" data-router-navigate="dashboard" class="inline-flex items-center text-gray-700 hover:text-primary-600 dark:text-gray-300 dark:hover:text-white hover:underline">
+                <svg class="w-5 h-5 mr-2.5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"></path></svg>
+                Dashboard
+            </a>
+        </li>
+            <li>
+        <div class="flex items-center">
+            <svg class="w-6 h-6 text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
+            <a href="#" data-router-navigate="monthly-stats" class="ml-1 text-gray-700 hover:text-primary-600 md:ml-2 dark:text-gray-300 dark:hover:text-white">Monthly stats</a>
+        </div>
+    </li>
+    </ol>
+</nav>
+            <!-- MONTHLY STATS -->
+        <div class="grid grid-cols-1 mb-4">
+            <div class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm dark:border-gray-700 sm:p-6 dark:bg-gray-800">
+                <div class="relative overflow-x-auto">
+                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-2 py-3 sticky left-0 bg-gray-50 dark:bg-gray-700">
+
+                            </th>
+                            <th scope="col" class="px-2 py-3">
+                                # rides
+                            </th>
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="3" stroke="#F26722" fill="none"><path d="M17.94,54.81a.1.1,0,0,1-.14,0c-1-1.11-11.69-13.23-11.69-21.26,0-9.94,6.5-12.24,11.76-12.24,4.84,0,11.06,2.6,11.06,12.24C28.93,41.84,18.87,53.72,17.94,54.81Z"/><circle cx="17.52" cy="31.38" r="4.75"/><path d="M49.58,34.77a.11.11,0,0,1-.15,0c-.87-1-9.19-10.45-9.19-16.74,0-7.84,5.12-9.65,9.27-9.65,3.81,0,8.71,2,8.71,9.65C58.22,24.52,50.4,33.81,49.58,34.77Z"/><circle cx="49.23" cy="17.32" r="3.75"/><path d="M17.87,54.89a28.73,28.73,0,0,0,3.9.89"/><path d="M24.68,56.07c2.79.12,5.85-.28,7.9-2.08,5.8-5.09,2.89-11.25,6.75-14.71a16.72,16.72,0,0,1,4.93-3" stroke-dasharray="7.8 2.92"/><path d="M45.63,35.8a23,23,0,0,1,3.88-.95"/></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" fill="#F26722" viewBox="0 0 32 32"><path d="M 17.011719 3.0214844 L 16.099609 4.6816406 C 13.925337 8.6341175 11.752154 12.584804 9.578125 16.537109 L 7.6621094 14.621094 L 7.0019531 15.71875 C 5.0489841 18.973698 3.0956556 22.230199 1.1425781 25.486328 L 0.234375 27 L 2 27 L 31.517578 27 L 30.919922 25.605469 C 29.919963 23.272564 28.919963 20.938564 27.919922 18.605469 L 27.337891 17.248047 L 25.269531 19.316406 C 22.803333 14.44792 20.334132 9.5793478 17.867188 4.7109375 L 17.011719 3.0214844 z M 16.939453 7.3027344 C 17.952378 9.3017082 18.965829 11.299996 19.978516 13.298828 L 19.205078 13.962891 L 16.925781 12.009766 L 14.646484 13.962891 L 13.716797 13.164062 C 14.791046 11.210336 15.864885 9.2563086 16.939453 7.3027344 z M 16.925781 14.642578 L 19.205078 16.595703 L 20.908203 15.136719 C 21.974522 17.24151 23.041208 19.346257 24.107422 21.451172 L 24.730469 22.683594 L 26.662109 20.751953 C 27.268948 22.167887 27.875558 23.583992 28.482422 25 L 3.765625 25 C 5.1965747 22.614689 6.6276315 20.230552 8.0585938 17.845703 L 10.046875 19.833984 L 10.689453 18.667969 C 11.370357 17.430195 12.051768 16.192896 12.732422 14.955078 L 14.646484 16.595703 L 16.925781 14.642578 z"/></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M12 8V12L15 15" stroke="#F26722" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="9" stroke="#F26722" stroke-width="2"/></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20"><path stroke="#F26722" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.147 15.085a7.159 7.159 0 0 1-6.189 3.307A6.713 6.713 0 0 1 3.1 15.444c-2.679-4.513.287-8.737.888-9.548A4.373 4.373 0 0 0 5 1.608c1.287.953 6.445 3.218 5.537 10.5 1.5-1.122 2.706-3.01 2.853-6.14 1.433 1.049 3.993 5.395 1.757 9.117Z"></path></svg>
+                                </div>
+                            </th>
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M19 9C19 10.45 18.57 11.78 17.83 12.89C16.75 14.49 15.04 15.62 13.05 15.91C12.71 15.97 12.36 16 12 16C11.64 16 11.29 15.97 10.95 15.91C8.96 15.62 7.25 14.49 6.17 12.89C5.43 11.78 5 10.45 5 9C5 5.13 8.13 2 12 2C15.87 2 19 5.13 19 9Z" stroke="#F26722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M21.25 18.47L19.6 18.86C19.23 18.95 18.94 19.23 18.86 19.6L18.51 21.07C18.32 21.87 17.3 22.11 16.77 21.48L12 16L7.22996 21.49C6.69996 22.12 5.67996 21.88 5.48996 21.08L5.13996 19.61C5.04996 19.24 4.75996 18.95 4.39996 18.87L2.74996 18.48C1.98996 18.3 1.71996 17.35 2.26996 16.8L6.16996 12.9C7.24996 14.5 8.95996 15.63 10.95 15.92C11.29 15.98 11.64 16.01 12 16.01C12.36 16.01 12.71 15.98 13.05 15.92C15.04 15.63 16.75 14.5 17.83 12.9L21.73 16.8C22.28 17.34 22.01 18.29 21.25 18.47Z" stroke="#F26722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M12.58 5.98L13.17 7.15999C13.25 7.31999 13.46 7.48 13.65 7.51L14.72 7.68999C15.4 7.79999 15.56 8.3 15.07 8.79L14.24 9.61998C14.1 9.75998 14.02 10.03 14.07 10.23L14.31 11.26C14.5 12.07 14.07 12.39 13.35 11.96L12.35 11.37C12.17 11.26 11.87 11.26 11.69 11.37L10.69 11.96C9.96997 12.38 9.53997 12.07 9.72997 11.26L9.96997 10.23C10.01 10.04 9.93997 9.75998 9.79997 9.61998L8.96997 8.79C8.47997 8.3 8.63997 7.80999 9.31997 7.68999L10.39 7.51C10.57 7.48 10.78 7.31999 10.86 7.15999L11.45 5.98C11.74 5.34 12.26 5.34 12.58 5.98Z" stroke="#F26722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                </div>
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2024-01.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        January 2024
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    28
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 371<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 588<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 17h 36m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    29 936<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2023-12.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        December 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    24
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 610<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 112<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 1h 29m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    37 410<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2023-11.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        November 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    22
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 117<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 807<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 11h 21m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    25 067<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2023-10.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        October 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 127<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6 243<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 17h 4m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    51 914<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    16
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2023-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    7
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    147<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    367<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4h 15m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 199<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2023-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    137<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 510<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4h 21m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4 054<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2023-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    21
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 402<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 785<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 21h 26m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    39 679<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2023-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    13
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    695<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 065<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 2h 57m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    20 299<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    11
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2023-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    7
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    447<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    5 413<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    17h 53m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14 595<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    8
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2023-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 407<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12 515<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 21h 43m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    40 399<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2023-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    33
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 188<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 964<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 11h 40m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    25 227<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2023-02.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        February 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    33
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 847<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    11 400<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 1h 53m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    40 606<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2023-01.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        January 2023
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    37
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 528<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12 855<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 21h 5m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    36 315<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    11
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2022-12.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        December 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    41
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 639<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 953<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 20h 45m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    35 180<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2022-11.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        November 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    31
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 364<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 122<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 13h 40m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    30 674<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2022-10.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        October 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    33
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 507<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13 478<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 32m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    40 418<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    20
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2022-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    21
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 411<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13 425<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 22h 13m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    40 237<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    15
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2022-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 452<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13 761<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 4h 44m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    45 152<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    17
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2022-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 650<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    8 691<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 42m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    46 163<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    26
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2022-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    35
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 493<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13 029<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 5h 34m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    43 570<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    31
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2022-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    36
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 667<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    15 806<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 6h 59m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    46 074<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    29
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2022-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    34
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 480<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14 034<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 21h 10m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    39 087<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2022-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    28
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 242<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12 808<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 15h 10m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    34 947<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2022-02.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        February 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    25
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    908<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12 577<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 4h 10m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    24 494<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2022-01.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        January 2022
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    20
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    857<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 388<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 3h 16m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    23 370<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    17
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2021-12.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        December 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    19
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    718<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 265<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22h 48m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18 966<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    8
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2021-11.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        November 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    20
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    840<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 639<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 3h 48m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22 752<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2021-10.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        October 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    22
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 029<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 925<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 11h 25m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    30 114<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2021-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    18
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 071<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 321<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 15h 11m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    31 671<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2021-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    16
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    914<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 583<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 13h 52m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    29 605<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    17
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2021-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    16
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    679<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3 253<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22h 35m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18 471<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2021-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    22
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    831<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 010<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 4h 15m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    21 491<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2021-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    770<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6 909<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22h 35m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    17 915<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2021-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    18
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    764<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 238<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 3h 21m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    20 094<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2021-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    888<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 867<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 8h 14m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22 598<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2021-02.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        February 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    20
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    705<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6 635<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    21h 23m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    16 086<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2021-01.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        January 2021
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    25
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    783<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    8 003<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 1h 53m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18 684<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2020-12.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        December 2020
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    22
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    747<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6 054<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 1h 5m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18 132<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2020-11.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        November 2020
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    24
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    845<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 643<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 3h 50m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    20 236<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2020-10.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        October 2020
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    30
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    950<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14 053<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 9h 19m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    23 987<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2020-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2020
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    21
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    934<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 695<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 11h 40m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22 643<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2020-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2020
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    26
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    895<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 309<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 15h 33m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    23 321<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2020-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2020
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    19
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    580<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    8 032<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 7h 45m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18 300<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2020-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2020
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    9
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    315<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 903<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    15h 26m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 944<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2019-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    93<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    50<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2019-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    4
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    57m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    620<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2019-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    28
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    175<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    111<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7h 4m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4 097<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2019-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    26
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    164<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    129<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6h 49m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4 019<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2019-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    25
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    167<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    128<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6h 32m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4 584<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2019-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    21
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    228<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    353<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    8h 16m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    5 356<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2019-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    43
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    282<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    233<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    11h 2m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6 558<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2019-02.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        February 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    33
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    248<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    294<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9h 49m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    6 518<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2019-01.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        January 2019
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    30
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    383<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    720<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13h 44m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 570<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2018-12.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        December 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    49
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    314<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    315<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12h 46m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 909<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2018-11.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        November 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    50
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    415<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    588<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    15h 38m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 276<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2018-10.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        October 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    51
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    862<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 298<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 5h 6m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    19 225<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2018-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    50
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    482<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    690<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    17h 13m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 666<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2018-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    56
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    896<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 486<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 7h 18m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    19 078<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2018-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    46
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    566<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 268<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    20h 20m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13 108<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2018-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    29
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    633<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 542<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    21h 31m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14 684<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2018-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    835<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 750<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 2h 33m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    19 794<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2018-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    47
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 765<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4 865<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 9h 24m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    41 482<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2018-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2018
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    12
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 030<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 988<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 8h 46m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    22 640<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2017-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    10
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    452<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 842<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14h 47m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    11 126<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2017-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    15
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 065<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 900<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 11h 12m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    24 102<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2017-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    16
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 368<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 707<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 18h 35m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    28 499<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2017-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    16
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    998<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3 439<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 8h 17m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    24 532<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2017-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    26
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 950<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    5 550<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 16h 7m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    46 867<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2017-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    21
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 662<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3 707<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 7h
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    38 393<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2017-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 823<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    4 362<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 13h 46m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    43 829<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2017-02.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        February 2017
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    14
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    644<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 387<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    23h 53m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14 209<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2016-12.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        December 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    90<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    844<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3h 19m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 312<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2016-11.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        November 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    6
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    549<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3 830<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    19h 49m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13 913<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2016-10.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        October 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    13
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 225<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12 817<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 21h
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    34 148<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2016-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    10
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    987<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    8 812<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 13h 9m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    25 708<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2016-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    14
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 205<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    10 500<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 20h 49m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    29 961<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2016-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    11
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    652<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    5 546<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 32m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    16 182<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2016-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    14
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 253<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    12 923<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 23m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    31 492<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2016-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    14
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    801<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 147<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 5h 51m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    20 644<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2016-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    18
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 174<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    13 252<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 22h 32m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    28 799<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2016-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2016
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    9
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    374<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3 516<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    16h 51m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9 685<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2015-11.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        November 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    28
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    256<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    513<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    9h 31m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    5 607<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2015-10.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        October 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    35
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    569<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 485<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    19h 18m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14 431<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2015-09.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        September 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    16
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 175<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 650<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 14h 36m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    26 501<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2015-08.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        August 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    26
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 488<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3 070<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 42m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    33 528<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2015-07.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        July 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    22
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 400<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 829<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 21h 40m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    28 876<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2015-06.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        June 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    23
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 052<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 373<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 10h 54m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    21 398<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2015-05.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        May 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    20
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 327<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 449<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 22h 37m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    25 732<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2015-04.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        April 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    16
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    944<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2 082<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 9h 7m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    18 142<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2015-03.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        March 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    26
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    727<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    535<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1d 4h 14m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    14 314<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2015-02.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        February 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    38
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    485<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    206<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    20h 45m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    7 640<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-gray-50 dark:bg-gray-800">
+                                    <a href="#" data-model-content-url="month/month-2015-01.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        January 2015
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    29
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1 221<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    589<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    2d 4h 21m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    19 118<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    1
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <th scope="row" class="sticky left-0 w-36 px-2 py-2 text-right font-medium text-gray-900 whitespace-nowrap dark:text-white bg-white dark:bg-gray-900">
+                                    <a href="#" data-model-content-url="month/month-2014-12.html" class="text-blue-600 dark:text-blue-500 hover:underline">
+                                        December 2014
+                                    </a>
+                                </th>
+                                <td class="px-2 py-2 truncate">
+                                    6
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    68<span class="text-xs">km</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    32<span class="text-xs">m</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    3h 6m
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    964<span class="text-xs">kcal</span>
+                                </td>
+                                <td class="px-2 py-2 truncate">
+                                    0
+                                </td>
+                            </tr>
+                                                </tbody>
+                        <tfoot>
+                        <tr class="font-semibold text-gray-900 dark:text-white border-t-4 dark:border-gray-700">
+                            <td class="px-2 py-2 text-right sticky left-0 bg-white dark:bg-gray-800">
+                                Virtual/Indoor
+                            </td>
+                            <td class="px-2 py-2">
+                                576
+                            </td>
+                            <td class="px-2 py-2">
+                                20 957<span class="text-xs">km</span>
+                            </td>
+                            <td class="px-2 py-2">
+                                204 262<span class="text-xs">m</span>
+                            </td>
+                            <td class="px-2 py-2">
+                                3w 4d 11h 55m
+                            </td>
+                            <td class="px-2 py-2">
+                                461 403<span class="text-xs">kcal</span>
+                            </td>
+                            <td class="px-2 py-2">
+                            </td>
+                        </tr>
+                        <tr class="font-semibold text-gray-900 dark:text-white">
+                            <td class="px-2 py-2 text-right sticky left-0 bg-white dark:bg-gray-800">
+                                Outside
+                            </td>
+                            <td class="px-2 py-2">
+                                1600
+                            </td>
+                            <td class="px-2 py-2">
+                                64 453<span class="text-xs">km</span>
+                            </td>
+                            <td class="px-2 py-2">
+                                352 530<span class="text-xs">m</span>
+                            </td>
+                            <td class="px-2 py-2">
+                                3mos 1w 4d 10h 17m
+                            </td>
+                            <td class="px-2 py-2">
+                                1 639 559<span class="text-xs">kcal</span>
+                            </td>
+                            <td class="px-2 py-2">
+                            </td>
+                        </tr>
+                        <tr class="font-semibold text-gray-900 dark:text-white">
+                            <td class="px-2 py-2 text-right sticky left-0 bg-white dark:bg-gray-800">
+                                Total
+                            </td>
+                            <td class="px-2 py-2">
+                                2176
+                            </td>
+                            <td class="px-2 py-2">
+                                85 410<span class="text-xs">km</span>
+                            </td>
+                            <td class="px-2 py-2">
+                                556 792<span class="text-xs">m</span>
+                            </td>
+                            <td class="px-2 py-2">
+                                4mos 1w 1d 22h 12m
+                            </td>
+                            <td class="px-2 py-2">
+                                2 100 962<span class="text-xs">kcal</span>
+                            </td>
+                            <td class="px-2 py-2">
+                            </td>
+                        </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    
