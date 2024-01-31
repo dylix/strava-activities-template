@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>31-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Elevation Gainz Train" title="The Elevation Gainz Train"/>
+<a href="https://www.strava.com/activities/10668868971" title="Kcal: 445 | Gear: None ">The Elevation Gainz Train</a>
+            </td>
+            <td align="center">24 <sup><sub>km</sub></sup></td>
+            <td align="center">66 <sup><sub>m</sub></sup></td>
+            <td align="center">37:01</td>
+            <td align="center">210 <sup><sub>w</sub></sup></td>
+            <td align="center">39.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
+            <td>31-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Elevation Gainz Train" title="The Elevation Gainz Train"/>
+<a href="https://www.strava.com/activities/10668565165" title="Kcal: 347 | Gear: None ">The Elevation Gainz Train</a>
+            </td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">192 <sup><sub>m</sub></sup></td>
+            <td align="center">26:23</td>
+            <td align="center">229 <sup><sub>w</sub></sup></td>
+            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
+            <td>30-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Time Warp" title="The Time Warp"/>
+<a href="https://www.strava.com/activities/10663663737" title="Kcal: 3160 | Gear: None ">The Time Warp</a>
+            </td>
+            <td align="center">113 <sup><sub>km</sub></sup></td>
+            <td align="center">1 009 <sup><sub>m</sub></sup></td>
+            <td align="center">3:24:05</td>
+            <td align="center">234 <sup><sub>w</sub></sup></td>
+            <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">168</td>
+        </tr>
+            <tr>
             <td>28-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Great Banana Ride" title="The Great Banana Ride"/>
@@ -34,45 +73,6 @@
             <td align="center">253 <sup><sub>w</sub></sup></td>
             <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>26-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The 15-Mile Virtual Rollercoaster" title="The 15-Mile Virtual Rollercoaster"/>
-<a href="https://www.strava.com/activities/10635051277" title="Kcal: 445 | Gear: None ">The 15-Mile Virtual Roller...</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">117 <sup><sub>m</sub></sup></td>
-            <td align="center">38:06</td>
-            <td align="center">196 <sup><sub>w</sub></sup></td>
-            <td align="center">38.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">141</td>
-        </tr>
-            <tr>
-            <td>25-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Banana Split Ride" title="The Banana Split Ride"/>
-<a href="https://www.strava.com/activities/10627421522" title="Kcal: 1523 | Gear: None ">The Banana Split Ride</a>
-            </td>
-            <td align="center">78 <sup><sub>km</sub></sup></td>
-            <td align="center">472 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:50</td>
-            <td align="center">215 <sup><sub>w</sub></sup></td>
-            <td align="center">37.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>24-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="3261 feet" title="3261 feet"/>
-<a href="https://www.strava.com/activities/10620924261" title="Kcal: 1269 | Gear: None ">3261 feet</a>
-            </td>
-            <td align="center">49 <sup><sub>km</sub></sup></td>
-            <td align="center">994 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:53</td>
-            <td align="center">177 <sup><sub>w</sub></sup></td>
-            <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
