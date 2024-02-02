@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Ups and Downs of Life" title="The Ups and Downs of Life"/>
+<a href="https://www.strava.com/activities/10681528641" title="Kcal: 1550 | Gear: None ">The Ups and Downs of Life</a>
+            </td>
+            <td align="center">75 <sup><sub>km</sub></sup></td>
+            <td align="center">589 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:38</td>
+            <td align="center">224 <sup><sub>w</sub></sup></td>
+            <td align="center">37.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">150</td>
+        </tr>
+            <tr>
+            <td>01-02-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Just out moseying around" title="Just out moseying around"/>
+<a href="https://www.strava.com/activities/10676747187" title="Kcal: 1776 | Gear: None ">Just out moseying around</a>
+            </td>
+            <td align="center">56 <sup><sub>km</sub></sup></td>
+            <td align="center">503 <sup><sub>m</sub></sup></td>
+            <td align="center">2:06:18</td>
+            <td align="center">211 <sup><sub>w</sub></sup></td>
+            <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
             <td>31-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Elevation Gainz Train" title="The Elevation Gainz Train"/>
@@ -47,32 +73,6 @@
             <td align="center">234 <sup><sub>w</sub></sup></td>
             <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">168</td>
-        </tr>
-            <tr>
-            <td>28-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Great Banana Ride" title="The Great Banana Ride"/>
-<a href="https://www.strava.com/activities/10648199460" title="Kcal: 1551 | Gear: None ">The Great Banana Ride</a>
-            </td>
-            <td align="center">81 <sup><sub>km</sub></sup></td>
-            <td align="center">482 <sup><sub>m</sub></sup></td>
-            <td align="center">2:01:29</td>
-            <td align="center">222 <sup><sub>w</sub></sup></td>
-            <td align="center">39.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>27-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The 40-Mile Smile" title="The 40-Mile Smile"/>
-<a href="https://www.strava.com/activities/10641276686" title="Kcal: 1746 | Gear: None ">The 40-Mile Smile</a>
-            </td>
-            <td align="center">65 <sup><sub>km</sub></sup></td>
-            <td align="center">1 131 <sup><sub>m</sub></sup></td>
-            <td align="center">2:00:18</td>
-            <td align="center">253 <sup><sub>w</sub></sup></td>
-            <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">161</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
