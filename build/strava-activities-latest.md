@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Banana Peel Grand Prix: 26 Miles of Slippery Speed" title="Banana Peel Grand Prix: 26 Miles of Slippery Speed"/>
+<a href="https://www.strava.com/activities/10715563187" title="Kcal: 684 | Gear: None ">Banana Peel Grand Prix: 26...</a>
+            </td>
+            <td align="center">42 <sup><sub>km</sub></sup></td>
+            <td align="center">221 <sup><sub>m</sub></sup></td>
+            <td align="center">1:07:11</td>
+            <td align="center">177 <sup><sub>w</sub></sup></td>
+            <td align="center">37.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">129</td>
+        </tr>
+            <tr>
+            <td>06-02-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Banana Blitz: 41 Miles, 138 Minutes, and 875 Feet of Elevation – Peel the Burn!" title="Banana Blitz: 41 Miles, 138 Minutes, and 875 Feet of Elevation – Peel the Burn!"/>
+<a href="https://www.strava.com/activities/10710543149" title="Kcal: 1884 | Gear: None ">Banana Blitz: 41 Miles, 13...</a>
+            </td>
+            <td align="center">67 <sup><sub>km</sub></sup></td>
+            <td align="center">267 <sup><sub>m</sub></sup></td>
+            <td align="center">2:18:39</td>
+            <td align="center">202 <sup><sub>w</sub></sup></td>
+            <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">151</td>
+        </tr>
+            <tr>
             <td>04-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Lumberjerk" title="Lumberjerk"/>
@@ -47,32 +73,6 @@
             <td align="center">224 <sup><sub>w</sub></sup></td>
             <td align="center">37.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">150</td>
-        </tr>
-            <tr>
-            <td>01-02-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Just out moseying around" title="Just out moseying around"/>
-<a href="https://www.strava.com/activities/10676747187" title="Kcal: 1776 | Gear: None ">Just out moseying around</a>
-            </td>
-            <td align="center">56 <sup><sub>km</sub></sup></td>
-            <td align="center">503 <sup><sub>m</sub></sup></td>
-            <td align="center">2:06:18</td>
-            <td align="center">211 <sup><sub>w</sub></sup></td>
-            <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">153</td>
-        </tr>
-            <tr>
-            <td>31-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Elevation Gainz Train" title="The Elevation Gainz Train"/>
-<a href="https://www.strava.com/activities/10668868971" title="Kcal: 445 | Gear: None ">The Elevation Gainz Train</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">66 <sup><sub>m</sub></sup></td>
-            <td align="center">37:01</td>
-            <td align="center">210 <sup><sub>w</sub></sup></td>
-            <td align="center">39.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
