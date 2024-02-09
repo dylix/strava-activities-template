@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="From Sunburn to Splashdown: A Banana-Powered Odyssey" title="From Sunburn to Splashdown: A Banana-Powered Odyssey"/>
+<a href="https://www.strava.com/activities/10728534930" title="Kcal: 999 | Gear: None ">From Sunburn to Splashdown...</a>
+            </td>
+            <td align="center">58 <sup><sub>km</sub></sup></td>
+            <td align="center">351 <sup><sub>m</sub></sup></td>
+            <td align="center">1:37:16</td>
+            <td align="center">179 <sup><sub>w</sub></sup></td>
+            <td align="center">36 <sup><sub>km/h</sub></sup></td>
+            <td align="center">133</td>
+        </tr>
+            <tr>
+            <td>08-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="What a ridiculously ugly jersey, I LOVE IT! ❤️" title="What a ridiculously ugly jersey, I LOVE IT! ❤️"/>
+<a href="https://www.strava.com/activities/10723270638" title="Kcal: 1597 | Gear: None ">What a ridiculously ugly j...</a>
+            </td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">387 <sup><sub>m</sub></sup></td>
+            <td align="center">1:50:27</td>
+            <td align="center">250 <sup><sub>w</sub></sup></td>
+            <td align="center">39.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">165</td>
+        </tr>
+            <tr>
             <td>08-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Banana Peel Grand Prix" title="Banana Peel Grand Prix"/>
@@ -47,32 +73,6 @@
             <td align="center">202 <sup><sub>w</sub></sup></td>
             <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">151</td>
-        </tr>
-            <tr>
-            <td>04-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Lumberjerk" title="Lumberjerk"/>
-<a href="https://www.strava.com/activities/10697821215" title="Kcal: 1649 | Gear: None ">Lumberjerk</a>
-            </td>
-            <td align="center">59 <sup><sub>km</sub></sup></td>
-            <td align="center">1 220 <sup><sub>m</sub></sup></td>
-            <td align="center">2:05:14</td>
-            <td align="center">230 <sup><sub>w</sub></sup></td>
-            <td align="center">28 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>03-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Banana Split Ride" title="The Banana Split Ride"/>
-<a href="https://www.strava.com/activities/10689313130" title="Kcal: 1397 | Gear: None ">The Banana Split Ride</a>
-            </td>
-            <td align="center">74 <sup><sub>km</sub></sup></td>
-            <td align="center">434 <sup><sub>m</sub></sup></td>
-            <td align="center">2:01:41</td>
-            <td align="center">200 <sup><sub>w</sub></sup></td>
-            <td align="center">36.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
