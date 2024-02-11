@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-02-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Thompson Park 💩💩💩 Show" title="Thompson Park 💩💩💩 Show"/>
+<a href="https://www.strava.com/activities/10736692069" title="Kcal: 1007 | Gear: None ">Thompson Park 💩💩💩 Show...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">196 <sup><sub>m</sub></sup></td>
+            <td align="center">1:37:14</td>
+            <td align="center">153 <sup><sub>w</sub></sup></td>
+            <td align="center">9.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
             <td>09-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="From Sunburn to Splashdown: A Banana-Powered Odyssey" title="From Sunburn to Splashdown: A Banana-Powered Odyssey"/>
@@ -60,19 +73,6 @@
             <td align="center">177 <sup><sub>w</sub></sup></td>
             <td align="center">37.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">129</td>
-        </tr>
-            <tr>
-            <td>06-02-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Banana Blitz: 41 Miles, 138 Minutes, and 875 Feet of Elevation – Peel the Burn!" title="Banana Blitz: 41 Miles, 138 Minutes, and 875 Feet of Elevation – Peel the Burn!"/>
-<a href="https://www.strava.com/activities/10710543149" title="Kcal: 1884 | Gear: None ">Banana Blitz: 41 Miles, 13...</a>
-            </td>
-            <td align="center">67 <sup><sub>km</sub></sup></td>
-            <td align="center">267 <sup><sub>m</sub></sup></td>
-            <td align="center">2:18:39</td>
-            <td align="center">202 <sup><sub>w</sub></sup></td>
-            <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
