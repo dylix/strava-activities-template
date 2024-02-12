@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-02-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Trails weren’t packed, so took a detour up 242. Freshly groomed, it was pure heaven." title="Trails weren’t packed, so took a detour up 242. Freshly groomed, it was pure heaven."/>
+<a href="https://www.strava.com/activities/10743376894" title="Kcal: 1866 | Gear: None ">Trails weren’t packed, so ...</a>
+            </td>
+            <td align="center">36 <sup><sub>km</sub></sup></td>
+            <td align="center">635 <sup><sub>m</sub></sup></td>
+            <td align="center">2:26:13</td>
+            <td align="center">190 <sup><sub>w</sub></sup></td>
+            <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">158</td>
+        </tr>
+            <tr>
             <td>10-02-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Thompson Park 💩💩💩 Show" title="Thompson Park 💩💩💩 Show"/>
@@ -60,19 +73,6 @@
             <td align="center">211 <sup><sub>w</sub></sup></td>
             <td align="center">38.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">143</td>
-        </tr>
-            <tr>
-            <td>07-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Banana Peel Grand Prix: 26 Miles of Slippery Speed" title="Banana Peel Grand Prix: 26 Miles of Slippery Speed"/>
-<a href="https://www.strava.com/activities/10715563187" title="Kcal: 684 | Gear: None ">Banana Peel Grand Prix: 26...</a>
-            </td>
-            <td align="center">42 <sup><sub>km</sub></sup></td>
-            <td align="center">221 <sup><sub>m</sub></sup></td>
-            <td align="center">1:07:11</td>
-            <td align="center">177 <sup><sub>w</sub></sup></td>
-            <td align="center">37.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">129</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
