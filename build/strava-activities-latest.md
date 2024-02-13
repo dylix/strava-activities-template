@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Banana Peel Grand Prix: 46 Miles of Slippery Elevation" title="Banana Peel Grand Prix: 46 Miles of Slippery Elevation"/>
+<a href="https://www.strava.com/activities/10754285850" title="Kcal: 1706 | Gear: None ">Banana Peel Grand Prix: 46...</a>
+            </td>
+            <td align="center">75 <sup><sub>km</sub></sup></td>
+            <td align="center">528 <sup><sub>m</sub></sup></td>
+            <td align="center">2:01:13</td>
+            <td align="center">245 <sup><sub>w</sub></sup></td>
+            <td align="center">37 <sup><sub>km/h</sub></sup></td>
+            <td align="center">161</td>
+        </tr>
+            <tr>
             <td>11-02-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Trails weren’t packed, so took a detour up 242. Freshly groomed, it was pure heaven." title="Trails weren’t packed, so took a detour up 242. Freshly groomed, it was pure heaven."/>
@@ -60,19 +73,6 @@
             <td align="center">250 <sup><sub>w</sub></sup></td>
             <td align="center">39.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">165</td>
-        </tr>
-            <tr>
-            <td>08-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Banana Peel Grand Prix" title="Banana Peel Grand Prix"/>
-<a href="https://www.strava.com/activities/10722542268" title="Kcal: 129 | Gear: None ">Banana Peel Grand Prix</a>
-            </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">46 <sup><sub>m</sub></sup></td>
-            <td align="center">10:32</td>
-            <td align="center">211 <sup><sub>w</sub></sup></td>
-            <td align="center">38.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">143</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
