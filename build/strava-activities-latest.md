@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>15-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Sweat, Spokes, and Serendipity: 46 Miles of Elevation Escapades!" title="Sweat, Spokes, and Serendipity: 46 Miles of Elevation Escapades!"/>
+<a href="https://www.strava.com/activities/10767417515" title="Kcal: 1457 | Gear: None ">Sweat, Spokes, and Serendi...</a>
+            </td>
+            <td align="center">74 <sup><sub>km</sub></sup></td>
+            <td align="center">367 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:29</td>
+            <td align="center">209 <sup><sub>w</sub></sup></td>
+            <td align="center">37.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">143</td>
+        </tr>
+            <tr>
+            <td>15-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zippy Uphill Salsa" title="Zippy Uphill Salsa"/>
+<a href="https://www.strava.com/activities/10766743720" title="Kcal: 86 | Gear: None ">Zippy Uphill Salsa</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">6 <sup><sub>m</sub></sup></td>
+            <td align="center">9:04</td>
+            <td align="center">165 <sup><sub>w</sub></sup></td>
+            <td align="center">33.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">125</td>
+        </tr>
+            <tr>
             <td>14-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="From Sunshowers to Windy Whirls: 50 Miles of Meteorological Madness!" title="From Sunshowers to Windy Whirls: 50 Miles of Meteorological Madness!"/>
@@ -47,32 +73,6 @@
             <td align="center">190 <sup><sub>w</sub></sup></td>
             <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">158</td>
-        </tr>
-            <tr>
-            <td>10-02-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Thompson Park 💩💩💩 Show" title="Thompson Park 💩💩💩 Show"/>
-<a href="https://www.strava.com/activities/10736692069" title="Kcal: 1007 | Gear: None ">Thompson Park 💩💩💩 Show...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">196 <sup><sub>m</sub></sup></td>
-            <td align="center">1:37:14</td>
-            <td align="center">153 <sup><sub>w</sub></sup></td>
-            <td align="center">9.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
-        </tr>
-            <tr>
-            <td>09-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="From Sunburn to Splashdown: A Banana-Powered Odyssey" title="From Sunburn to Splashdown: A Banana-Powered Odyssey"/>
-<a href="https://www.strava.com/activities/10728534930" title="Kcal: 999 | Gear: None ">From Sunburn to Splashdown...</a>
-            </td>
-            <td align="center">58 <sup><sub>km</sub></sup></td>
-            <td align="center">351 <sup><sub>m</sub></sup></td>
-            <td align="center">1:37:16</td>
-            <td align="center">179 <sup><sub>w</sub></sup></td>
-            <td align="center">36 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
