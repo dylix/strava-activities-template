@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>16-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 45 Miles of Meteorological Mischief" title="Elevation Escapade: 45 Miles of Meteorological Mischief"/>
+<a href="https://www.strava.com/activities/10773685456" title="Kcal: 1658 | Gear: None ">Elevation Escapade: 45 Mil...</a>
+            </td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">717 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:54</td>
+            <td align="center">239 <sup><sub>w</sub></sup></td>
+            <td align="center">36.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">159</td>
+        </tr>
+            <tr>
             <td>15-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Sweat, Spokes, and Serendipity: 46 Miles of Elevation Escapades!" title="Sweat, Spokes, and Serendipity: 46 Miles of Elevation Escapades!"/>
@@ -60,19 +73,6 @@
             <td align="center">245 <sup><sub>w</sub></sup></td>
             <td align="center">37 <sup><sub>km/h</sub></sup></td>
             <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>11-02-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Trails weren’t packed, so took a detour up 242. Freshly groomed, it was pure heaven." title="Trails weren’t packed, so took a detour up 242. Freshly groomed, it was pure heaven."/>
-<a href="https://www.strava.com/activities/10743376894" title="Kcal: 1866 | Gear: None ">Trails weren’t packed, so ...</a>
-            </td>
-            <td align="center">36 <sup><sub>km</sub></sup></td>
-            <td align="center">635 <sup><sub>m</sub></sup></td>
-            <td align="center">2:26:13</td>
-            <td align="center">190 <sup><sub>w</sub></sup></td>
-            <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">158</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
