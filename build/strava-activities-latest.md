@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>17-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Hilltop Hilarity: 42 Miles, 1663 Feet, and a Dash of Meteorological Madness" title="Hilltop Hilarity: 42 Miles, 1663 Feet, and a Dash of Meteorological Madness"/>
+<a href="https://www.strava.com/activities/10781018289" title="Kcal: 1150 | Gear: None ">Hilltop Hilarity: 42 Miles...</a>
+            </td>
+            <td align="center">68 <sup><sub>km</sub></sup></td>
+            <td align="center">507 <sup><sub>m</sub></sup></td>
+            <td align="center">2:01:01</td>
+            <td align="center">166 <sup><sub>w</sub></sup></td>
+            <td align="center">33.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">125</td>
+        </tr>
+            <tr>
             <td>16-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 45 Miles of Meteorological Mischief" title="Elevation Escapade: 45 Miles of Meteorological Mischief"/>
@@ -60,19 +73,6 @@
             <td align="center">197 <sup><sub>w</sub></sup></td>
             <td align="center">38.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">142</td>
-        </tr>
-            <tr>
-            <td>13-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Banana Peel Grand Prix: 46 Miles of Slippery Elevation" title="Banana Peel Grand Prix: 46 Miles of Slippery Elevation"/>
-<a href="https://www.strava.com/activities/10754285850" title="Kcal: 1706 | Gear: None ">Banana Peel Grand Prix: 46...</a>
-            </td>
-            <td align="center">75 <sup><sub>km</sub></sup></td>
-            <td align="center">528 <sup><sub>m</sub></sup></td>
-            <td align="center">2:01:13</td>
-            <td align="center">245 <sup><sub>w</sub></sup></td>
-            <td align="center">37 <sup><sub>km/h</sub></sup></td>
-            <td align="center">161</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
