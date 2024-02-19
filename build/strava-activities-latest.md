@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Hilltop Hilarity: 43 Miles, 1663 Feet, and a Dash of Absurdity" title="Hilltop Hilarity: 43 Miles, 1663 Feet, and a Dash of Absurdity"/>
+<a href="https://www.strava.com/activities/10788691551" title="Kcal: 1356 | Gear: None ">Hilltop Hilarity: 43 Miles...</a>
+            </td>
+            <td align="center">69 <sup><sub>km</sub></sup></td>
+            <td align="center">507 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:39</td>
+            <td align="center">196 <sup><sub>w</sub></sup></td>
+            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">138</td>
+        </tr>
+            <tr>
             <td>17-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Hilltop Hilarity: 42 Miles, 1663 Feet, and a Dash of Meteorological Madness" title="Hilltop Hilarity: 42 Miles, 1663 Feet, and a Dash of Meteorological Madness"/>
@@ -60,19 +73,6 @@
             <td align="center">165 <sup><sub>w</sub></sup></td>
             <td align="center">33.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">125</td>
-        </tr>
-            <tr>
-            <td>14-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="From Sunshowers to Windy Whirls: 50 Miles of Meteorological Madness!" title="From Sunshowers to Windy Whirls: 50 Miles of Meteorological Madness!"/>
-<a href="https://www.strava.com/activities/10760851260" title="Kcal: 1432 | Gear: None ">From Sunshowers to Windy W...</a>
-            </td>
-            <td align="center">81 <sup><sub>km</sub></sup></td>
-            <td align="center">321 <sup><sub>m</sub></sup></td>
-            <td align="center">2:06:32</td>
-            <td align="center">197 <sup><sub>w</sub></sup></td>
-            <td align="center">38.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">142</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
