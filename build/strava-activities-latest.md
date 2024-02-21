@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>21-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Gallop: 27 Miles of Meteorological Mischief!" title="Elevated Unicorn Gallop: 27 Miles of Meteorological Mischief!"/>
+<a href="https://www.strava.com/activities/10807959048" title="Kcal: 749 | Gear: None ">Elevated Unicorn Gallop: 2...</a>
+            </td>
+            <td align="center">44 <sup><sub>km</sub></sup></td>
+            <td align="center">198 <sup><sub>m</sub></sup></td>
+            <td align="center">1:15:03</td>
+            <td align="center">173 <sup><sub>w</sub></sup></td>
+            <td align="center">34.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">134</td>
+        </tr>
+            <tr>
             <td>20-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Espresso Express: 52 Miles of Caffeinated Climbs!" title="Elevated Espresso Express: 52 Miles of Caffeinated Climbs!"/>
@@ -60,19 +73,6 @@
             <td align="center">239 <sup><sub>w</sub></sup></td>
             <td align="center">36.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">159</td>
-        </tr>
-            <tr>
-            <td>15-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Sweat, Spokes, and Serendipity: 46 Miles of Elevation Escapades!" title="Sweat, Spokes, and Serendipity: 46 Miles of Elevation Escapades!"/>
-<a href="https://www.strava.com/activities/10767417515" title="Kcal: 1457 | Gear: None ">Sweat, Spokes, and Serendi...</a>
-            </td>
-            <td align="center">74 <sup><sub>km</sub></sup></td>
-            <td align="center">367 <sup><sub>m</sub></sup></td>
-            <td align="center">2:00:29</td>
-            <td align="center">209 <sup><sub>w</sub></sup></td>
-            <td align="center">37.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">143</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
