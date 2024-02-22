@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>22-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Gallop: 51 Miles of Mythical Fitness" title="Elevated Unicorn Gallop: 51 Miles of Mythical Fitness"/>
+<a href="https://www.strava.com/activities/10814548375" title="Kcal: 1574 | Gear: None ">Elevated Unicorn Gallop: 5...</a>
+            </td>
+            <td align="center">82 <sup><sub>km</sub></sup></td>
+            <td align="center">248 <sup><sub>m</sub></sup></td>
+            <td align="center">2:02:03</td>
+            <td align="center">225 <sup><sub>w</sub></sup></td>
+            <td align="center">40.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">152</td>
+        </tr>
+            <tr>
             <td>21-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Gallop: 27 Miles of Meteorological Mischief!" title="Elevated Unicorn Gallop: 27 Miles of Meteorological Mischief!"/>
@@ -60,19 +73,6 @@
             <td align="center">166 <sup><sub>w</sub></sup></td>
             <td align="center">33.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">125</td>
-        </tr>
-            <tr>
-            <td>16-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 45 Miles of Meteorological Mischief" title="Elevation Escapade: 45 Miles of Meteorological Mischief"/>
-<a href="https://www.strava.com/activities/10773685456" title="Kcal: 1658 | Gear: None ">Elevation Escapade: 45 Mil...</a>
-            </td>
-            <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td align="center">717 <sup><sub>m</sub></sup></td>
-            <td align="center">2:00:54</td>
-            <td align="center">239 <sup><sub>w</sub></sup></td>
-            <td align="center">36.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">159</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
