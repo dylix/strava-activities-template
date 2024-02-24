@@ -10,10 +10,36 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>24-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Froggy Leap-a-thon: 48 Miles, 980 Feet, and a Dash of Humidity" title="Froggy Leap-a-thon: 48 Miles, 980 Feet, and a Dash of Humidity"/>
+<a href="https://www.strava.com/activities/10828181648" title="Kcal: 1724 | Gear: None ">Froggy Leap-a-thon: 48 Mil...</a>
+            </td>
+            <td align="center">78 <sup><sub>km</sub></sup></td>
+            <td align="center">299 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:37</td>
+            <td align="center">248 <sup><sub>w</sub></sup></td>
+            <td align="center">38.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">161</td>
+        </tr>
+            <tr>
+            <td>24-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevating My Ego: 206 Feet Closer to the Clouds!" title="Elevating My Ego: 206 Feet Closer to the Clouds!"/>
+<a href="https://www.strava.com/activities/10827194576" title="Kcal: 298 | Gear: None ">Elevating My Ego: 206 Feet...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">63 <sup><sub>m</sub></sup></td>
+            <td align="center">27:55</td>
+            <td align="center">186 <sup><sub>w</sub></sup></td>
+            <td align="center">34.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">133</td>
+        </tr>
+            <tr>
             <td>23-02-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Frosty Feet Follies: 20 Miles of Chill and Elevation Gains" title="Frosty Feet Follies: 20 Miles of Chill and Elevation Gains"/>
-<a href="https://www.strava.com/activities/10821471659" title="Kcal: 1603 | Gear: None ">Frosty Feet Follies: 20 Mi...</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="I&#039;ve always been curious what East Fork Reservoir looked like in the winter.. now I know!" title="I&#039;ve always been curious what East Fork Reservoir looked like in the winter.. now I know!"/>
+<a href="https://www.strava.com/activities/10821471659" title="Kcal: 1603 | Gear: None ">I&#039;ve always been curious w...</a>
             </td>
             <td align="center">33 <sup><sub>km</sub></sup></td>
             <td align="center">399 <sup><sub>m</sub></sup></td>
@@ -47,32 +73,6 @@
             <td align="center">173 <sup><sub>w</sub></sup></td>
             <td align="center">34.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">134</td>
-        </tr>
-            <tr>
-            <td>20-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Espresso Express: 52 Miles of Caffeinated Climbs!" title="Elevated Espresso Express: 52 Miles of Caffeinated Climbs!"/>
-<a href="https://www.strava.com/activities/10801129463" title="Kcal: 1646 | Gear: None ">Elevated Espresso Express:...</a>
-            </td>
-            <td align="center">84 <sup><sub>km</sub></sup></td>
-            <td align="center">266 <sup><sub>m</sub></sup></td>
-            <td align="center">2:04:17</td>
-            <td align="center">231 <sup><sub>w</sub></sup></td>
-            <td align="center">40.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>18-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Hilltop Hilarity: 43 Miles, 1663 Feet, and a Dash of Absurdity" title="Hilltop Hilarity: 43 Miles, 1663 Feet, and a Dash of Absurdity"/>
-<a href="https://www.strava.com/activities/10788691551" title="Kcal: 1356 | Gear: None ">Hilltop Hilarity: 43 Miles...</a>
-            </td>
-            <td align="center">69 <sup><sub>km</sub></sup></td>
-            <td align="center">507 <sup><sub>m</sub></sup></td>
-            <td align="center">2:00:39</td>
-            <td align="center">196 <sup><sub>w</sub></sup></td>
-            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
