@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>25-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 629 Feet, 28 Miles, and a Dash of Humidity" title="Elevation Escapade: 629 Feet, 28 Miles, and a Dash of Humidity"/>
+<a href="https://www.strava.com/activities/10835516336" title="Kcal: 745 | Gear: None ">Elevation Escapade: 629 Fe...</a>
+            </td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">192 <sup><sub>m</sub></sup></td>
+            <td align="center">1:17:45</td>
+            <td align="center">166 <sup><sub>w</sub></sup></td>
+            <td align="center">35.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
+        </tr>
+            <tr>
+            <td>25-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zephyr&#039;s Microscopic Uphill Adventure" title="Zephyr&#039;s Microscopic Uphill Adventure"/>
+<a href="https://www.strava.com/activities/10834580981" title="Kcal: 28 | Gear: None ">Zephyr&#039;s Microscopic Uphil...</a>
+            </td>
+            <td align="center">1 <sup><sub>km</sub></sup></td>
+            <td align="center">7 <sup><sub>m</sub></sup></td>
+            <td align="center">2:35</td>
+            <td align="center">185 <sup><sub>w</sub></sup></td>
+            <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">65</td>
+        </tr>
+            <tr>
             <td>24-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Froggy Leap-a-thon: 48 Miles, 980 Feet, and a Dash of Humidity" title="Froggy Leap-a-thon: 48 Miles, 980 Feet, and a Dash of Humidity"/>
@@ -47,32 +73,6 @@
             <td align="center">192 <sup><sub>w</sub></sup></td>
             <td align="center">15.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">149</td>
-        </tr>
-            <tr>
-            <td>22-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Gallop: 51 Miles of Mythical Fitness" title="Elevated Unicorn Gallop: 51 Miles of Mythical Fitness"/>
-<a href="https://www.strava.com/activities/10814548375" title="Kcal: 1574 | Gear: None ">Elevated Unicorn Gallop: 5...</a>
-            </td>
-            <td align="center">82 <sup><sub>km</sub></sup></td>
-            <td align="center">248 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:03</td>
-            <td align="center">225 <sup><sub>w</sub></sup></td>
-            <td align="center">40.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>21-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Gallop: 27 Miles of Meteorological Mischief!" title="Elevated Unicorn Gallop: 27 Miles of Meteorological Mischief!"/>
-<a href="https://www.strava.com/activities/10807959048" title="Kcal: 749 | Gear: None ">Elevated Unicorn Gallop: 2...</a>
-            </td>
-            <td align="center">44 <sup><sub>km</sub></sup></td>
-            <td align="center">198 <sup><sub>m</sub></sup></td>
-            <td align="center">1:15:03</td>
-            <td align="center">173 <sup><sub>w</sub></sup></td>
-            <td align="center">34.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">134</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
