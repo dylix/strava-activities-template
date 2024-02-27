@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>27-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Uphill Salsa Dancing with a Side of Mild Perspiration" title="Uphill Salsa Dancing with a Side of Mild Perspiration"/>
+<a href="https://www.strava.com/activities/10848256711" title="Kcal: 1548 | Gear: None ">Uphill Salsa Dancing with ...</a>
+            </td>
+            <td align="center">84 <sup><sub>km</sub></sup></td>
+            <td align="center">127 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:32</td>
+            <td align="center">224 <sup><sub>w</sub></sup></td>
+            <td align="center">41.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">155</td>
+        </tr>
+            <tr>
             <td>25-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 629 Feet, 28 Miles, and a Dash of Humidity" title="Elevation Escapade: 629 Feet, 28 Miles, and a Dash of Humidity"/>
@@ -60,19 +73,6 @@
             <td align="center">186 <sup><sub>w</sub></sup></td>
             <td align="center">34.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">133</td>
-        </tr>
-            <tr>
-            <td>23-02-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="I&#039;ve always been curious what East Fork Reservoir looked like in the winter.. now I know!" title="I&#039;ve always been curious what East Fork Reservoir looked like in the winter.. now I know!"/>
-<a href="https://www.strava.com/activities/10821471659" title="Kcal: 1603 | Gear: None ">I&#039;ve always been curious w...</a>
-            </td>
-            <td align="center">33 <sup><sub>km</sub></sup></td>
-            <td align="center">399 <sup><sub>m</sub></sup></td>
-            <td align="center">2:03:33</td>
-            <td align="center">192 <sup><sub>w</sub></sup></td>
-            <td align="center">15.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
