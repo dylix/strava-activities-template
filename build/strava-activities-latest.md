@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>28-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Escapade: 46 Miles of Meteorological Mischief" title="Elevated Escapade: 46 Miles of Meteorological Mischief"/>
+<a href="https://www.strava.com/activities/10855501092" title="Kcal: 1188 | Gear: None ">Elevated Escapade: 46 Mile...</a>
+            </td>
+            <td align="center">74 <sup><sub>km</sub></sup></td>
+            <td align="center">281 <sup><sub>m</sub></sup></td>
+            <td align="center">2:03:37</td>
+            <td align="center">167 <sup><sub>w</sub></sup></td>
+            <td align="center">36 <sup><sub>km/h</sub></sup></td>
+            <td align="center">131</td>
+        </tr>
+            <tr>
             <td>27-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Uphill Salsa Dancing with a Side of Mild Perspiration" title="Uphill Salsa Dancing with a Side of Mild Perspiration"/>
@@ -60,19 +73,6 @@
             <td align="center">248 <sup><sub>w</sub></sup></td>
             <td align="center">38.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>24-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevating My Ego: 206 Feet Closer to the Clouds!" title="Elevating My Ego: 206 Feet Closer to the Clouds!"/>
-<a href="https://www.strava.com/activities/10827194576" title="Kcal: 298 | Gear: None ">Elevating My Ego: 206 Feet...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">63 <sup><sub>m</sub></sup></td>
-            <td align="center">27:55</td>
-            <td align="center">186 <sup><sub>w</sub></sup></td>
-            <td align="center">34.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
