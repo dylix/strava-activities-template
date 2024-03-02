@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="I’m enjoying rest week, a little too much 😛" title="I’m enjoying rest week, a little too much 😛"/>
+<a href="https://www.strava.com/activities/10869457894" title="Kcal: 710 | Gear: None ">I’m enjoying rest week, a ...</a>
+            </td>
+            <td align="center">49 <sup><sub>km</sub></sup></td>
+            <td align="center">200 <sup><sub>m</sub></sup></td>
+            <td align="center">1:32:18</td>
+            <td align="center">134 <sup><sub>w</sub></sup></td>
+            <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">126</td>
+        </tr>
+            <tr>
             <td>28-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Escapade: 46 Miles of Meteorological Mischief" title="Elevated Escapade: 46 Miles of Meteorological Mischief"/>
@@ -60,19 +73,6 @@
             <td align="center">185 <sup><sub>w</sub></sup></td>
             <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">65</td>
-        </tr>
-            <tr>
-            <td>24-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Froggy Leap-a-thon: 48 Miles, 980 Feet, and a Dash of Humidity" title="Froggy Leap-a-thon: 48 Miles, 980 Feet, and a Dash of Humidity"/>
-<a href="https://www.strava.com/activities/10828181648" title="Kcal: 1724 | Gear: None ">Froggy Leap-a-thon: 48 Mil...</a>
-            </td>
-            <td align="center">78 <sup><sub>km</sub></sup></td>
-            <td align="center">299 <sup><sub>m</sub></sup></td>
-            <td align="center">2:00:37</td>
-            <td align="center">248 <sup><sub>w</sub></sup></td>
-            <td align="center">38.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">161</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
