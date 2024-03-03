@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>03-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Pacer Group Ride: Watopia&#039;s Waistband in Watopia with Maria" title="Pacer Group Ride: Watopia&#039;s Waistband in Watopia with Maria"/>
+<a href="https://www.strava.com/activities/10882371033" title="Kcal: 1008 | Gear: None ">Pacer Group Ride: Watopia&#039;...</a>
+            </td>
+            <td align="center">68 <sup><sub>km</sub></sup></td>
+            <td align="center">286 <sup><sub>m</sub></sup></td>
+            <td align="center">2:05:53</td>
+            <td align="center">140 <sup><sub>w</sub></sup></td>
+            <td align="center">32.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">128</td>
+        </tr>
+            <tr>
             <td>01-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="I’m enjoying rest week, a little too much 😛" title="I’m enjoying rest week, a little too much 😛"/>
@@ -60,19 +73,6 @@
             <td align="center">166 <sup><sub>w</sub></sup></td>
             <td align="center">35.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>25-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zephyr&#039;s Microscopic Uphill Adventure" title="Zephyr&#039;s Microscopic Uphill Adventure"/>
-<a href="https://www.strava.com/activities/10834580981" title="Kcal: 28 | Gear: None ">Zephyr&#039;s Microscopic Uphil...</a>
-            </td>
-            <td align="center">1 <sup><sub>km</sub></sup></td>
-            <td align="center">7 <sup><sub>m</sub></sup></td>
-            <td align="center">2:35</td>
-            <td align="center">185 <sup><sub>w</sub></sup></td>
-            <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">65</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
