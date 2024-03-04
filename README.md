@@ -54,8 +54,8 @@ I burned `2144985 calories` doing so, that's about `7 944` pizza slices 🍕
             <tr>
             <td>03-03-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Pacer Group Ride: Watopia&#039;s Waistband in Watopia with Maria" title="Pacer Group Ride: Watopia&#039;s Waistband in Watopia with Maria"/>
-<a href="https://www.strava.com/activities/10882371033" title="Kcal: 1008 | Gear: Canyon Endurace ">Pacer Group Ride: Watopia&#039;...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Rest week is almost over 🎉🙌🥳" title="Rest week is almost over 🎉🙌🥳"/>
+<a href="https://www.strava.com/activities/10882371033" title="Kcal: 1008 | Gear: Stages ">Rest week is almost over 🎉...</a>
             </td>
             <td align="center">68 <sup><sub>km</sub></sup></td>
             <td align="center">286 <sup><sub>m</sub></sup></td>
@@ -1776,25 +1776,25 @@ I burned `2144985 calories` doing so, that's about `7 944` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Canyon Endurace</td>
-            <td align="center">450</td>
+            <td align="center">449</td>
             <td align="center">
                                     44 <sup><sub>km avg</sub></sup> /
-                    19 821 <sup><sub>km total</sub></sup>
+                    19 753 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">164 012 <sup><sub>m</sub></sup></td>
-            <td align="center">3w 4d 20h 28m</td>
+            <td align="center">163 726 <sup><sub>m</sub></sup></td>
+            <td align="center">3w 4d 18h 22m</td>
             <td align="center">31.9 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Stages</td>
-            <td align="center">153</td>
+            <td align="center">154</td>
             <td align="center">
                                     48 <sup><sub>km avg</sub></sup> /
-                    7 294 <sup><sub>km total</sub></sup>
+                    7 362 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">50 872 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 1d 11h 59m</td>
-            <td align="center">35.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">51 158 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 1d 14h 5m</td>
+            <td align="center">35.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Lynskey R500</td>

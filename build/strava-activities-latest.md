@@ -12,8 +12,8 @@
             <tr>
             <td>03-03-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Pacer Group Ride: Watopia&#039;s Waistband in Watopia with Maria" title="Pacer Group Ride: Watopia&#039;s Waistband in Watopia with Maria"/>
-<a href="https://www.strava.com/activities/10882371033" title="Kcal: 1008 | Gear: None ">Pacer Group Ride: Watopia&#039;...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Rest week is almost over 🎉🙌🥳" title="Rest week is almost over 🎉🙌🥳"/>
+<a href="https://www.strava.com/activities/10882371033" title="Kcal: 1008 | Gear: None ">Rest week is almost over 🎉...</a>
             </td>
             <td align="center">68 <sup><sub>km</sub></sup></td>
             <td align="center">286 <sup><sub>m</sub></sup></td>
