@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>05-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevating My Way to the Clouds on a Bicycle Made of Laughter" title="Elevating My Way to the Clouds on a Bicycle Made of Laughter"/>
+<a href="https://www.strava.com/activities/10897088017" title="Kcal: 461 | Gear: None ">Elevating My Way to the Cl...</a>
+            </td>
+            <td align="center">18 <sup><sub>km</sub></sup></td>
+            <td align="center">245 <sup><sub>m</sub></sup></td>
+            <td align="center">31:45</td>
+            <td align="center">253 <sup><sub>w</sub></sup></td>
+            <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">173</td>
+        </tr>
+            <tr>
+            <td>05-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Escapade: 20 Miles, 2286 Feet, and a Dash of Humidity" title="Elevated Escapade: 20 Miles, 2286 Feet, and a Dash of Humidity"/>
+<a href="https://www.strava.com/activities/10896794129" title="Kcal: 932 | Gear: None ">Elevated Escapade: 20 Mile...</a>
+            </td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">697 <sup><sub>m</sub></sup></td>
+            <td align="center">1:02:22</td>
+            <td align="center">261 <sup><sub>w</sub></sup></td>
+            <td align="center">31.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">174</td>
+        </tr>
+            <tr>
+            <td>05-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zigzagging Weather Whirlwind" title="Zigzagging Weather Whirlwind"/>
+<a href="https://www.strava.com/activities/10896269141" title="Kcal: 48 | Gear: None ">Zigzagging Weather Whirlwind</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">4 <sup><sub>m</sub></sup></td>
+            <td align="center">4:03</td>
+            <td align="center">216 <sup><sub>w</sub></sup></td>
+            <td align="center">34.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
             <td>03-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Rest week is almost over 🎉🙌🥳" title="Rest week is almost over 🎉🙌🥳"/>
@@ -34,45 +73,6 @@
             <td align="center">134 <sup><sub>w</sub></sup></td>
             <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">126</td>
-        </tr>
-            <tr>
-            <td>28-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Escapade: 46 Miles of Meteorological Mischief" title="Elevated Escapade: 46 Miles of Meteorological Mischief"/>
-<a href="https://www.strava.com/activities/10855501092" title="Kcal: 1188 | Gear: None ">Elevated Escapade: 46 Mile...</a>
-            </td>
-            <td align="center">74 <sup><sub>km</sub></sup></td>
-            <td align="center">281 <sup><sub>m</sub></sup></td>
-            <td align="center">2:03:37</td>
-            <td align="center">167 <sup><sub>w</sub></sup></td>
-            <td align="center">36 <sup><sub>km/h</sub></sup></td>
-            <td align="center">131</td>
-        </tr>
-            <tr>
-            <td>27-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Uphill Salsa Dancing with a Side of Mild Perspiration" title="Uphill Salsa Dancing with a Side of Mild Perspiration"/>
-<a href="https://www.strava.com/activities/10848256711" title="Kcal: 1548 | Gear: None ">Uphill Salsa Dancing with ...</a>
-            </td>
-            <td align="center">84 <sup><sub>km</sub></sup></td>
-            <td align="center">127 <sup><sub>m</sub></sup></td>
-            <td align="center">2:00:32</td>
-            <td align="center">224 <sup><sub>w</sub></sup></td>
-            <td align="center">41.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>25-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 629 Feet, 28 Miles, and a Dash of Humidity" title="Elevation Escapade: 629 Feet, 28 Miles, and a Dash of Humidity"/>
-<a href="https://www.strava.com/activities/10835516336" title="Kcal: 745 | Gear: None ">Elevation Escapade: 629 Fe...</a>
-            </td>
-            <td align="center">46 <sup><sub>km</sub></sup></td>
-            <td align="center">192 <sup><sub>m</sub></sup></td>
-            <td align="center">1:17:45</td>
-            <td align="center">166 <sup><sub>w</sub></sup></td>
-            <td align="center">35.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">120</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
