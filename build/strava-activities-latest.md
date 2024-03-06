@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Banana Split Dash" title="Elevated Banana Split Dash"/>
+<a href="https://www.strava.com/activities/10903274366" title="Kcal: 1432 | Gear: None ">Elevated Banana Split Dash</a>
+            </td>
+            <td align="center">81 <sup><sub>km</sub></sup></td>
+            <td align="center">121 <sup><sub>m</sub></sup></td>
+            <td align="center">2:01:01</td>
+            <td align="center">206 <sup><sub>w</sub></sup></td>
+            <td align="center">40 <sup><sub>km/h</sub></sup></td>
+            <td align="center">150</td>
+        </tr>
+            <tr>
             <td>05-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevating My Way to the Clouds on a Bicycle Made of Laughter" title="Elevating My Way to the Clouds on a Bicycle Made of Laughter"/>
@@ -60,19 +73,6 @@
             <td align="center">140 <sup><sub>w</sub></sup></td>
             <td align="center">32.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">128</td>
-        </tr>
-            <tr>
-            <td>01-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="I’m enjoying rest week, a little too much 😛" title="I’m enjoying rest week, a little too much 😛"/>
-<a href="https://www.strava.com/activities/10869457894" title="Kcal: 710 | Gear: None ">I’m enjoying rest week, a ...</a>
-            </td>
-            <td align="center">49 <sup><sub>km</sub></sup></td>
-            <td align="center">200 <sup><sub>m</sub></sup></td>
-            <td align="center">1:32:18</td>
-            <td align="center">134 <sup><sub>w</sub></sup></td>
-            <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">126</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
