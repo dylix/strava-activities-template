@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>08-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Sunny-Side Spin: 148 Minutes of Wheely Good Fun" title="Sunny-Side Spin: 148 Minutes of Wheely Good Fun"/>
+<a href="https://www.strava.com/activities/10918897510" title="Kcal: 2163 | Gear: None ">Sunny-Side Spin: 148 Minut...</a>
+            </td>
+            <td align="center">77 <sup><sub>km</sub></sup></td>
+            <td align="center">537 <sup><sub>m</sub></sup></td>
+            <td align="center">2:28:30</td>
+            <td align="center">220 <sup><sub>w</sub></sup></td>
+            <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">164</td>
+        </tr>
+            <tr>
+            <td>07-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Frosty Feet Follies: 41 Miles of Chill and Elevation Escapades" title="Frosty Feet Follies: 41 Miles of Chill and Elevation Escapades"/>
+<a href="https://www.strava.com/activities/10912170466" title="Kcal: 2012 | Gear: None ">Frosty Feet Follies: 41 Mi...</a>
+            </td>
+            <td align="center">68 <sup><sub>km</sub></sup></td>
+            <td align="center">276 <sup><sub>m</sub></sup></td>
+            <td align="center">2:19:58</td>
+            <td align="center">216 <sup><sub>w</sub></sup></td>
+            <td align="center">29 <sup><sub>km/h</sub></sup></td>
+            <td align="center">162</td>
+        </tr>
+            <tr>
             <td>06-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Banana Split Dash" title="Elevated Banana Split Dash"/>
@@ -47,32 +73,6 @@
             <td align="center">261 <sup><sub>w</sub></sup></td>
             <td align="center">31.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">174</td>
-        </tr>
-            <tr>
-            <td>05-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zigzagging Weather Whirlwind" title="Zigzagging Weather Whirlwind"/>
-<a href="https://www.strava.com/activities/10896269141" title="Kcal: 48 | Gear: None ">Zigzagging Weather Whirlwind</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">4 <sup><sub>m</sub></sup></td>
-            <td align="center">4:03</td>
-            <td align="center">216 <sup><sub>w</sub></sup></td>
-            <td align="center">34.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>03-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Rest week is almost over 🎉🙌🥳" title="Rest week is almost over 🎉🙌🥳"/>
-<a href="https://www.strava.com/activities/10882371033" title="Kcal: 1008 | Gear: None ">Rest week is almost over 🎉...</a>
-            </td>
-            <td align="center">68 <sup><sub>km</sub></sup></td>
-            <td align="center">286 <sup><sub>m</sub></sup></td>
-            <td align="center">2:05:53</td>
-            <td align="center">140 <sup><sub>w</sub></sup></td>
-            <td align="center">32.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">128</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
