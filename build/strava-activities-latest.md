@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Frosty Feet, Fiery Calves: 44 Miles of Elevation Delirium!" title="Frosty Feet, Fiery Calves: 44 Miles of Elevation Delirium!"/>
+<a href="https://www.strava.com/activities/10931595968" title="Kcal: 2173 | Gear: None ">Frosty Feet, Fiery Calves:...</a>
+            </td>
+            <td align="center">72 <sup><sub>km</sub></sup></td>
+            <td align="center">617 <sup><sub>m</sub></sup></td>
+            <td align="center">2:21:27</td>
+            <td align="center">232 <sup><sub>w</sub></sup></td>
+            <td align="center">30.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">164</td>
+        </tr>
+            <tr>
             <td>08-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Sunny-Side Spin: 148 Minutes of Wheely Good Fun" title="Sunny-Side Spin: 148 Minutes of Wheely Good Fun"/>
@@ -60,19 +73,6 @@
             <td align="center">253 <sup><sub>w</sub></sup></td>
             <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">173</td>
-        </tr>
-            <tr>
-            <td>05-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Escapade: 20 Miles, 2286 Feet, and a Dash of Humidity" title="Elevated Escapade: 20 Miles, 2286 Feet, and a Dash of Humidity"/>
-<a href="https://www.strava.com/activities/10896794129" title="Kcal: 932 | Gear: None ">Elevated Escapade: 20 Mile...</a>
-            </td>
-            <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">697 <sup><sub>m</sub></sup></td>
-            <td align="center">1:02:22</td>
-            <td align="center">261 <sup><sub>w</sub></sup></td>
-            <td align="center">31.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">174</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
