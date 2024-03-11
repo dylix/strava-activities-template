@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Espresso Ride: 19 Miles, 380 Feet, and a Dash of Caffeine" title="Elevated Espresso Ride: 19 Miles, 380 Feet, and a Dash of Caffeine"/>
+<a href="https://www.strava.com/activities/10937481259" title="Kcal: 411 | Gear: None ">Elevated Espresso Ride: 19...</a>
+            </td>
+            <td align="center">31 <sup><sub>km</sub></sup></td>
+            <td align="center">116 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:17</td>
+            <td align="center">119 <sup><sub>w</sub></sup></td>
+            <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">122</td>
+        </tr>
+            <tr>
             <td>10-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Frosty Feet, Fiery Calves: 44 Miles of Elevation Delirium!" title="Frosty Feet, Fiery Calves: 44 Miles of Elevation Delirium!"/>
@@ -60,19 +73,6 @@
             <td align="center">206 <sup><sub>w</sub></sup></td>
             <td align="center">40 <sup><sub>km/h</sub></sup></td>
             <td align="center">150</td>
-        </tr>
-            <tr>
-            <td>05-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevating My Way to the Clouds on a Bicycle Made of Laughter" title="Elevating My Way to the Clouds on a Bicycle Made of Laughter"/>
-<a href="https://www.strava.com/activities/10897088017" title="Kcal: 461 | Gear: None ">Elevating My Way to the Cl...</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">245 <sup><sub>m</sub></sup></td>
-            <td align="center">31:45</td>
-            <td align="center">253 <sup><sub>w</sub></sup></td>
-            <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">173</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
