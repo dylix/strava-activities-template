@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>17-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Elevation Escapades: 70 Miles of Uphill Shenanigans!" title="Elevation Escapades: 70 Miles of Uphill Shenanigans!"/>
+<a href="https://www.strava.com/activities/10982263734" title="Kcal: 3063 | Gear: None ">Elevation Escapades: 70 Mi...</a>
+            </td>
+            <td align="center">113 <sup><sub>km</sub></sup></td>
+            <td align="center">1 010 <sup><sub>m</sub></sup></td>
+            <td align="center">3:26:56</td>
+            <td align="center">223 <sup><sub>w</sub></sup></td>
+            <td align="center">32.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
             <td>16-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Elevation Escapade: 67 Miles of Quirky Climbs!" title="Elevation Escapade: 67 Miles of Quirky Climbs!"/>
@@ -60,19 +73,6 @@
             <td align="center">234 <sup><sub>w</sub></sup></td>
             <td align="center">31.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">164</td>
-        </tr>
-            <tr>
-            <td>11-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Espresso Ride: 19 Miles, 380 Feet, and a Dash of Caffeine" title="Elevated Espresso Ride: 19 Miles, 380 Feet, and a Dash of Caffeine"/>
-<a href="https://www.strava.com/activities/10937481259" title="Kcal: 411 | Gear: None ">Elevated Espresso Ride: 19...</a>
-            </td>
-            <td align="center">31 <sup><sub>km</sub></sup></td>
-            <td align="center">116 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:17</td>
-            <td align="center">119 <sup><sub>w</sub></sup></td>
-            <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">122</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
