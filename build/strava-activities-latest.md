@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>20-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 20 Miles of Uphill Shenanigans!" title="Elevation Escapade: 20 Miles of Uphill Shenanigans!"/>
+<a href="https://www.strava.com/activities/11000470442" title="Kcal: 917 | Gear: None ">Elevation Escapade: 20 Mil...</a>
+            </td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">687 <sup><sub>m</sub></sup></td>
+            <td align="center">1:02:42</td>
+            <td align="center">255 <sup><sub>w</sub></sup></td>
+            <td align="center">31 <sup><sub>km/h</sub></sup></td>
+            <td align="center">157</td>
+        </tr>
+            <tr>
+            <td>19-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="😍😍 One hell of a first day of almost spring 😍😍" title="😍😍 One hell of a first day of almost spring 😍😍"/>
+<a href="https://www.strava.com/activities/10996131971" title="Kcal: 3857 | Gear: None ">😍😍 One hell of a first day...</a>
+            </td>
+            <td align="center">123 <sup><sub>km</sub></sup></td>
+            <td align="center">622 <sup><sub>m</sub></sup></td>
+            <td align="center">4:23:48</td>
+            <td align="center">220 <sup><sub>w</sub></sup></td>
+            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">157</td>
+        </tr>
+            <tr>
             <td>17-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Elevation Escapades: 70 Miles of Uphill Shenanigans!" title="Elevation Escapades: 70 Miles of Uphill Shenanigans!"/>
@@ -47,32 +73,6 @@
             <td align="center">238 <sup><sub>w</sub></sup></td>
             <td align="center">34.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">167</td>
-        </tr>
-            <tr>
-            <td>13-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Espresso Express" title="Elevated Espresso Express"/>
-<a href="https://www.strava.com/activities/10950998424" title="Kcal: 1045 | Gear: None ">Elevated Espresso Express</a>
-            </td>
-            <td align="center">60 <sup><sub>km</sub></sup></td>
-            <td align="center">277 <sup><sub>m</sub></sup></td>
-            <td align="center">1:32:07</td>
-            <td align="center">197 <sup><sub>w</sub></sup></td>
-            <td align="center">38.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
-        </tr>
-            <tr>
-            <td>12-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Deja Vu" title="Deja Vu"/>
-<a href="https://www.strava.com/activities/10943972678" title="Kcal: 2122 | Gear: None ">Deja Vu</a>
-            </td>
-            <td align="center">72 <sup><sub>km</sub></sup></td>
-            <td align="center">609 <sup><sub>m</sub></sup></td>
-            <td align="center">2:17:06</td>
-            <td align="center">234 <sup><sub>w</sub></sup></td>
-            <td align="center">31.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">164</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
