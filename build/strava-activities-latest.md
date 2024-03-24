@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>24-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Rule #9 or something" title="Rule #9 or something"/>
+<a href="https://www.strava.com/activities/11030261422" title="Kcal: 2009 | Gear: None ">Rule #9 or something</a>
+            </td>
+            <td align="center">59 <sup><sub>km</sub></sup></td>
+            <td align="center">407 <sup><sub>m</sub></sup></td>
+            <td align="center">2:26:19</td>
+            <td align="center">205 <sup><sub>w</sub></sup></td>
+            <td align="center">24.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">148</td>
+        </tr>
+            <tr>
+            <td>23-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Frosty Yeti Dash: 44 Miles of Chilly Shenanigans" title="Frosty Yeti Dash: 44 Miles of Chilly Shenanigans"/>
+<a href="https://www.strava.com/activities/11023678748" title="Kcal: 1933 | Gear: None ">Frosty Yeti Dash: 44 Miles...</a>
+            </td>
+            <td align="center">72 <sup><sub>km</sub></sup></td>
+            <td align="center">623 <sup><sub>m</sub></sup></td>
+            <td align="center">2:08:14</td>
+            <td align="center">228 <sup><sub>w</sub></sup></td>
+            <td align="center">33.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
             <td>22-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Feeling loopy in the valley.." title="Feeling loopy in the valley.."/>
@@ -47,32 +73,6 @@
             <td align="center">220 <sup><sub>w</sub></sup></td>
             <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">157</td>
-        </tr>
-            <tr>
-            <td>17-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Elevation Escapades: 70 Miles of Uphill Shenanigans!" title="Elevation Escapades: 70 Miles of Uphill Shenanigans!"/>
-<a href="https://www.strava.com/activities/10982263734" title="Kcal: 3063 | Gear: None ">Elevation Escapades: 70 Mi...</a>
-            </td>
-            <td align="center">113 <sup><sub>km</sub></sup></td>
-            <td align="center">1 010 <sup><sub>m</sub></sup></td>
-            <td align="center">3:26:56</td>
-            <td align="center">223 <sup><sub>w</sub></sup></td>
-            <td align="center">32.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">154</td>
-        </tr>
-            <tr>
-            <td>16-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Elevation Escapade: 67 Miles of Quirky Climbs!" title="Elevation Escapade: 67 Miles of Quirky Climbs!"/>
-<a href="https://www.strava.com/activities/10974665534" title="Kcal: 3214 | Gear: None ">Elevation Escapade: 67 Mil...</a>
-            </td>
-            <td align="center">109 <sup><sub>km</sub></sup></td>
-            <td align="center">601 <sup><sub>m</sub></sup></td>
-            <td align="center">3:49:00</td>
-            <td align="center">210 <sup><sub>w</sub></sup></td>
-            <td align="center">28.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
