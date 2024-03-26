@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Glide" title="Elevated Unicorn Glide"/>
+<a href="https://www.strava.com/activities/11042020834" title="Kcal: 1490 | Gear: None ">Elevated Unicorn Glide</a>
+            </td>
+            <td align="center">79 <sup><sub>km</sub></sup></td>
+            <td align="center">392 <sup><sub>m</sub></sup></td>
+            <td align="center">2:02:53</td>
+            <td align="center">211 <sup><sub>w</sub></sup></td>
+            <td align="center">38.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">148</td>
+        </tr>
+            <tr>
             <td>24-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Rule #9 or something" title="Rule #9 or something"/>
@@ -59,19 +72,6 @@
             <td align="center">1:02:42</td>
             <td align="center">255 <sup><sub>w</sub></sup></td>
             <td align="center">31 <sup><sub>km/h</sub></sup></td>
-            <td align="center">157</td>
-        </tr>
-            <tr>
-            <td>19-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="😍😍 One hell of a first day of almost spring 😍😍" title="😍😍 One hell of a first day of almost spring 😍😍"/>
-<a href="https://www.strava.com/activities/10996131971" title="Kcal: 3857 | Gear: None ">😍😍 One hell of a first day...</a>
-            </td>
-            <td align="center">123 <sup><sub>km</sub></sup></td>
-            <td align="center">622 <sup><sub>m</sub></sup></td>
-            <td align="center">4:23:48</td>
-            <td align="center">220 <sup><sub>w</sub></sup></td>
-            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">157</td>
         </tr>
                 <tr>
