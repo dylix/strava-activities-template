@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>27-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 49 Miles of Uphill Shenanigans!" title="Elevation Escapade: 49 Miles of Uphill Shenanigans!"/>
+<a href="https://www.strava.com/activities/11049407125" title="Kcal: 1613 | Gear: None ">Elevation Escapade: 49 Mil...</a>
+            </td>
+            <td align="center">79 <sup><sub>km</sub></sup></td>
+            <td align="center">472 <sup><sub>m</sub></sup></td>
+            <td align="center">2:02:44</td>
+            <td align="center">229 <sup><sub>w</sub></sup></td>
+            <td align="center">38.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
             <td>26-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Glide" title="Elevated Unicorn Glide"/>
@@ -60,19 +73,6 @@
             <td align="center">246 <sup><sub>w</sub></sup></td>
             <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">162</td>
-        </tr>
-            <tr>
-            <td>20-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 20 Miles of Uphill Shenanigans!" title="Elevation Escapade: 20 Miles of Uphill Shenanigans!"/>
-<a href="https://www.strava.com/activities/11000470442" title="Kcal: 917 | Gear: None ">Elevation Escapade: 20 Mil...</a>
-            </td>
-            <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">687 <sup><sub>m</sub></sup></td>
-            <td align="center">1:02:42</td>
-            <td align="center">255 <sup><sub>w</sub></sup></td>
-            <td align="center">31 <sup><sub>km/h</sub></sup></td>
-            <td align="center">157</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
