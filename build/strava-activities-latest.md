@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>31-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Easy 🚴 - Just watching the Tour of Flanders" title="Easy 🚴 - Just watching the Tour of Flanders"/>
+<a href="https://www.strava.com/activities/11077076663" title="Kcal: 841 | Gear: None ">Easy 🚴 - Just watching the...</a>
+            </td>
+            <td align="center">53 <sup><sub>km</sub></sup></td>
+            <td align="center">278 <sup><sub>m</sub></sup></td>
+            <td align="center">1:31:40</td>
+            <td align="center">160 <sup><sub>w</sub></sup></td>
+            <td align="center">34.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">123</td>
+        </tr>
+            <tr>
+            <td>30-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Why are there bugs already, gross." title="Why are there bugs already, gross."/>
+<a href="https://www.strava.com/activities/11071872003" title="Kcal: 2674 | Gear: None ">Why are there bugs already...</a>
+            </td>
+            <td align="center">87 <sup><sub>km</sub></sup></td>
+            <td align="center">502 <sup><sub>m</sub></sup></td>
+            <td align="center">2:50:18</td>
+            <td align="center">238 <sup><sub>w</sub></sup></td>
+            <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
             <td>29-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="I just wasn&#039;t in the mood for zwift today.." title="I just wasn&#039;t in the mood for zwift today.."/>
@@ -47,32 +73,6 @@
             <td align="center">229 <sup><sub>w</sub></sup></td>
             <td align="center">38.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">154</td>
-        </tr>
-            <tr>
-            <td>26-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Unicorn Glide" title="Elevated Unicorn Glide"/>
-<a href="https://www.strava.com/activities/11042020834" title="Kcal: 1490 | Gear: None ">Elevated Unicorn Glide</a>
-            </td>
-            <td align="center">79 <sup><sub>km</sub></sup></td>
-            <td align="center">392 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:53</td>
-            <td align="center">211 <sup><sub>w</sub></sup></td>
-            <td align="center">38.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>24-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Rule #9 or something" title="Rule #9 or something"/>
-<a href="https://www.strava.com/activities/11030261422" title="Kcal: 2009 | Gear: None ">Rule #9 or something</a>
-            </td>
-            <td align="center">59 <sup><sub>km</sub></sup></td>
-            <td align="center">407 <sup><sub>m</sub></sup></td>
-            <td align="center">2:26:19</td>
-            <td align="center">205 <sup><sub>w</sub></sup></td>
-            <td align="center">24.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
