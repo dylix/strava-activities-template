@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Just feels wrong going counter-clockwise... Also shorts and short sleeves 😲😲" title="Just feels wrong going counter-clockwise... Also shorts and short sleeves 😲😲"/>
+<a href="https://www.strava.com/activities/11093748712" title="Kcal: 2717 | Gear: None ">Just feels wrong going cou...</a>
+            </td>
+            <td align="center">83 <sup><sub>km</sub></sup></td>
+            <td align="center">697 <sup><sub>m</sub></sup></td>
+            <td align="center">2:54:59</td>
+            <td align="center">235 <sup><sub>w</sub></sup></td>
+            <td align="center">28.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">151</td>
+        </tr>
+            <tr>
             <td>01-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The wind was not playing nice today, RUDE!" title="The wind was not playing nice today, RUDE!"/>
@@ -60,19 +73,6 @@
             <td align="center">222 <sup><sub>w</sub></sup></td>
             <td align="center">27.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">158</td>
-        </tr>
-            <tr>
-            <td>28-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevated Squirrel Dash" title="Elevated Squirrel Dash"/>
-<a href="https://www.strava.com/activities/11056133764" title="Kcal: 805 | Gear: None ">Elevated Squirrel Dash</a>
-            </td>
-            <td align="center">52 <sup><sub>km</sub></sup></td>
-            <td align="center">79 <sup><sub>m</sub></sup></td>
-            <td align="center">1:32:11</td>
-            <td align="center">152 <sup><sub>w</sub></sup></td>
-            <td align="center">33.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">122</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
