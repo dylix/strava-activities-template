@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Easy spin watching Paris-Roubaix" title="Easy spin watching Paris-Roubaix"/>
+<a href="https://www.strava.com/activities/11128156028" title="Kcal: 1512 | Gear: None ">Easy spin watching Paris-R...</a>
+            </td>
+            <td align="center">90 <sup><sub>km</sub></sup></td>
+            <td align="center">138 <sup><sub>m</sub></sup></td>
+            <td align="center">2:32:01</td>
+            <td align="center">174 <sup><sub>w</sub></sup></td>
+            <td align="center">35.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">125</td>
+        </tr>
+            <tr>
             <td>05-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Getting out before the wind blows in.. cus I&#039;m sm0rt" title="Getting out before the wind blows in.. cus I&#039;m sm0rt"/>
@@ -60,19 +73,6 @@
             <td align="center">155 <sup><sub>w</sub></sup></td>
             <td align="center">34.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>02-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Just feels wrong going counter-clockwise... Also shorts and short sleeves 😲😲" title="Just feels wrong going counter-clockwise... Also shorts and short sleeves 😲😲"/>
-<a href="https://www.strava.com/activities/11093748712" title="Kcal: 2717 | Gear: None ">Just feels wrong going cou...</a>
-            </td>
-            <td align="center">83 <sup><sub>km</sub></sup></td>
-            <td align="center">697 <sup><sub>m</sub></sup></td>
-            <td align="center">2:54:59</td>
-            <td align="center">235 <sup><sub>w</sub></sup></td>
-            <td align="center">28.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>

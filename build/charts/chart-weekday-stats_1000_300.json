@@ -38,31 +38,31 @@
                 },
                 "data": [
                     {
-                        "value": 12.57,
+                        "value": 12.56,
                         "name": "Monday"
                     },
                     {
-                        "value": 12.92,
+                        "value": 12.91,
                         "name": "Tuesday"
                     },
                     {
-                        "value": 13.52,
+                        "value": 13.5,
                         "name": "Wednesday"
                     },
                     {
-                        "value": 12.3,
+                        "value": 12.29,
                         "name": "Thursday"
                     },
                     {
-                        "value": 12.69,
+                        "value": 12.68,
                         "name": "Friday"
                     },
                     {
-                        "value": 17.14,
+                        "value": 17.12,
                         "name": "Saturday"
                     },
                     {
-                        "value": 18.86,
+                        "value": 18.93,
                         "name": "Sunday"
                     }
                 ]
