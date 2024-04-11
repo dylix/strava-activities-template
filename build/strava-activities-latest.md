@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Do I like playing bikes or playing dress up more? 🤷I dunno, spring jersey colors tho! woo!" title="Do I like playing bikes or playing dress up more? 🤷I dunno, spring jersey colors tho! woo!"/>
+<a href="https://www.strava.com/activities/11152613555" title="Kcal: 2616 | Gear: None ">Do I like playing bikes or...</a>
+            </td>
+            <td align="center">86 <sup><sub>km</sub></sup></td>
+            <td align="center">508 <sup><sub>m</sub></sup></td>
+            <td align="center">2:41:50</td>
+            <td align="center">246 <sup><sub>w</sub></sup></td>
+            <td align="center">32 <sup><sub>km/h</sub></sup></td>
+            <td align="center">165</td>
+        </tr>
+            <tr>
             <td>09-04-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="A few days of outside rides and I&#039;m SPOILT. 6 months of Zwift is ENOUGH, lemme go outside mother nature.. please 😇" title="A few days of outside rides and I&#039;m SPOILT. 6 months of Zwift is ENOUGH, lemme go outside mother nature.. please 😇"/>
@@ -60,19 +73,6 @@
             <td align="center">150 <sup><sub>w</sub></sup></td>
             <td align="center">33.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">121</td>
-        </tr>
-            <tr>
-            <td>04-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Sweat, Gears, and Elevation Whimsy" title="Sweat, Gears, and Elevation Whimsy"/>
-<a href="https://www.strava.com/activities/11107451074" title="Kcal: 286 | Gear: None ">Sweat, Gears, and Elevatio...</a>
-            </td>
-            <td align="center">17 <sup><sub>km</sub></sup></td>
-            <td align="center">104 <sup><sub>m</sub></sup></td>
-            <td align="center">30:36</td>
-            <td align="center">158 <sup><sub>w</sub></sup></td>
-            <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">122</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
