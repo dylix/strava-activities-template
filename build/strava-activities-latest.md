@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="It&#039;s been a hot minute since I&#039;ve been down to the Big Hole" title="It&#039;s been a hot minute since I&#039;ve been down to the Big Hole"/>
+<a href="https://www.strava.com/activities/11160169255" title="Kcal: 2333 | Gear: None ">It&#039;s been a hot minute sin...</a>
+            </td>
+            <td align="center">82 <sup><sub>km</sub></sup></td>
+            <td align="center">986 <sup><sub>m</sub></sup></td>
+            <td align="center">2:39:27</td>
+            <td align="center">220 <sup><sub>w</sub></sup></td>
+            <td align="center">30.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">165</td>
+        </tr>
+            <tr>
             <td>10-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Do I like playing bikes or playing dress up more? 🤷I dunno, spring jersey colors tho! woo!" title="Do I like playing bikes or playing dress up more? 🤷I dunno, spring jersey colors tho! woo!"/>
@@ -60,19 +73,6 @@
             <td align="center">228 <sup><sub>w</sub></sup></td>
             <td align="center">30 <sup><sub>km/h</sub></sup></td>
             <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>04-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="3of3 Low Rpm/Low Power. Got tired of waiting for the weather. Heart wasn&#039;t in it, lol" title="3of3 Low Rpm/Low Power. Got tired of waiting for the weather. Heart wasn&#039;t in it, lol"/>
-<a href="https://www.strava.com/activities/11107608664" title="Kcal: 272 | Gear: None ">3of3 Low Rpm/Low Power. Go...</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">28 <sup><sub>m</sub></sup></td>
-            <td align="center">31:35</td>
-            <td align="center">150 <sup><sub>w</sub></sup></td>
-            <td align="center">33.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">121</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
