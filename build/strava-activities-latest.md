@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>14-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ew, driving to ride a bicycle. Exploring on the MTB" title="Ew, driving to ride a bicycle. Exploring on the MTB"/>
+<a href="https://www.strava.com/activities/11183506090" title="Kcal: 1142 | Gear: None ">Ew, driving to ride a bicy...</a>
+            </td>
+            <td align="center">26 <sup><sub>km</sub></sup></td>
+            <td align="center">564 <sup><sub>m</sub></sup></td>
+            <td align="center">1:43:25</td>
+            <td align="center">171 <sup><sub>w</sub></sup></td>
+            <td align="center">14.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">152</td>
+        </tr>
+            <tr>
+            <td>13-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="First Century Loop of 2024, wee!" title="First Century Loop of 2024, wee!"/>
+<a href="https://www.strava.com/activities/11175444599" title="Kcal: 4519 | Gear: None ">First Century Loop of 2024...</a>
+            </td>
+            <td align="center">162 <sup><sub>km</sub></sup></td>
+            <td align="center">1 586 <sup><sub>m</sub></sup></td>
+            <td align="center">5:14:01</td>
+            <td align="center">216 <sup><sub>w</sub></sup></td>
+            <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">155</td>
+        </tr>
+            <tr>
             <td>11-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="It&#039;s been a hot minute since I&#039;ve been down to the Big Hole" title="It&#039;s been a hot minute since I&#039;ve been down to the Big Hole"/>
@@ -47,32 +73,6 @@
             <td align="center">213 <sup><sub>w</sub></sup></td>
             <td align="center">37.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>07-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Easy spin watching Paris-Roubaix" title="Easy spin watching Paris-Roubaix"/>
-<a href="https://www.strava.com/activities/11128156028" title="Kcal: 1512 | Gear: None ">Easy spin watching Paris-R...</a>
-            </td>
-            <td align="center">90 <sup><sub>km</sub></sup></td>
-            <td align="center">138 <sup><sub>m</sub></sup></td>
-            <td align="center">2:32:01</td>
-            <td align="center">174 <sup><sub>w</sub></sup></td>
-            <td align="center">35.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">125</td>
-        </tr>
-            <tr>
-            <td>05-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Getting out before the wind blows in.. cus I&#039;m sm0rt" title="Getting out before the wind blows in.. cus I&#039;m sm0rt"/>
-<a href="https://www.strava.com/activities/11112715748" title="Kcal: 2164 | Gear: None ">Getting out before the win...</a>
-            </td>
-            <td align="center">71 <sup><sub>km</sub></sup></td>
-            <td align="center">612 <sup><sub>m</sub></sup></td>
-            <td align="center">2:23:10</td>
-            <td align="center">228 <sup><sub>w</sub></sup></td>
-            <td align="center">30 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
