@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>16-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Recovery Week - Tempus Fugit in Watopia" title="Recovery Week - Tempus Fugit in Watopia"/>
+<a href="https://www.strava.com/activities/11195148436" title="Kcal: 834 | Gear: None ">Recovery Week - Tempus Fug...</a>
+            </td>
+            <td align="center">53 <sup><sub>km</sub></sup></td>
+            <td align="center">82 <sup><sub>m</sub></sup></td>
+            <td align="center">1:32:43</td>
+            <td align="center">157 <sup><sub>w</sub></sup></td>
+            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">126</td>
+        </tr>
+            <tr>
             <td>14-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ew, driving to ride a bicycle. Exploring on the MTB" title="Ew, driving to ride a bicycle. Exploring on the MTB"/>
@@ -60,19 +73,6 @@
             <td align="center">246 <sup><sub>w</sub></sup></td>
             <td align="center">32 <sup><sub>km/h</sub></sup></td>
             <td align="center">165</td>
-        </tr>
-            <tr>
-            <td>09-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="A few days of outside rides and I&#039;m SPOILT. 6 months of Zwift is ENOUGH, lemme go outside mother nature.. please 😇" title="A few days of outside rides and I&#039;m SPOILT. 6 months of Zwift is ENOUGH, lemme go outside mother nature.. please 😇"/>
-<a href="https://www.strava.com/activities/11142203931" title="Kcal: 1499 | Gear: None ">A few days of outside ride...</a>
-            </td>
-            <td align="center">78 <sup><sub>km</sub></sup></td>
-            <td align="center">117 <sup><sub>m</sub></sup></td>
-            <td align="center">2:03:05</td>
-            <td align="center">213 <sup><sub>w</sub></sup></td>
-            <td align="center">37.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
