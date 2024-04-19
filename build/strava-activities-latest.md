@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Sweat, Gears, and Elevation Shenanigans" title="Sweat, Gears, and Elevation Shenanigans"/>
+<a href="https://www.strava.com/activities/11217310681" title="Kcal: 740 | Gear: None ">Sweat, Gears, and Elevatio...</a>
+            </td>
+            <td align="center">42 <sup><sub>km</sub></sup></td>
+            <td align="center">331 <sup><sub>m</sub></sup></td>
+            <td align="center">1:20:08</td>
+            <td align="center">161 <sup><sub>w</sub></sup></td>
+            <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">119</td>
+        </tr>
+            <tr>
             <td>18-04-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 698 Feet of Quirky Quads!" title="Elevation Escapade: 698 Feet of Quirky Quads!"/>
@@ -60,19 +73,6 @@
             <td align="center">216 <sup><sub>w</sub></sup></td>
             <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>11-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="It&#039;s been a hot minute since I&#039;ve been down to the Big Hole" title="It&#039;s been a hot minute since I&#039;ve been down to the Big Hole"/>
-<a href="https://www.strava.com/activities/11160169255" title="Kcal: 2333 | Gear: None ">It&#039;s been a hot minute sin...</a>
-            </td>
-            <td align="center">82 <sup><sub>km</sub></sup></td>
-            <td align="center">986 <sup><sub>m</sub></sup></td>
-            <td align="center">2:39:27</td>
-            <td align="center">220 <sup><sub>w</sub></sup></td>
-            <td align="center">30.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">165</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
