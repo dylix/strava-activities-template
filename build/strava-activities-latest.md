@@ -12,8 +12,8 @@
             <tr>
             <td>24-04-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Great fucking start 🙄🤬🤬🤬🙄also 😭😭😭" title="Great fucking start 🙄🤬🤬🤬🙄also 😭😭😭"/>
-<a href="https://www.strava.com/activities/11253845560" title="Kcal: 305 | Gear: None ">Great fucking start 🙄🤬🤬🤬🙄a...</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Great start to this trip 🙄🤬🤬🤬🙄... 😭😭😭" title="Great start to this trip 🙄🤬🤬🤬🙄... 😭😭😭"/>
+<a href="https://www.strava.com/activities/11253845560" title="Kcal: 305 | Gear: None ">Great start to this trip 🙄...</a>
             </td>
             <td align="center">10 <sup><sub>km</sub></sup></td>
             <td align="center">124 <sup><sub>m</sub></sup></td>
