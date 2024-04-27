@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>27-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Oh how I&#039;ve missed this route 😍" title="Oh how I&#039;ve missed this route 😍"/>
+<a href="https://www.strava.com/activities/11276450654" title="Kcal: 3547 | Gear: None ">Oh how I&#039;ve missed this ro...</a>
+            </td>
+            <td align="center">117 <sup><sub>km</sub></sup></td>
+            <td align="center">1 285 <sup><sub>m</sub></sup></td>
+            <td align="center">3:47:19</td>
+            <td align="center">237 <sup><sub>w</sub></sup></td>
+            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">169</td>
+        </tr>
+            <tr>
+            <td>26-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="It looks goofy as hell, but that’ll do pig, that’ll do" title="It looks goofy as hell, but that’ll do pig, that’ll do"/>
+<a href="https://www.strava.com/activities/11271432300" title="Kcal: 54 | Gear: None ">It looks goofy as hell, bu...</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">40 <sup><sub>m</sub></sup></td>
+            <td align="center">5:49</td>
+            <td align="center">129 <sup><sub>w</sub></sup></td>
+            <td align="center">22.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>24-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Great start to this trip 🙄🤬🤬🤬🙄... 😭😭😭" title="Great start to this trip 🙄🤬🤬🤬🙄... 😭😭😭"/>
@@ -47,32 +73,6 @@
             <td align="center">161 <sup><sub>w</sub></sup></td>
             <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">119</td>
-        </tr>
-            <tr>
-            <td>18-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Elevation Escapade: 698 Feet of Quirky Quads!" title="Elevation Escapade: 698 Feet of Quirky Quads!"/>
-<a href="https://www.strava.com/activities/11210242904" title="Kcal: 1111 | Gear: None ">Elevation Escapade: 698 Fe...</a>
-            </td>
-            <td align="center">68 <sup><sub>km</sub></sup></td>
-            <td align="center">213 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:23</td>
-            <td align="center">158 <sup><sub>w</sub></sup></td>
-            <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">123</td>
-        </tr>
-            <tr>
-            <td>16-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Recovery Week - Tempus Fugit in Watopia" title="Recovery Week - Tempus Fugit in Watopia"/>
-<a href="https://www.strava.com/activities/11195148436" title="Kcal: 834 | Gear: None ">Recovery Week - Tempus Fug...</a>
-            </td>
-            <td align="center">53 <sup><sub>km</sub></sup></td>
-            <td align="center">82 <sup><sub>m</sub></sup></td>
-            <td align="center">1:32:43</td>
-            <td align="center">157 <sup><sub>w</sub></sup></td>
-            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">126</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
