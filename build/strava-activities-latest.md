@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Miles, Smiles, and a Dash of Delirium" title="Miles, Smiles, and a Dash of Delirium"/>
+<a href="https://www.strava.com/activities/11316713671" title="Kcal: 2559 | Gear: None ">Miles, Smiles, and a Dash ...</a>
+            </td>
+            <td align="center">92 <sup><sub>km</sub></sup></td>
+            <td align="center">973 <sup><sub>m</sub></sup></td>
+            <td align="center">3:10:43</td>
+            <td align="center">199 <sup><sub>w</sub></sup></td>
+            <td align="center">29.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
+            <td>01-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Kennesaw &quot;Mountain&quot; 😇" title="Kennesaw &quot;Mountain&quot; 😇"/>
+<a href="https://www.strava.com/activities/11309390682" title="Kcal: 2975 | Gear: None ">Kennesaw &quot;Mountain&quot; 😇</a>
+            </td>
+            <td align="center">101 <sup><sub>km</sub></sup></td>
+            <td align="center">1 295 <sup><sub>m</sub></sup></td>
+            <td align="center">3:18:08</td>
+            <td align="center">227 <sup><sub>w</sub></sup></td>
+            <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">163</td>
+        </tr>
+            <tr>
+            <td>30-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Way down yonder by the…" title="Way down yonder by the…"/>
+<a href="https://www.strava.com/activities/11301765232" title="Kcal: 2096 | Gear: None ">Way down yonder by the…</a>
+            </td>
+            <td align="center">69 <sup><sub>km</sub></sup></td>
+            <td align="center">828 <sup><sub>m</sub></sup></td>
+            <td align="center">2:08:59</td>
+            <td align="center">246 <sup><sub>w</sub></sup></td>
+            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">163</td>
+        </tr>
+            <tr>
             <td>28-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Pressed for time, only route I know for a quick metric 😅" title="Pressed for time, only route I know for a quick metric 😅"/>
@@ -34,45 +73,6 @@
             <td align="center">237 <sup><sub>w</sub></sup></td>
             <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">169</td>
-        </tr>
-            <tr>
-            <td>26-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="It looks goofy as hell, but that’ll do pig, that’ll do" title="It looks goofy as hell, but that’ll do pig, that’ll do"/>
-<a href="https://www.strava.com/activities/11271432300" title="Kcal: 54 | Gear: None ">It looks goofy as hell, bu...</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">40 <sup><sub>m</sub></sup></td>
-            <td align="center">5:49</td>
-            <td align="center">129 <sup><sub>w</sub></sup></td>
-            <td align="center">22.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>24-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Great start to this trip 🙄🤬🤬🤬🙄... 😭😭😭" title="Great start to this trip 🙄🤬🤬🤬🙄... 😭😭😭"/>
-<a href="https://www.strava.com/activities/11253845560" title="Kcal: 305 | Gear: None ">Great start to this trip 🙄...</a>
-            </td>
-            <td align="center">10 <sup><sub>km</sub></sup></td>
-            <td align="center">124 <sup><sub>m</sub></sup></td>
-            <td align="center">21:57</td>
-            <td align="center">210 <sup><sub>w</sub></sup></td>
-            <td align="center">28 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
-        </tr>
-            <tr>
-            <td>21-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Stumptown 100" title="Stumptown 100"/>
-<a href="https://www.strava.com/activities/11235194836" title="Kcal: 5295 | Gear: None ">Stumptown 100</a>
-            </td>
-            <td align="center">177 <sup><sub>km</sub></sup></td>
-            <td align="center">1 388 <sup><sub>m</sub></sup></td>
-            <td align="center">6:17:38</td>
-            <td align="center">210 <sup><sub>w</sub></sup></td>
-            <td align="center">28.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">153</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
