@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>08-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Every road that I&#039;ve been on, leads me back to you 🎵🎵" title="Every road that I&#039;ve been on, leads me back to you 🎵🎵"/>
+<a href="https://www.strava.com/activities/11361830573" title="Kcal: 2577 | Gear: None ">Every road that I&#039;ve been ...</a>
+            </td>
+            <td align="center">90 <sup><sub>km</sub></sup></td>
+            <td align="center">1 008 <sup><sub>m</sub></sup></td>
+            <td align="center">2:51:36</td>
+            <td align="center">227 <sup><sub>w</sub></sup></td>
+            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
             <td>07-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="78 miles &amp; 7200ft ITP 🤯" title="78 miles &amp; 7200ft ITP 🤯"/>
@@ -59,19 +72,6 @@
             <td align="center">3:18:08</td>
             <td align="center">227 <sup><sub>w</sub></sup></td>
             <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">163</td>
-        </tr>
-            <tr>
-            <td>30-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Way down yonder by the…" title="Way down yonder by the…"/>
-<a href="https://www.strava.com/activities/11301765232" title="Kcal: 2096 | Gear: None ">Way down yonder by the…</a>
-            </td>
-            <td align="center">69 <sup><sub>km</sub></sup></td>
-            <td align="center">828 <sup><sub>m</sub></sup></td>
-            <td align="center">2:08:59</td>
-            <td align="center">246 <sup><sub>w</sub></sup></td>
-            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">163</td>
         </tr>
                 <tr>
