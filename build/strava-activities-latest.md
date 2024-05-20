@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>20-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Perfect Day, Imperfect Ass" title="Perfect Day, Imperfect Ass"/>
+<a href="https://www.strava.com/activities/11455769347" title="Kcal: 18 | Gear: None ">Perfect Day, Imperfect Ass</a>
+            </td>
+            <td align="center">1 <sup><sub>km</sub></sup></td>
+            <td align="center">8 <sup><sub>m</sub></sup></td>
+            <td align="center">3:04</td>
+            <td align="center">79 <sup><sub>w</sub></sup></td>
+            <td align="center">17.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
+        </tr>
+            <tr>
+            <td>20-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Seems this trip is going to start and end on a shitty bike note. At least my time with family was nice" title="Seems this trip is going to start and end on a shitty bike note. At least my time with family was nice"/>
+<a href="https://www.strava.com/activities/11455374523" title="Kcal: 756 | Gear: None ">Seems this trip is going t...</a>
+            </td>
+            <td align="center">25 <sup><sub>km</sub></sup></td>
+            <td align="center">306 <sup><sub>m</sub></sup></td>
+            <td align="center">51:27</td>
+            <td align="center">220 <sup><sub>w</sub></sup></td>
+            <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">158</td>
+        </tr>
+            <tr>
             <td>18-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Aimless ride in the 🌧️" title="Aimless ride in the 🌧️"/>
@@ -47,32 +73,6 @@
             <td align="center">198 <sup><sub>w</sub></sup></td>
             <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>10-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Broke Neck Mountain" title="Broke Neck Mountain"/>
-<a href="https://www.strava.com/activities/11379076605" title="Kcal: 3008 | Gear: None ">Broke Neck Mountain</a>
-            </td>
-            <td align="center">100 <sup><sub>km</sub></sup></td>
-            <td align="center">1 304 <sup><sub>m</sub></sup></td>
-            <td align="center">3:17:37</td>
-            <td align="center">231 <sup><sub>w</sub></sup></td>
-            <td align="center">30.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">158</td>
-        </tr>
-            <tr>
-            <td>08-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Every road that I&#039;ve been on, leads me back to you 🎵🎵" title="Every road that I&#039;ve been on, leads me back to you 🎵🎵"/>
-<a href="https://www.strava.com/activities/11361830573" title="Kcal: 2577 | Gear: None ">Every road that I&#039;ve been ...</a>
-            </td>
-            <td align="center">90 <sup><sub>km</sub></sup></td>
-            <td align="center">1 008 <sup><sub>m</sub></sup></td>
-            <td align="center">2:51:36</td>
-            <td align="center">227 <sup><sub>w</sub></sup></td>
-            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">153</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
