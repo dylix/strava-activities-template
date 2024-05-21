@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>21-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Last ride in ATL for a bit 🥲🥲Wonder if I can get my altitude acclimation back less than a week 😅😅" title="Last ride in ATL for a bit 🥲🥲Wonder if I can get my altitude acclimation back less than a week 😅😅"/>
+<a href="https://www.strava.com/activities/11463638432" title="Kcal: 2847 | Gear: None ">Last ride in ATL for a bit...</a>
+            </td>
+            <td align="center">102 <sup><sub>km</sub></sup></td>
+            <td align="center">1 118 <sup><sub>m</sub></sup></td>
+            <td align="center">3:15:07</td>
+            <td align="center">219 <sup><sub>w</sub></sup></td>
+            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
+            <td>20-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Trying again today, wtb sealant suxxxxxxx. (no surprise) dynaplug to the rescue" title="Trying again today, wtb sealant suxxxxxxx. (no surprise) dynaplug to the rescue"/>
+<a href="https://www.strava.com/activities/11458330711" title="Kcal: 1497 | Gear: None ">Trying again today, wtb se...</a>
+            </td>
+            <td align="center">50 <sup><sub>km</sub></sup></td>
+            <td align="center">769 <sup><sub>m</sub></sup></td>
+            <td align="center">1:37:13</td>
+            <td align="center">234 <sup><sub>w</sub></sup></td>
+            <td align="center">31 <sup><sub>km/h</sub></sup></td>
+            <td align="center">166</td>
+        </tr>
+            <tr>
             <td>20-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Perfect Day, Imperfect Ass" title="Perfect Day, Imperfect Ass"/>
@@ -47,32 +73,6 @@
             <td align="center">223 <sup><sub>w</sub></sup></td>
             <td align="center">30.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">153</td>
-        </tr>
-            <tr>
-            <td>16-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Day 2: Chief Ladiga -&gt; Silver Comet" title="Day 2: Chief Ladiga -&gt; Silver Comet"/>
-<a href="https://www.strava.com/activities/11426433085" title="Kcal: 4660 | Gear: None ">Day 2: Chief Ladiga -&gt; Sil...</a>
-            </td>
-            <td align="center">179 <sup><sub>km</sub></sup></td>
-            <td align="center">1 091 <sup><sub>m</sub></sup></td>
-            <td align="center">5:38:25</td>
-            <td align="center">206 <sup><sub>w</sub></sup></td>
-            <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>15-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Silver Comet -&gt; Chief Ladiga" title="Silver Comet -&gt; Chief Ladiga"/>
-<a href="https://www.strava.com/activities/11419256523" title="Kcal: 4477 | Gear: None ">Silver Comet -&gt; Chief Ladiga</a>
-            </td>
-            <td align="center">173 <sup><sub>km</sub></sup></td>
-            <td align="center">960 <sup><sub>m</sub></sup></td>
-            <td align="center">5:36:24</td>
-            <td align="center">198 <sup><sub>w</sub></sup></td>
-            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
