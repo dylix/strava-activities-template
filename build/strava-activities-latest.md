@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>23-05-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Spandex Ballet: When the Seagulls Follow Montezuma to Tripoli" title="Spandex Ballet: When the Seagulls Follow Montezuma to Tripoli"/>
+<a href="https://www.strava.com/activities/11479337450" title="Kcal: 914 | Gear: None ">Spandex Ballet: When the S...</a>
+            </td>
+            <td align="center">55 <sup><sub>km</sub></sup></td>
+            <td align="center">279 <sup><sub>m</sub></sup></td>
+            <td align="center">1:31:15</td>
+            <td align="center">175 <sup><sub>w</sub></sup></td>
+            <td align="center">36.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
+        </tr>
+            <tr>
             <td>21-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Last ride in ATL for a bit 🥲🥲Wonder if I can get my altitude acclimation back less than a week 😅😅" title="Last ride in ATL for a bit 🥲🥲Wonder if I can get my altitude acclimation back less than a week 😅😅"/>
@@ -60,19 +73,6 @@
             <td align="center">220 <sup><sub>w</sub></sup></td>
             <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">158</td>
-        </tr>
-            <tr>
-            <td>18-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Aimless ride in the 🌧️" title="Aimless ride in the 🌧️"/>
-<a href="https://www.strava.com/activities/11438965797" title="Kcal: 1898 | Gear: None ">Aimless ride in the 🌧️</a>
-            </td>
-            <td align="center">64 <sup><sub>km</sub></sup></td>
-            <td align="center">685 <sup><sub>m</sub></sup></td>
-            <td align="center">2:07:46</td>
-            <td align="center">223 <sup><sub>w</sub></sup></td>
-            <td align="center">30.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">153</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
