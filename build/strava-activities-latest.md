@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>25-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Sunny Side Up Spin" title="Sunny Side Up Spin"/>
+<a href="https://www.strava.com/activities/11496448038" title="Kcal: 2586 | Gear: None ">Sunny Side Up Spin</a>
+            </td>
+            <td align="center">86 <sup><sub>km</sub></sup></td>
+            <td align="center">501 <sup><sub>m</sub></sup></td>
+            <td align="center">2:54:01</td>
+            <td align="center">224 <sup><sub>w</sub></sup></td>
+            <td align="center">29.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">152</td>
+        </tr>
+            <tr>
             <td>23-05-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Spandex Ballet: When the Seagulls Follow Montezuma to Tripoli" title="Spandex Ballet: When the Seagulls Follow Montezuma to Tripoli"/>
@@ -60,19 +73,6 @@
             <td align="center">79 <sup><sub>w</sub></sup></td>
             <td align="center">17.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>20-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Seems this trip is going to start and end on a shitty bike note. At least my time with family was nice" title="Seems this trip is going to start and end on a shitty bike note. At least my time with family was nice"/>
-<a href="https://www.strava.com/activities/11455374523" title="Kcal: 756 | Gear: None ">Seems this trip is going t...</a>
-            </td>
-            <td align="center">25 <sup><sub>km</sub></sup></td>
-            <td align="center">306 <sup><sub>m</sub></sup></td>
-            <td align="center">51:27</td>
-            <td align="center">220 <sup><sub>w</sub></sup></td>
-            <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">158</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
