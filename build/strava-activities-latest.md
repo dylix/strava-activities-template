@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Hot Wheels and Hilltop Thrills" title="Hot Wheels and Hilltop Thrills"/>
+<a href="https://www.strava.com/activities/11557458014" title="Kcal: 678 | Gear: None ">Hot Wheels and Hilltop Thr...</a>
+            </td>
+            <td align="center">23 <sup><sub>km</sub></sup></td>
+            <td align="center">231 <sup><sub>m</sub></sup></td>
+            <td align="center">53:42</td>
+            <td align="center">191 <sup><sub>w</sub></sup></td>
+            <td align="center">25.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">136</td>
+        </tr>
+            <tr>
+            <td>01-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Unbound 100 2024" title="Unbound 100 2024"/>
+<a href="https://www.strava.com/activities/11550173046" title="Kcal: 4917 | Gear: None ">Unbound 100 2024</a>
+            </td>
+            <td align="center">174 <sup><sub>km</sub></sup></td>
+            <td align="center">1 565 <sup><sub>m</sub></sup></td>
+            <td align="center">5:54:20</td>
+            <td align="center">207 <sup><sub>w</sub></sup></td>
+            <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
             <td>01-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Zippy Noodle Dash" title="Zippy Noodle Dash"/>
@@ -47,32 +73,6 @@
             <td align="center">203 <sup><sub>w</sub></sup></td>
             <td align="center">24.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">159</td>
-        </tr>
-            <tr>
-            <td>27-05-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cloud Surfing on the Humidity Highway" title="Cloud Surfing on the Humidity Highway"/>
-<a href="https://www.strava.com/activities/11510151848" title="Kcal: 607 | Gear: None ">Cloud Surfing on the Humid...</a>
-            </td>
-            <td align="center">37 <sup><sub>km</sub></sup></td>
-            <td align="center">140 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:52</td>
-            <td align="center">174 <sup><sub>w</sub></sup></td>
-            <td align="center">36.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">129</td>
-        </tr>
-            <tr>
-            <td>25-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Sunny Side Up Spin" title="Sunny Side Up Spin"/>
-<a href="https://www.strava.com/activities/11496448038" title="Kcal: 2586 | Gear: None ">Sunny Side Up Spin</a>
-            </td>
-            <td align="center">86 <sup><sub>km</sub></sup></td>
-            <td align="center">501 <sup><sub>m</sub></sup></td>
-            <td align="center">2:54:01</td>
-            <td align="center">224 <sup><sub>w</sub></sup></td>
-            <td align="center">29.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
