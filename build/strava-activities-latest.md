@@ -12,6 +12,19 @@
             <tr>
             <td>07-06-24</td>
             <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Extra credit" title="Extra credit"/>
+<a href="https://www.strava.com/activities/11597957850" title="Kcal: 923 | Gear: None ">Extra credit</a>
+            </td>
+            <td align="center">39 <sup><sub>km</sub></sup></td>
+            <td align="center">125 <sup><sub>m</sub></sup></td>
+            <td align="center">1:11:47</td>
+            <td align="center">188 <sup><sub>w</sub></sup></td>
+            <td align="center">32.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">161</td>
+        </tr>
+            <tr>
+            <td>07-06-24</td>
+            <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Little Cottonwood w/ Sawyer" title="Little Cottonwood w/ Sawyer"/>
 <a href="https://www.strava.com/activities/11597193751" title="Kcal: 2069 | Gear: None ">Little Cottonwood w/ Sawyer</a>
             </td>
@@ -60,19 +73,6 @@
             <td align="center">191 <sup><sub>w</sub></sup></td>
             <td align="center">25.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>01-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Unbound 100 2024" title="Unbound 100 2024"/>
-<a href="https://www.strava.com/activities/11550173046" title="Kcal: 4917 | Gear: None ">Unbound 100 2024</a>
-            </td>
-            <td align="center">174 <sup><sub>km</sub></sup></td>
-            <td align="center">1 565 <sup><sub>m</sub></sup></td>
-            <td align="center">5:54:20</td>
-            <td align="center">207 <sup><sub>w</sub></sup></td>
-            <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">154</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
