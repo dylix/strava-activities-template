@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Anaconda Bicycles 4 mile basin" title="Anaconda Bicycles 4 mile basin"/>
+<a href="https://www.strava.com/activities/11694437908" title="Kcal: 1137 | Gear: None ">Anaconda Bicycles 4 mile b...</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">587 <sup><sub>m</sub></sup></td>
+            <td align="center">1:58:19</td>
+            <td align="center">139 <sup><sub>w</sub></sup></td>
+            <td align="center">13.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">152</td>
+        </tr>
+            <tr>
+            <td>19-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Pre-ride. ⛈️⛈️ ⬆️⬇️Guess I’ll wait an hour." title="Pre-ride. ⛈️⛈️ ⬆️⬇️Guess I’ll wait an hour."/>
+<a href="https://www.strava.com/activities/11693550072" title="Kcal: 275 | Gear: None ">Pre-ride. ⛈️⛈️ ⬆️⬇️Guess I...</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">142 <sup><sub>m</sub></sup></td>
+            <td align="center">22:06</td>
+            <td align="center">180 <sup><sub>w</sub></sup></td>
+            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">164</td>
+        </tr>
+            <tr>
             <td>17-06-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Glyph Heights in Watopia" title="Glyph Heights in Watopia"/>
@@ -47,32 +73,6 @@
             <td align="center">188 <sup><sub>w</sub></sup></td>
             <td align="center">32.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>07-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Little Cottonwood w/ Sawyer" title="Little Cottonwood w/ Sawyer"/>
-<a href="https://www.strava.com/activities/11597193751" title="Kcal: 2069 | Gear: None ">Little Cottonwood w/ Sawyer</a>
-            </td>
-            <td align="center">66 <sup><sub>km</sub></sup></td>
-            <td align="center">1 473 <sup><sub>m</sub></sup></td>
-            <td align="center">2:56:11</td>
-            <td align="center">173 <sup><sub>w</sub></sup></td>
-            <td align="center">22.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>06-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Shakedown of the road bike. It’s been neglected this trip 😅" title="Shakedown of the road bike. It’s been neglected this trip 😅"/>
-<a href="https://www.strava.com/activities/11591924638" title="Kcal: 985 | Gear: None ">Shakedown of the road bike...</a>
-            </td>
-            <td align="center">46 <sup><sub>km</sub></sup></td>
-            <td align="center">198 <sup><sub>m</sub></sup></td>
-            <td align="center">1:46:07</td>
-            <td align="center">129 <sup><sub>w</sub></sup></td>
-            <td align="center">26 <sup><sub>km/h</sub></sup></td>
-            <td align="center">128</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
