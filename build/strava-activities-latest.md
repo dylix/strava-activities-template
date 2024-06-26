@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Mountain Bike Ride" title="Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/11746497482" title="Kcal: 1260 | Gear: None ">Morning Mountain Bike Ride</a>
+            </td>
+            <td align="center">24 <sup><sub>km</sub></sup></td>
+            <td align="center">627 <sup><sub>m</sub></sup></td>
+            <td align="center">1:56:58</td>
+            <td align="center">146 <sup><sub>w</sub></sup></td>
+            <td align="center">12.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">159</td>
+        </tr>
+            <tr>
+            <td>25-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Storm Lake .. was very pleasant until the cagers showed up 🤮" title="Storm Lake .. was very pleasant until the cagers showed up 🤮"/>
+<a href="https://www.strava.com/activities/11738734949" title="Kcal: 2698 | Gear: None ">Storm Lake .. was very ple...</a>
+            </td>
+            <td align="center">86 <sup><sub>km</sub></sup></td>
+            <td align="center">1 027 <sup><sub>m</sub></sup></td>
+            <td align="center">3:05:39</td>
+            <td align="center">219 <sup><sub>w</sub></sup></td>
+            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">161</td>
+        </tr>
+            <tr>
             <td>24-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Struggle Bus" title="Struggle Bus"/>
@@ -47,32 +73,6 @@
             <td align="center">139 <sup><sub>w</sub></sup></td>
             <td align="center">13.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>19-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Pre-ride. ⛈️⛈️ ⬆️⬇️Guess I’ll wait an hour." title="Pre-ride. ⛈️⛈️ ⬆️⬇️Guess I’ll wait an hour."/>
-<a href="https://www.strava.com/activities/11693550072" title="Kcal: 275 | Gear: None ">Pre-ride. ⛈️⛈️ ⬆️⬇️Guess I...</a>
-            </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">142 <sup><sub>m</sub></sup></td>
-            <td align="center">22:06</td>
-            <td align="center">180 <sup><sub>w</sub></sup></td>
-            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">164</td>
-        </tr>
-            <tr>
-            <td>17-06-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Glyph Heights in Watopia" title="Glyph Heights in Watopia"/>
-<a href="https://www.strava.com/activities/11674542541" title="Kcal: 1456 | Gear: None ">Glyph Heights in Watopia</a>
-            </td>
-            <td align="center">65 <sup><sub>km</sub></sup></td>
-            <td align="center">766 <sup><sub>m</sub></sup></td>
-            <td align="center">2:05:03</td>
-            <td align="center">203 <sup><sub>w</sub></sup></td>
-            <td align="center">31.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
