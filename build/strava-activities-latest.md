@@ -10,10 +10,49 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>30-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="East Fork (Plan B)" title="East Fork (Plan B)"/>
+<a href="https://www.strava.com/activities/11777554638" title="Kcal: 3249 | Gear: None ">East Fork (Plan B)</a>
+            </td>
+            <td align="center">104 <sup><sub>km</sub></sup></td>
+            <td align="center">931 <sup><sub>m</sub></sup></td>
+            <td align="center">3:31:36</td>
+            <td align="center">233 <sup><sub>w</sub></sup></td>
+            <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
+            <td>29-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="It’s not much, but it’s honest work" title="It’s not much, but it’s honest work"/>
+<a href="https://www.strava.com/activities/11769916712" title="Kcal: 1738 | Gear: None ">It’s not much, but it’s ho...</a>
+            </td>
+            <td align="center">67 <sup><sub>km</sub></sup></td>
+            <td align="center">269 <sup><sub>m</sub></sup></td>
+            <td align="center">1:49:26</td>
+            <td align="center">241 <sup><sub>w</sub></sup></td>
+            <td align="center">36.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">162</td>
+        </tr>
+            <tr>
             <td>26-06-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Mountain Bike Ride" title="Morning Mountain Bike Ride"/>
-<a href="https://www.strava.com/activities/11746497482" title="Kcal: 1260 | Gear: None ">Morning Mountain Bike Ride</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Speedy Sloth&#039;s Slightly Sweaty Spin" title="The Speedy Sloth&#039;s Slightly Sweaty Spin"/>
+<a href="https://www.strava.com/activities/11748751505" title="Kcal: 983 | Gear: None ">The Speedy Sloth&#039;s Slightl...</a>
+            </td>
+            <td align="center">34 <sup><sub>km</sub></sup></td>
+            <td align="center">240 <sup><sub>m</sub></sup></td>
+            <td align="center">1:18:16</td>
+            <td align="center">186 <sup><sub>w</sub></sup></td>
+            <td align="center">26.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">152</td>
+        </tr>
+            <tr>
+            <td>26-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="A little morning 🪚🪚🪚" title="A little morning 🪚🪚🪚"/>
+<a href="https://www.strava.com/activities/11746497482" title="Kcal: 1260 | Gear: None ">A little morning 🪚🪚🪚</a>
             </td>
             <td align="center">24 <sup><sub>km</sub></sup></td>
             <td align="center">627 <sup><sub>m</sub></sup></td>
@@ -34,45 +73,6 @@
             <td align="center">219 <sup><sub>w</sub></sup></td>
             <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>24-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Struggle Bus" title="Struggle Bus"/>
-<a href="https://www.strava.com/activities/11728784555" title="Kcal: 1595 | Gear: None ">Struggle Bus</a>
-            </td>
-            <td align="center">62 <sup><sub>km</sub></sup></td>
-            <td align="center">475 <sup><sub>m</sub></sup></td>
-            <td align="center">1:45:52</td>
-            <td align="center">228 <sup><sub>w</sub></sup></td>
-            <td align="center">35 <sup><sub>km/h</sub></sup></td>
-            <td align="center">171</td>
-        </tr>
-            <tr>
-            <td>20-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Tacking on some &quot;new&quot; miles 😍" title="Tacking on some &quot;new&quot; miles 😍"/>
-<a href="https://www.strava.com/activities/11700698501" title="Kcal: 4097 | Gear: None ">Tacking on some &quot;new&quot; mile...</a>
-            </td>
-            <td align="center">134 <sup><sub>km</sub></sup></td>
-            <td align="center">1 395 <sup><sub>m</sub></sup></td>
-            <td align="center">4:55:01</td>
-            <td align="center">208 <sup><sub>w</sub></sup></td>
-            <td align="center">27.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">165</td>
-        </tr>
-            <tr>
-            <td>19-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Anaconda Bicycles 4 mile basin" title="Anaconda Bicycles 4 mile basin"/>
-<a href="https://www.strava.com/activities/11694437908" title="Kcal: 1137 | Gear: None ">Anaconda Bicycles 4 mile b...</a>
-            </td>
-            <td align="center">27 <sup><sub>km</sub></sup></td>
-            <td align="center">587 <sup><sub>m</sub></sup></td>
-            <td align="center">1:58:19</td>
-            <td align="center">139 <sup><sub>w</sub></sup></td>
-            <td align="center">13.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
