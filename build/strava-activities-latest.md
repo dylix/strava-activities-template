@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>04-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ride home from parade" title="Ride home from parade"/>
+<a href="https://www.strava.com/activities/11810286622" title="Kcal: 152 | Gear: None ">Ride home from parade</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">9:51</td>
+            <td align="center">235 <sup><sub>w</sub></sup></td>
+            <td align="center">46.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">170</td>
+        </tr>
+            <tr>
+            <td>04-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Anaconda Parade" title="Anaconda Parade"/>
+<a href="https://www.strava.com/activities/11810187583" title="Kcal: 60 | Gear: None ">Anaconda Parade</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">30 <sup><sub>m</sub></sup></td>
+            <td align="center">22:30</td>
+            <td align="center">24 <sup><sub>w</sub></sup></td>
+            <td align="center">6.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">111</td>
+        </tr>
+            <tr>
+            <td>04-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Born on the 4th, riding on the 4th, looking like the 4th" title="Born on the 4th, riding on the 4th, looking like the 4th"/>
+<a href="https://www.strava.com/activities/11809663604" title="Kcal: 1839 | Gear: None ">Born on the 4th, riding on...</a>
+            </td>
+            <td align="center">69 <sup><sub>km</sub></sup></td>
+            <td align="center">319 <sup><sub>m</sub></sup></td>
+            <td align="center">1:56:27</td>
+            <td align="center">240 <sup><sub>w</sub></sup></td>
+            <td align="center">35.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">163</td>
+        </tr>
+            <tr>
             <td>03-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Hills Have Thighs" title="The Hills Have Thighs"/>
@@ -34,45 +73,6 @@
             <td align="center">200 <sup><sub>w</sub></sup></td>
             <td align="center">18.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">166</td>
-        </tr>
-            <tr>
-            <td>30-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="East Fork (Plan B)" title="East Fork (Plan B)"/>
-<a href="https://www.strava.com/activities/11777554638" title="Kcal: 3249 | Gear: None ">East Fork (Plan B)</a>
-            </td>
-            <td align="center">104 <sup><sub>km</sub></sup></td>
-            <td align="center">931 <sup><sub>m</sub></sup></td>
-            <td align="center">3:31:36</td>
-            <td align="center">233 <sup><sub>w</sub></sup></td>
-            <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">156</td>
-        </tr>
-            <tr>
-            <td>29-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="It’s not much, but it’s honest work" title="It’s not much, but it’s honest work"/>
-<a href="https://www.strava.com/activities/11769916712" title="Kcal: 1738 | Gear: None ">It’s not much, but it’s ho...</a>
-            </td>
-            <td align="center">67 <sup><sub>km</sub></sup></td>
-            <td align="center">269 <sup><sub>m</sub></sup></td>
-            <td align="center">1:49:26</td>
-            <td align="center">241 <sup><sub>w</sub></sup></td>
-            <td align="center">36.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">162</td>
-        </tr>
-            <tr>
-            <td>26-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Speedy Sloth&#039;s Slightly Sweaty Spin" title="The Speedy Sloth&#039;s Slightly Sweaty Spin"/>
-<a href="https://www.strava.com/activities/11748751505" title="Kcal: 983 | Gear: None ">The Speedy Sloth&#039;s Slightl...</a>
-            </td>
-            <td align="center">34 <sup><sub>km</sub></sup></td>
-            <td align="center">240 <sup><sub>m</sub></sup></td>
-            <td align="center">1:18:16</td>
-            <td align="center">186 <sup><sub>w</sub></sup></td>
-            <td align="center">26.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
