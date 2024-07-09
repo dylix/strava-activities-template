@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>08-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Tortoise Trot: A Slow Burn on Wheels" title="The Tortoise Trot: A Slow Burn on Wheels"/>
+<a href="https://www.strava.com/activities/11840309197" title="Kcal: 1514 | Gear: None ">The Tortoise Trot: A Slow ...</a>
+            </td>
+            <td align="center">55 <sup><sub>km</sub></sup></td>
+            <td align="center">303 <sup><sub>m</sub></sup></td>
+            <td align="center">1:45:47</td>
+            <td align="center">215 <sup><sub>w</sub></sup></td>
+            <td align="center">31 <sup><sub>km/h</sub></sup></td>
+            <td align="center">158</td>
+        </tr>
+            <tr>
             <td>04-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ride home from parade" title="Ride home from parade"/>
@@ -59,19 +72,6 @@
             <td align="center">2:45:18</td>
             <td align="center">145 <sup><sub>w</sub></sup></td>
             <td align="center">12.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">166</td>
-        </tr>
-            <tr>
-            <td>02-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Tooling around Echo Lake" title="Tooling around Echo Lake"/>
-<a href="https://www.strava.com/activities/11793600010" title="Kcal: 1288 | Gear: None ">Tooling around Echo Lake</a>
-            </td>
-            <td align="center">30 <sup><sub>km</sub></sup></td>
-            <td align="center">585 <sup><sub>m</sub></sup></td>
-            <td align="center">1:36:04</td>
-            <td align="center">200 <sup><sub>w</sub></sup></td>
-            <td align="center">18.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">166</td>
         </tr>
                 <tr>
