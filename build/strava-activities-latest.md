@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Watching TDF and riding outside lol" title="Watching TDF and riding outside lol"/>
+<a href="https://www.strava.com/activities/11879036627" title="Kcal: 1470 | Gear: None ">Watching TDF and riding ou...</a>
+            </td>
+            <td align="center">61 <sup><sub>km</sub></sup></td>
+            <td align="center">383 <sup><sub>m</sub></sup></td>
+            <td align="center">2:01:20</td>
+            <td align="center">178 <sup><sub>w</sub></sup></td>
+            <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
+            <td>12-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Slimming down for the beach and heat == cramps 🤕🤕" title="Slimming down for the beach and heat == cramps 🤕🤕"/>
+<a href="https://www.strava.com/activities/11872214855" title="Kcal: 2426 | Gear: None ">Slimming down for the beac...</a>
+            </td>
+            <td align="center">93 <sup><sub>km</sub></sup></td>
+            <td align="center">784 <sup><sub>m</sub></sup></td>
+            <td align="center">2:43:01</td>
+            <td align="center">224 <sup><sub>w</sub></sup></td>
+            <td align="center">34.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">173</td>
+        </tr>
+            <tr>
             <td>11-07-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Crusher Canceled 😭and smoke outside here, at least I have some A/C now" title="Crusher Canceled 😭and smoke outside here, at least I have some A/C now"/>
@@ -47,32 +73,6 @@
             <td align="center">235 <sup><sub>w</sub></sup></td>
             <td align="center">46.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">170</td>
-        </tr>
-            <tr>
-            <td>04-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Anaconda Parade" title="Anaconda Parade"/>
-<a href="https://www.strava.com/activities/11810187583" title="Kcal: 60 | Gear: None ">Anaconda Parade</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">30 <sup><sub>m</sub></sup></td>
-            <td align="center">22:30</td>
-            <td align="center">24 <sup><sub>w</sub></sup></td>
-            <td align="center">6.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">111</td>
-        </tr>
-            <tr>
-            <td>04-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Born on the 4th, riding on the 4th, looking like the 4th" title="Born on the 4th, riding on the 4th, looking like the 4th"/>
-<a href="https://www.strava.com/activities/11809663604" title="Kcal: 1839 | Gear: None ">Born on the 4th, riding on...</a>
-            </td>
-            <td align="center">69 <sup><sub>km</sub></sup></td>
-            <td align="center">319 <sup><sub>m</sub></sup></td>
-            <td align="center">1:56:27</td>
-            <td align="center">240 <sup><sub>w</sub></sup></td>
-            <td align="center">35.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">163</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
