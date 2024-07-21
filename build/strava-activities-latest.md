@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>21-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Short-n-sassy.. just how it should be 🤔🤓" title="Short-n-sassy.. just how it should be 🤔🤓"/>
+<a href="https://www.strava.com/activities/11944756507" title="Kcal: 1566 | Gear: None ">Short-n-sassy.. just how i...</a>
+            </td>
+            <td align="center">50 <sup><sub>km</sub></sup></td>
+            <td align="center">764 <sup><sub>m</sub></sup></td>
+            <td align="center">1:34:09</td>
+            <td align="center">253 <sup><sub>w</sub></sup></td>
+            <td align="center">32 <sup><sub>km/h</sub></sup></td>
+            <td align="center">178</td>
+        </tr>
+            <tr>
             <td>18-07-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="UPS 🚚actively ruining my outside plans ✍️ .. well and the smoke 🤷" title="UPS 🚚actively ruining my outside plans ✍️ .. well and the smoke 🤷"/>
@@ -60,19 +73,6 @@
             <td align="center">164 <sup><sub>w</sub></sup></td>
             <td align="center">17.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">166</td>
-        </tr>
-            <tr>
-            <td>14-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Rolling Thunder Thighs Adventure" title="The Rolling Thunder Thighs Adventure"/>
-<a href="https://www.strava.com/activities/11888904373" title="Kcal: 2105 | Gear: None ">The Rolling Thunder Thighs...</a>
-            </td>
-            <td align="center">86 <sup><sub>km</sub></sup></td>
-            <td align="center">535 <sup><sub>m</sub></sup></td>
-            <td align="center">2:35:23</td>
-            <td align="center">203 <sup><sub>w</sub></sup></td>
-            <td align="center">33.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">162</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
