@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>25-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Leisurely Loop-de-loop" title="The Leisurely Loop-de-loop"/>
+<a href="https://www.strava.com/activities/11977471339" title="Kcal: 4 | Gear: None ">The Leisurely Loop-de-loop</a>
+            </td>
+            <td align="center">1 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">2:08</td>
+            <td align="center">6 <sup><sub>w</sub></sup></td>
+            <td align="center">15.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">105</td>
+        </tr>
+            <tr>
+            <td>25-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Oof. A gash too big for dynaplug 😬 Good thing family was nearby 🤗" title="Oof. A gash too big for dynaplug 😬 Good thing family was nearby 🤗"/>
+<a href="https://www.strava.com/activities/11977470570" title="Kcal: 1090 | Gear: None ">Oof. A gash too big for dy...</a>
+            </td>
+            <td align="center">37 <sup><sub>km</sub></sup></td>
+            <td align="center">370 <sup><sub>m</sub></sup></td>
+            <td align="center">1:12:01</td>
+            <td align="center">230 <sup><sub>w</sub></sup></td>
+            <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">159</td>
+        </tr>
+            <tr>
             <td>24-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Flailing Flamingo Ride" title="The Flailing Flamingo Ride"/>
@@ -47,32 +73,6 @@
             <td align="center">232 <sup><sub>w</sub></sup></td>
             <td align="center">31.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">173</td>
-        </tr>
-            <tr>
-            <td>21-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Short-n-sassy.. just how it should be 🤔🤓" title="Short-n-sassy.. just how it should be 🤔🤓"/>
-<a href="https://www.strava.com/activities/11944756507" title="Kcal: 1566 | Gear: None ">Short-n-sassy.. just how i...</a>
-            </td>
-            <td align="center">50 <sup><sub>km</sub></sup></td>
-            <td align="center">764 <sup><sub>m</sub></sup></td>
-            <td align="center">1:34:09</td>
-            <td align="center">253 <sup><sub>w</sub></sup></td>
-            <td align="center">32 <sup><sub>km/h</sub></sup></td>
-            <td align="center">178</td>
-        </tr>
-            <tr>
-            <td>18-07-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="UPS 🚚actively ruining my outside plans ✍️ .. well and the smoke 🤷" title="UPS 🚚actively ruining my outside plans ✍️ .. well and the smoke 🤷"/>
-<a href="https://www.strava.com/activities/11920736407" title="Kcal: 1263 | Gear: None ">UPS 🚚actively ruining my o...</a>
-            </td>
-            <td align="center">76 <sup><sub>km</sub></sup></td>
-            <td align="center">118 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:57</td>
-            <td align="center">179 <sup><sub>w</sub></sup></td>
-            <td align="center">37 <sup><sub>km/h</sub></sup></td>
-            <td align="center">132</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
