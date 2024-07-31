@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>31-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Gulf State Park, tried to hit all the bike paths.. Z2 ride is kinda possible outside" title="Gulf State Park, tried to hit all the bike paths.. Z2 ride is kinda possible outside"/>
+<a href="https://www.strava.com/activities/12027421679" title="Kcal: 1781 | Gear: None ">Gulf State Park, tried to ...</a>
+            </td>
+            <td align="center">74 <sup><sub>km</sub></sup></td>
+            <td align="center">135 <sup><sub>m</sub></sup></td>
+            <td align="center">2:28:36</td>
+            <td align="center">175 <sup><sub>w</sub></sup></td>
+            <td align="center">29.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">134</td>
+        </tr>
+            <tr>
             <td>30-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Fort Morgan w/ bonus showers" title="Fort Morgan w/ bonus showers"/>
@@ -60,19 +73,6 @@
             <td align="center">243 <sup><sub>w</sub></sup></td>
             <td align="center">32.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">164</td>
-        </tr>
-            <tr>
-            <td>25-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Leisurely Loop-de-loop" title="The Leisurely Loop-de-loop"/>
-<a href="https://www.strava.com/activities/11977471339" title="Kcal: 4 | Gear: None ">The Leisurely Loop-de-loop</a>
-            </td>
-            <td align="center">1 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">2:08</td>
-            <td align="center">6 <sup><sub>w</sub></sup></td>
-            <td align="center">15.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">105</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
