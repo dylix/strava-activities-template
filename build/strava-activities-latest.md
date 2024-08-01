@@ -10,9 +10,22 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-08-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="BamaHenge, Neptunes Foutain, Dinosaurs in the woods &amp; Lady in the Bay" title="BamaHenge, Neptunes Foutain, Dinosaurs in the woods &amp; Lady in the Bay"/>
+<a href="https://www.strava.com/activities/12035733449" title="Kcal: 2731 | Gear: None ">BamaHenge, Neptunes Foutai...</a>
+            </td>
+            <td align="center">104 <sup><sub>km</sub></sup></td>
+            <td align="center">301 <sup><sub>m</sub></sup></td>
+            <td align="center">2:56:45</td>
+            <td align="center">234 <sup><sub>w</sub></sup></td>
+            <td align="center">35.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
             <td>31-07-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Gulf State Park, tried to hit all the bike paths.. Z2 ride is kinda possible outside" title="Gulf State Park, tried to hit all the bike paths.. Z2 ride is kinda possible outside"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Gulf State Park, tried to hit all the bike paths.." title="Gulf State Park, tried to hit all the bike paths.."/>
 <a href="https://www.strava.com/activities/12027421679" title="Kcal: 1781 | Gear: None ">Gulf State Park, tried to ...</a>
             </td>
             <td align="center">74 <sup><sub>km</sub></sup></td>
@@ -59,19 +72,6 @@
             <td align="center">1:40:27</td>
             <td align="center">251 <sup><sub>w</sub></sup></td>
             <td align="center">36.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">164</td>
-        </tr>
-            <tr>
-            <td>26-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Imma let you finish, but this is my favorite route in Atlanta, of all time... ALL TIME." title="Imma let you finish, but this is my favorite route in Atlanta, of all time... ALL TIME."/>
-<a href="https://www.strava.com/activities/11986478974" title="Kcal: 2977 | Gear: None ">Imma let you finish, but t...</a>
-            </td>
-            <td align="center">102 <sup><sub>km</sub></sup></td>
-            <td align="center">1 205 <sup><sub>m</sub></sup></td>
-            <td align="center">3:07:37</td>
-            <td align="center">243 <sup><sub>w</sub></sup></td>
-            <td align="center">32.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">164</td>
         </tr>
                 <tr>
