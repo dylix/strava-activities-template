@@ -55,7 +55,7 @@
                 "axisLabel": {
                     "formatter": "{value} km"
                 },
-                "max": 400
+                "max": 450
             },
             []
         ],
@@ -92,7 +92,7 @@
                     362,
                     232,
                     389,
-                    322
+                    423
                 ],
                 "yAxisIndex": 0
             }
