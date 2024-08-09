@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-08-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="RE: life. The one regret, is thinking there was always more time." title="RE: life. The one regret, is thinking there was always more time."/>
+<a href="https://www.strava.com/activities/12103710089" title="Kcal: 2919 | Gear: None ">RE: life. The one regret, ...</a>
+            </td>
+            <td align="center">102 <sup><sub>km</sub></sup></td>
+            <td align="center">1 193 <sup><sub>m</sub></sup></td>
+            <td align="center">3:11:03</td>
+            <td align="center">231 <sup><sub>w</sub></sup></td>
+            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">161</td>
+        </tr>
+            <tr>
             <td>07-08-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="I&#039;m gone. 🥵 I&#039;m dead. 💀" title="I&#039;m gone. 🥵 I&#039;m dead. 💀"/>
@@ -60,19 +73,6 @@
             <td align="center">240 <sup><sub>w</sub></sup></td>
             <td align="center">32.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">160</td>
-        </tr>
-            <tr>
-            <td>01-08-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="BamaHenge, Neptunes Foutain, Dinosaurs in the woods &amp; Lady in the Bay" title="BamaHenge, Neptunes Foutain, Dinosaurs in the woods &amp; Lady in the Bay"/>
-<a href="https://www.strava.com/activities/12035733449" title="Kcal: 2731 | Gear: None ">BamaHenge, Neptunes Foutai...</a>
-            </td>
-            <td align="center">104 <sup><sub>km</sub></sup></td>
-            <td align="center">301 <sup><sub>m</sub></sup></td>
-            <td align="center">2:56:45</td>
-            <td align="center">234 <sup><sub>w</sub></sup></td>
-            <td align="center">35.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">154</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
