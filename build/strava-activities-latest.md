@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>31-08-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Wacky Wheelie Warrior" title="The Wacky Wheelie Warrior"/>
+<a href="https://www.strava.com/activities/12291196797" title="Kcal: 1367 | Gear: None ">The Wacky Wheelie Warrior</a>
+            </td>
+            <td align="center">75 <sup><sub>km</sub></sup></td>
+            <td align="center">368 <sup><sub>m</sub></sup></td>
+            <td align="center">2:01:12</td>
+            <td align="center">197 <sup><sub>w</sub></sup></td>
+            <td align="center">37 <sup><sub>km/h</sub></sup></td>
+            <td align="center">139</td>
+        </tr>
+            <tr>
+            <td>30-08-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="FunkyPedalPower" title="FunkyPedalPower"/>
+<a href="https://www.strava.com/activities/12283865844" title="Kcal: 1066 | Gear: None ">FunkyPedalPower</a>
+            </td>
+            <td align="center">50 <sup><sub>km</sub></sup></td>
+            <td align="center">524 <sup><sub>m</sub></sup></td>
+            <td align="center">1:32:39</td>
+            <td align="center">201 <sup><sub>w</sub></sup></td>
+            <td align="center">32.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
             <td>29-08-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Coasting Cheetah" title="The Coasting Cheetah"/>
@@ -47,32 +73,6 @@
             <td align="center">181 <sup><sub>w</sub></sup></td>
             <td align="center">35 <sup><sub>km/h</sub></sup></td>
             <td align="center">149</td>
-        </tr>
-            <tr>
-            <td>14-08-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Zooming Zebra" title="The Zooming Zebra"/>
-<a href="https://www.strava.com/activities/12146964851" title="Kcal: 552 | Gear: None ">The Zooming Zebra</a>
-            </td>
-            <td align="center">31 <sup><sub>km</sub></sup></td>
-            <td align="center">103 <sup><sub>m</sub></sup></td>
-            <td align="center">54:54</td>
-            <td align="center">175 <sup><sub>w</sub></sup></td>
-            <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">121</td>
-        </tr>
-            <tr>
-            <td>14-08-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Wheely Big Cheese Grater" title="The Wheely Big Cheese Grater"/>
-<a href="https://www.strava.com/activities/12146505193" title="Kcal: 474 | Gear: None ">The Wheely Big Cheese Grater</a>
-            </td>
-            <td align="center">22 <sup><sub>km</sub></sup></td>
-            <td align="center">277 <sup><sub>m</sub></sup></td>
-            <td align="center">45:21</td>
-            <td align="center">183 <sup><sub>w</sub></sup></td>
-            <td align="center">28.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">124</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
