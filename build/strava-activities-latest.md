@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-09-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Smoke, smoke, go away, come again, uh, never. kthx" title="Smoke, smoke, go away, come again, uh, never. kthx"/>
+<a href="https://www.strava.com/activities/12375119093" title="Kcal: 1414 | Gear: None ">Smoke, smoke, go away, com...</a>
+            </td>
+            <td align="center">69 <sup><sub>km</sub></sup></td>
+            <td align="center">424 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:48</td>
+            <td align="center">204 <sup><sub>w</sub></sup></td>
+            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
+        </tr>
+            <tr>
             <td>07-09-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Pedal Palooza: The Electric Boogaloo Edition" title="Pedal Palooza: The Electric Boogaloo Edition"/>
@@ -60,19 +73,6 @@
             <td align="center">194 <sup><sub>w</sub></sup></td>
             <td align="center">37.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">140</td>
-        </tr>
-            <tr>
-            <td>03-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="A smoke-free chill morning, 😲, don&#039;t mind if I do 👌" title="A smoke-free chill morning, 😲, don&#039;t mind if I do 👌"/>
-<a href="https://www.strava.com/activities/12315972443" title="Kcal: 2538 | Gear: None ">A smoke-free chill morning...</a>
-            </td>
-            <td align="center">93 <sup><sub>km</sub></sup></td>
-            <td align="center">776 <sup><sub>m</sub></sup></td>
-            <td align="center">2:44:50</td>
-            <td align="center">233 <sup><sub>w</sub></sup></td>
-            <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">175</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
