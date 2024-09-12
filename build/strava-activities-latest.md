@@ -10,10 +10,23 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>12-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cooler temps for the next few days! Hopefully smoke free too! 🤞" title="Cooler temps for the next few days! Hopefully smoke free too! 🤞"/>
+<a href="https://www.strava.com/activities/12392747572" title="Kcal: 2359 | Gear: None ">Cooler temps for the next ...</a>
+            </td>
+            <td align="center">87 <sup><sub>km</sub></sup></td>
+            <td align="center">330 <sup><sub>m</sub></sup></td>
+            <td align="center">2:30:06</td>
+            <td align="center">238 <sup><sub>w</sub></sup></td>
+            <td align="center">34.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">174</td>
+        </tr>
+            <tr>
             <td>11-09-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Wacky Pedal Pusher" title="The Wacky Pedal Pusher"/>
-<a href="https://www.strava.com/activities/12385973551" title="Kcal: 1321 | Gear: None ">The Wacky Pedal Pusher</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Most days, it&#039;s just a mental challenge on zwift" title="Most days, it&#039;s just a mental challenge on zwift"/>
+<a href="https://www.strava.com/activities/12385973551" title="Kcal: 1321 | Gear: None ">Most days, it&#039;s just a men...</a>
             </td>
             <td align="center">76 <sup><sub>km</sub></sup></td>
             <td align="center">230 <sup><sub>m</sub></sup></td>
@@ -60,19 +73,6 @@
             <td align="center">222 <sup><sub>w</sub></sup></td>
             <td align="center">25.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">167</td>
-        </tr>
-            <tr>
-            <td>05-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Chilly Chickpea Cruise" title="Chilly Chickpea Cruise"/>
-<a href="https://www.strava.com/activities/12333105226" title="Kcal: 2051 | Gear: None ">Chilly Chickpea Cruise</a>
-            </td>
-            <td align="center">72 <sup><sub>km</sub></sup></td>
-            <td align="center">614 <sup><sub>m</sub></sup></td>
-            <td align="center">2:10:18</td>
-            <td align="center">239 <sup><sub>w</sub></sup></td>
-            <td align="center">33 <sup><sub>km/h</sub></sup></td>
-            <td align="center">170</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
