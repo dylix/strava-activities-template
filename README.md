@@ -8,7 +8,7 @@ I had `1817 cycling days`.<br />
 I recorded a total distance of `96 078 km`
 (`2.40` trips around the world 🌍 and
 `0.250` trips to the moon 🌕),
-an elevation of `644 987 m`
+an elevation of `645 083 m`
 (`72.9` times Mount Everest 🏔)
 and a total time of `4mos 3w 2d 7h 58m` 🎉
 
@@ -553,7 +553,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
 <a href="https://www.strava.com/activities/11904109407" title="Kcal: 1575 | Gear: Lynskey Pro29 ">Warm Springs -&gt; Foster Loo...</a>
                 </td>
                 <td align="center">38 <sup><sub>km</sub></sup></td>
-                <td align="center">797 <sup><sub>m</sub></sup></td>
+                <td align="center">832 <sup><sub>m</sub></sup></td>
                 <td align="center">2:12:28</td>
                 <td align="center">164 <sup><sub>w</sub></sup></td>
                 <td align="center">17.3 <sup><sub>km/h</sub></sup></td>
@@ -818,7 +818,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
             <td align="center">July 2024</td>
             <td align="center">25</td>
             <td align="center">1 343 <sup><sub>km</sub></sup></td>
-            <td align="center">10 989 <sup><sub>m</sub></sup></td>
+            <td align="center">11 025 <sup><sub>m</sub></sup></td>
             <td align="center">1d 20h 59m</td>
             <td align="center">18</td>
         </tr>
@@ -834,7 +834,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
             <td align="center">May 2024</td>
             <td align="center">18</td>
             <td align="center">1 560 <sup><sub>km</sub></sup></td>
-            <td align="center">16 402 <sup><sub>m</sub></sup></td>
+            <td align="center">16 426 <sup><sub>m</sub></sup></td>
             <td align="center">2d 4h 27m</td>
             <td align="center">22</td>
         </tr>
@@ -842,7 +842,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
             <td align="center">April 2024</td>
             <td align="center">21</td>
             <td align="center">1 455 <sup><sub>km</sub></sup></td>
-            <td align="center">11 356 <sup><sub>m</sub></sup></td>
+            <td align="center">11 393 <sup><sub>m</sub></sup></td>
             <td align="center">1d 23h 23m</td>
             <td align="center">20</td>
         </tr>
@@ -1618,7 +1618,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
         <td align="center"><b>Outside</b></td>
         <td align="center"><b>1698</td>
         <td align="center"><b>71 515 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>420 180 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>420 277 <sup><sub>m</sub></sup></b></td>
         <td align="center"><b>3mos 3w 14h 55m</b></td>
         <td align="center"></td>
     </tr>
@@ -1626,7 +1626,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
         <td align="center"><b>Total</b></td>
         <td align="center"><b>2342</td>
         <td align="center"><b>96 078 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>644 987 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>645 083 <sup><sub>m</sub></sup></b></td>
         <td align="center"><b>4mos 3w 2d 7h 58m</b></td>
         <td align="center"></td>
     </tr>
@@ -1671,7 +1671,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                     40 <sup><sub>km avg</sub></sup> /
                     12 802 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">88 041 <sup><sub>m</sub></sup></td>
+            <td align="center">88 076 <sup><sub>m</sub></sup></td>
             <td align="center">2w 3d 16h 36m</td>
             <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -1715,7 +1715,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                     48 <sup><sub>km avg</sub></sup> /
                     16 192 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">98 807 <sup><sub>m</sub></sup></td>
+            <td align="center">98 843 <sup><sub>m</sub></sup></td>
             <td align="center">3w 1d 17h 54m</td>
             <td align="center">29.7 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -1726,7 +1726,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                     49 <sup><sub>km avg</sub></sup> /
                     17 846 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">113 080 <sup><sub>m</sub></sup></td>
+            <td align="center">113 104 <sup><sub>m</sub></sup></td>
             <td align="center">3w 4d 6h 8m</td>
             <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -1757,7 +1757,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                     55 <sup><sub>km avg</sub></sup> /
                     69 502 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">467 870 <sup><sub>m</sub></sup></td>
+            <td align="center">467 967 <sup><sub>m</sub></sup></td>
             <td align="center">3mos 1w 6d 1h 22m</td>
             <td align="center">29.8 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -1840,7 +1840,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                     78 <sup><sub>km avg</sub></sup> /
                     10 432 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">76 566 <sup><sub>m</sub></sup></td>
+            <td align="center">76 627 <sup><sub>m</sub></sup></td>
             <td align="center">1w 6d 12h 42m</td>
             <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -1928,7 +1928,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                     21 <sup><sub>km avg</sub></sup> /
                     321 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">7 758 <sup><sub>m</sub></sup></td>
+            <td align="center">7 793 <sup><sub>m</sub></sup></td>
             <td align="center">22h 59m</td>
             <td align="center">14.0 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -2133,7 +2133,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
             <td align="center">
                                     -1 620 <sup><sub>km</sub></sup>
                             </td>
-            <td align="center">98 761 <sup><sub>m</sub></sup></td>
+            <td align="center">98 857 <sup><sub>m</sub></sup></td>
             <td align="center">2w 2d 3h 12m</td>
         </tr>
             <tr>
@@ -2260,7 +2260,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                      32 <sup><sub>km avg</sub></sup> /
                      12 980 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">139 234 <sup><sub>m</sub></sup></td>
+            <td align="center">139 269 <sup><sub>m</sub></sup></td>
             <td align="center">2w 4d 16h 39m</td>
             <td align="center">28.9 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -2304,7 +2304,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                      107 <sup><sub>km avg</sub></sup> /
                      11 378 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">69 363 <sup><sub>m</sub></sup></td>
+            <td align="center">69 400 <sup><sub>m</sub></sup></td>
             <td align="center">2w 1d 17h 45m</td>
             <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
         </tr>
@@ -2315,7 +2315,7 @@ I burned `2378809 calories` doing so, that's about `8 810` pizza slices 🍕
                                      130 <sup><sub>km avg</sub></sup> /
                      7 161 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">30 110 <sup><sub>m</sub></sup></td>
+            <td align="center">30 134 <sup><sub>m</sub></sup></td>
             <td align="center">1w 2d 23h 59m</td>
             <td align="center">29.8 <sup><sub>km/h</sub></sup></td>
         </tr>
