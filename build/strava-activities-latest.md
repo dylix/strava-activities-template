@@ -12,11 +12,11 @@
             <tr>
             <td>15-09-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Snail&#039;s Pace Vertical Venture" title="Snail&#039;s Pace Vertical Venture"/>
-<a href="https://www.strava.com/activities/12419306948" title="Kcal: 1425 | Gear: None ">Snail&#039;s Pace Vertical Venture</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The MTB told me it felt neglected 😅" title="The MTB told me it felt neglected 😅"/>
+<a href="https://www.strava.com/activities/12419306948" title="Kcal: 1425 | Gear: None ">The MTB told me it felt ne...</a>
             </td>
             <td align="center">30 <sup><sub>km</sub></sup></td>
-            <td align="center">777 <sup><sub>m</sub></sup></td>
+            <td align="center">832 <sup><sub>m</sub></sup></td>
             <td align="center">2:01:42</td>
             <td align="center">170 <sup><sub>w</sub></sup></td>
             <td align="center">14.9 <sup><sub>km/h</sub></sup></td>
