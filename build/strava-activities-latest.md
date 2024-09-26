@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Elevation Expedition" title="The Elevation Expedition"/>
+<a href="https://www.strava.com/activities/12510450020" title="Kcal: 3933 | Gear: None ">The Elevation Expedition</a>
+            </td>
+            <td align="center">166 <sup><sub>km</sub></sup></td>
+            <td align="center">905 <sup><sub>m</sub></sup></td>
+            <td align="center">5:04:55</td>
+            <td align="center">190 <sup><sub>w</sub></sup></td>
+            <td align="center">32.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">143</td>
+        </tr>
+            <tr>
             <td>25-09-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Turtle Trot: 48 Miles of Shimmying with a Side of Sassy" title="The Turtle Trot: 48 Miles of Shimmying with a Side of Sassy"/>
@@ -59,19 +72,6 @@
             <td align="center">5:14:50</td>
             <td align="center">174 <sup><sub>w</sub></sup></td>
             <td align="center">32.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
-        </tr>
-            <tr>
-            <td>20-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="VCC Mustache Crew" title="VCC Mustache Crew"/>
-<a href="https://www.strava.com/activities/12459150971" title="Kcal: 2762 | Gear: None ">VCC Mustache Crew</a>
-            </td>
-            <td align="center">111 <sup><sub>km</sub></sup></td>
-            <td align="center">165 <sup><sub>m</sub></sup></td>
-            <td align="center">3:18:21</td>
-            <td align="center">208 <sup><sub>w</sub></sup></td>
-            <td align="center">33.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">151</td>
         </tr>
                 <tr>
