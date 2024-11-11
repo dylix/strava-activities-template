@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Ride and Shine: The Quirky Quest for Quads" title="Ride and Shine: The Quirky Quest for Quads"/>
+<a href="https://www.strava.com/activities/12877373373" title="Kcal: 1427 | Gear: None ">Ride and Shine: The Quirky...</a>
+            </td>
+            <td align="center">81 <sup><sub>km</sub></sup></td>
+            <td align="center">121 <sup><sub>m</sub></sup></td>
+            <td align="center">2:01:14</td>
+            <td align="center">205 <sup><sub>w</sub></sup></td>
+            <td align="center">39.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">164</td>
+        </tr>
+            <tr>
+            <td>10-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Lazy Cyclone" title="The Lazy Cyclone"/>
+<a href="https://www.strava.com/activities/12870724817" title="Kcal: 983 | Gear: None ">The Lazy Cyclone</a>
+            </td>
+            <td align="center">57 <sup><sub>km</sub></sup></td>
+            <td align="center">213 <sup><sub>m</sub></sup></td>
+            <td align="center">1:31:58</td>
+            <td align="center">187 <sup><sub>w</sub></sup></td>
+            <td align="center">37 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
             <td>06-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Sweaty Cyclist" title="The Sweaty Cyclist"/>
@@ -47,32 +73,6 @@
             <td align="center">232 <sup><sub>w</sub></sup></td>
             <td align="center">34.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">156</td>
-        </tr>
-            <tr>
-            <td>08-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Tuesday Romeo.." title="Tuesday Romeo.."/>
-<a href="https://www.strava.com/activities/12607301512" title="Kcal: 3857 | Gear: None ">Tuesday Romeo..</a>
-            </td>
-            <td align="center">162 <sup><sub>km</sub></sup></td>
-            <td align="center">616 <sup><sub>m</sub></sup></td>
-            <td align="center">4:49:56</td>
-            <td align="center">198 <sup><sub>w</sub></sup></td>
-            <td align="center">33.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">157</td>
-        </tr>
-            <tr>
-            <td>05-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Turtle Trot: A Slow and Steady Ride" title="The Turtle Trot: A Slow and Steady Ride"/>
-<a href="https://www.strava.com/activities/12579980680" title="Kcal: 1556 | Gear: None ">The Turtle Trot: A Slow an...</a>
-            </td>
-            <td align="center">66 <sup><sub>km</sub></sup></td>
-            <td align="center">94 <sup><sub>m</sub></sup></td>
-            <td align="center">2:06:42</td>
-            <td align="center">181 <sup><sub>w</sub></sup></td>
-            <td align="center">31.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">125</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
