@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>14-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Long | Stage 5 | Tour of Watopia Ride on Deca Dash in Watopia" title="Group Ride: Long | Stage 5 | Tour of Watopia Ride on Deca Dash in Watopia"/>
+<a href="https://www.strava.com/activities/12899932597" title="Kcal: 1611 | Gear: None ">Group Ride: Long | Stage 5...</a>
+            </td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">628 <sup><sub>m</sub></sup></td>
+            <td align="center">1:59:59</td>
+            <td align="center">234 <sup><sub>w</sub></sup></td>
+            <td align="center">36.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">169</td>
+        </tr>
+            <tr>
+            <td>13-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Testing TPVirtual" title="Testing TPVirtual"/>
+<a href="https://www.strava.com/activities/12895452974" title="Kcal: 24 | Gear: None ">Testing TPVirtual</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">10:17</td>
+            <td align="center">90 <sup><sub>w</sub></sup></td>
+            <td align="center">10.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>12-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="My poor heart..rate lol" title="My poor heart..rate lol"/>
@@ -47,32 +73,6 @@
             <td align="center">187 <sup><sub>w</sub></sup></td>
             <td align="center">37 <sup><sub>km/h</sub></sup></td>
             <td align="center">156</td>
-        </tr>
-            <tr>
-            <td>06-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Sweaty Cyclist" title="The Sweaty Cyclist"/>
-<a href="https://www.strava.com/activities/12838409498" title="Kcal: 716 | Gear: None ">The Sweaty Cyclist</a>
-            </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">132 <sup><sub>m</sub></sup></td>
-            <td align="center">1:01:28</td>
-            <td align="center">203 <sup><sub>w</sub></sup></td>
-            <td align="center">39.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">163</td>
-        </tr>
-            <tr>
-            <td>04-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Forgot how to ride a bike.." title="Forgot how to ride a bike.."/>
-<a href="https://www.strava.com/activities/12822307917" title="Kcal: 811 | Gear: None ">Forgot how to ride a bike..</a>
-            </td>
-            <td align="center">41 <sup><sub>km</sub></sup></td>
-            <td align="center">128 <sup><sub>m</sub></sup></td>
-            <td align="center">1:01:14</td>
-            <td align="center">231 <sup><sub>w</sub></sup></td>
-            <td align="center">40.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">167</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
