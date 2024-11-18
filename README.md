@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `10 years and 8 months` ago on `29-12-2014`,
+Since I began cycling `10 years and 9 months` ago on `29-12-2014`,
 I had `1844 cycling days`.<br />
 I recorded a total distance of `98 562 km`
 (`2.46` trips around the world 🌍 and
@@ -1851,13 +1851,13 @@ I burned `2435932 calories` doing so, that's about `9 022` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Stages</td>
-            <td align="center">200</td>
+            <td align="center">201</td>
             <td align="center">
-                                    49 <sup><sub>km avg</sub></sup> /
-                    9 709 <sup><sub>km total</sub></sup>
+                                    48 <sup><sub>km avg</sub></sup> /
+                    9 744 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">63 588 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 4d 8h 31m</td>
+            <td align="center">63 981 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 4d 9h 28m</td>
             <td align="center">35.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1928,13 +1928,13 @@ I burned `2435932 calories` doing so, that's about `9 022` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Trainer ☠️</td>
-            <td align="center">191</td>
+            <td align="center">190</td>
             <td align="center">
-                                    33 <sup><sub>km avg</sub></sup> /
-                    6 209 <sup><sub>km total</sub></sup>
+                                    32 <sup><sub>km avg</sub></sup> /
+                    6 174 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">75 141 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 16h 40m</td>
+            <td align="center">74 748 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 15h 43m</td>
             <td align="center">33.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
