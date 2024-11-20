@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>20-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Wobbly Wheel Warrior" title="The Wobbly Wheel Warrior"/>
+<a href="https://www.strava.com/activities/12945786624" title="Kcal: 253 | Gear: None ">The Wobbly Wheel Warrior</a>
+            </td>
+            <td align="center">14 <sup><sub>km</sub></sup></td>
+            <td align="center">113 <sup><sub>m</sub></sup></td>
+            <td align="center">25:12</td>
+            <td align="center">176 <sup><sub>w</sub></sup></td>
+            <td align="center">32.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
+        </tr>
+            <tr>
             <td>17-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Crackin&#039; Wheelies in a Virtual Velociraptor Marathon" title="Crackin&#039; Wheelies in a Virtual Velociraptor Marathon"/>
@@ -60,19 +73,6 @@
             <td align="center">200 <sup><sub>w</sub></sup></td>
             <td align="center">25.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">168</td>
-        </tr>
-            <tr>
-            <td>14-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Long | Stage 5 | Tour of Watopia Ride on Deca Dash in Watopia" title="Group Ride: Long | Stage 5 | Tour of Watopia Ride on Deca Dash in Watopia"/>
-<a href="https://www.strava.com/activities/12899932597" title="Kcal: 1611 | Gear: None ">Group Ride: Long | Stage 5...</a>
-            </td>
-            <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td align="center">628 <sup><sub>m</sub></sup></td>
-            <td align="center">1:59:59</td>
-            <td align="center">234 <sup><sub>w</sub></sup></td>
-            <td align="center">36.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">169</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
