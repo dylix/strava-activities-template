@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>21-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="ZippyZapper&#039;s Mountainside Madness" title="ZippyZapper&#039;s Mountainside Madness"/>
+<a href="https://www.strava.com/activities/12951983906" title="Kcal: 745 | Gear: None ">ZippyZapper&#039;s Mountainside...</a>
+            </td>
+            <td align="center">31 <sup><sub>km</sub></sup></td>
+            <td align="center">257 <sup><sub>m</sub></sup></td>
+            <td align="center">51:55</td>
+            <td align="center">247 <sup><sub>w</sub></sup></td>
+            <td align="center">35.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">163</td>
+        </tr>
+            <tr>
+            <td>21-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Killing time waiting for unbound lottery results" title="Killing time waiting for unbound lottery results"/>
+<a href="https://www.strava.com/activities/12951666711" title="Kcal: 823 | Gear: None ">Killing time waiting for u...</a>
+            </td>
+            <td align="center">41 <sup><sub>km</sub></sup></td>
+            <td align="center">250 <sup><sub>m</sub></sup></td>
+            <td align="center">1:11:04</td>
+            <td align="center">202 <sup><sub>w</sub></sup></td>
+            <td align="center">34.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
+            <td>20-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia" title="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia"/>
+<a href="https://www.strava.com/activities/12946563624" title="Kcal: 1218 | Gear: None ">Group Ride: Long | Stage 1...</a>
+            </td>
+            <td align="center">50 <sup><sub>km</sub></sup></td>
+            <td align="center">723 <sup><sub>m</sub></sup></td>
+            <td align="center">1:39:03</td>
+            <td align="center">214 <sup><sub>w</sub></sup></td>
+            <td align="center">30.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">159</td>
+        </tr>
+            <tr>
             <td>20-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Wobbly Wheel Warrior" title="The Wobbly Wheel Warrior"/>
@@ -34,45 +73,6 @@
             <td align="center">211 <sup><sub>w</sub></sup></td>
             <td align="center">38.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>16-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Wobbly Wheel Wonder" title="The Wobbly Wheel Wonder"/>
-<a href="https://www.strava.com/activities/12915422682" title="Kcal: 702 | Gear: None ">The Wobbly Wheel Wonder</a>
-            </td>
-            <td align="center">36 <sup><sub>km</sub></sup></td>
-            <td align="center">250 <sup><sub>m</sub></sup></td>
-            <td align="center">1:01:06</td>
-            <td align="center">200 <sup><sub>w</sub></sup></td>
-            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>16-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="ZoomingZebraRider" title="ZoomingZebraRider"/>
-<a href="https://www.strava.com/activities/12914846769" title="Kcal: 631 | Gear: None ">ZoomingZebraRider</a>
-            </td>
-            <td align="center">34 <sup><sub>km</sub></sup></td>
-            <td align="center">160 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:28</td>
-            <td align="center">182 <sup><sub>w</sub></sup></td>
-            <td align="center">34.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>15-11-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Frosty Flying Flamingo Ride" title="Frosty Flying Flamingo Ride"/>
-<a href="https://www.strava.com/activities/12908282388" title="Kcal: 2043 | Gear: None ">Frosty Flying Flamingo Ride</a>
-            </td>
-            <td align="center">65 <sup><sub>km</sub></sup></td>
-            <td align="center">484 <sup><sub>m</sub></sup></td>
-            <td align="center">2:32:37</td>
-            <td align="center">200 <sup><sub>w</sub></sup></td>
-            <td align="center">25.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">168</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
