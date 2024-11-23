@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>23-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Flying Wombat Ride" title="The Flying Wombat Ride"/>
+<a href="https://www.strava.com/activities/12966709449" title="Kcal: 770 | Gear: None ">The Flying Wombat Ride</a>
+            </td>
+            <td align="center">34 <sup><sub>km</sub></sup></td>
+            <td align="center">344 <sup><sub>m</sub></sup></td>
+            <td align="center">1:02:08</td>
+            <td align="center">216 <sup><sub>w</sub></sup></td>
+            <td align="center">32.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">166</td>
+        </tr>
+            <tr>
+            <td>23-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Zoominator" title="The Zoominator"/>
+<a href="https://www.strava.com/activities/12966213679" title="Kcal: 842 | Gear: None ">The Zoominator</a>
+            </td>
+            <td align="center">38 <sup><sub>km</sub></sup></td>
+            <td align="center">439 <sup><sub>m</sub></sup></td>
+            <td align="center">1:03:23</td>
+            <td align="center">232 <sup><sub>w</sub></sup></td>
+            <td align="center">35.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">163</td>
+        </tr>
+            <tr>
             <td>22-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="CrankyPedaler" title="CrankyPedaler"/>
@@ -47,32 +73,6 @@
             <td align="center">202 <sup><sub>w</sub></sup></td>
             <td align="center">34.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>20-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia" title="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia"/>
-<a href="https://www.strava.com/activities/12946563624" title="Kcal: 1218 | Gear: None ">Group Ride: Long | Stage 1...</a>
-            </td>
-            <td align="center">50 <sup><sub>km</sub></sup></td>
-            <td align="center">723 <sup><sub>m</sub></sup></td>
-            <td align="center">1:39:03</td>
-            <td align="center">214 <sup><sub>w</sub></sup></td>
-            <td align="center">30.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">159</td>
-        </tr>
-            <tr>
-            <td>20-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Wobbly Wheel Warrior" title="The Wobbly Wheel Warrior"/>
-<a href="https://www.strava.com/activities/12945786624" title="Kcal: 253 | Gear: None ">The Wobbly Wheel Warrior</a>
-            </td>
-            <td align="center">14 <sup><sub>km</sub></sup></td>
-            <td align="center">113 <sup><sub>m</sub></sup></td>
-            <td align="center">25:12</td>
-            <td align="center">176 <sup><sub>w</sub></sup></td>
-            <td align="center">32.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">141</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
