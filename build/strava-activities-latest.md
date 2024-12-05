@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>05-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - Crossover Circuit" title="TrainingPeaks Virtual - Crossover Circuit"/>
+<a href="https://www.strava.com/activities/13053242951" title="Kcal: 1095 | Gear: None ">TrainingPeaks Virtual - Cr...</a>
+            </td>
+            <td align="center">49 <sup><sub>km</sub></sup></td>
+            <td align="center">300 <sup><sub>m</sub></sup></td>
+            <td align="center">1:32:00</td>
+            <td align="center">198 <sup><sub>w</sub></sup></td>
+            <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
+            <td>04-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="ZippyDoodle Spin Session" title="ZippyDoodle Spin Session"/>
+<a href="https://www.strava.com/activities/13047876441" title="Kcal: 8 | Gear: None ">ZippyDoodle Spin Session</a>
+            </td>
+            <td align="center">1 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">2:02</td>
+            <td align="center">73 <sup><sub>w</sub></sup></td>
+            <td align="center">21.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>04-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - So Near Yet So Far" title="TrainingPeaks Virtual - So Near Yet So Far"/>
+<a href="https://www.strava.com/activities/13045917334" title="Kcal: 1506 | Gear: None ">TrainingPeaks Virtual - So...</a>
+            </td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">181 <sup><sub>m</sub></sup></td>
+            <td align="center">2:03:39</td>
+            <td align="center">203 <sup><sub>w</sub></sup></td>
+            <td align="center">35.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">147</td>
+        </tr>
+            <tr>
             <td>03-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - A Grand Day Out" title="TrainingPeaks Virtual - A Grand Day Out"/>
@@ -34,45 +73,6 @@
             <td align="center">185 <sup><sub>w</sub></sup></td>
             <td align="center">35.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>29-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Lazy day on the trainer" title="Lazy day on the trainer"/>
-<a href="https://www.strava.com/activities/13009766891" title="Kcal: 1095 | Gear: None ">Lazy day on the trainer</a>
-            </td>
-            <td align="center">68 <sup><sub>km</sub></sup></td>
-            <td align="center">103 <sup><sub>m</sub></sup></td>
-            <td align="center">2:01:32</td>
-            <td align="center">157 <sup><sub>w</sub></sup></td>
-            <td align="center">33.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">131</td>
-        </tr>
-            <tr>
-            <td>28-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Ascenders Team Social Thursday Rides (C) on Waisted 8 in Watopia" title="Group Ride: Ascenders Team Social Thursday Rides (C) on Waisted 8 in Watopia"/>
-<a href="https://www.strava.com/activities/13002849905" title="Kcal: 1402 | Gear: None ">Group Ride: Ascenders Team...</a>
-            </td>
-            <td align="center">68 <sup><sub>km</sub></sup></td>
-            <td align="center">297 <sup><sub>m</sub></sup></td>
-            <td align="center">1:47:48</td>
-            <td align="center">227 <sup><sub>w</sub></sup></td>
-            <td align="center">37.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>28-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Elevated Efficiency Ride" title="The Elevated Efficiency Ride"/>
-<a href="https://www.strava.com/activities/13002002461" title="Kcal: 156 | Gear: None ">The Elevated Efficiency Ride</a>
-            </td>
-            <td align="center">9 <sup><sub>km</sub></sup></td>
-            <td align="center">13 <sup><sub>m</sub></sup></td>
-            <td align="center">15:03</td>
-            <td align="center">181 <sup><sub>w</sub></sup></td>
-            <td align="center">35.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">139</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
