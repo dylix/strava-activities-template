@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="RapidPedalPenguin" title="RapidPedalPenguin"/>
+<a href="https://www.strava.com/activities/13059536536" title="Kcal: 187 | Gear: None ">RapidPedalPenguin</a>
+            </td>
+            <td align="center">9 <sup><sub>km</sub></sup></td>
+            <td align="center">47 <sup><sub>m</sub></sup></td>
+            <td align="center">16:30</td>
+            <td align="center">189 <sup><sub>w</sub></sup></td>
+            <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
+        </tr>
+            <tr>
+            <td>06-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="WhirlingWhippet35" title="WhirlingWhippet35"/>
+<a href="https://www.strava.com/activities/13059423384" title="Kcal: 1066 | Gear: None ">WhirlingWhippet35</a>
+            </td>
+            <td align="center">59 <sup><sub>km</sub></sup></td>
+            <td align="center">102 <sup><sub>m</sub></sup></td>
+            <td align="center">1:49:55</td>
+            <td align="center">162 <sup><sub>w</sub></sup></td>
+            <td align="center">32 <sup><sub>km/h</sub></sup></td>
+            <td align="center">111</td>
+        </tr>
+            <tr>
             <td>05-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - Crossover Circuit" title="TrainingPeaks Virtual - Crossover Circuit"/>
@@ -47,32 +73,6 @@
             <td align="center">203 <sup><sub>w</sub></sup></td>
             <td align="center">35.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">147</td>
-        </tr>
-            <tr>
-            <td>03-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - A Grand Day Out" title="TrainingPeaks Virtual - A Grand Day Out"/>
-<a href="https://www.strava.com/activities/13038752242" title="Kcal: 1616 | Gear: None ">TrainingPeaks Virtual - A ...</a>
-            </td>
-            <td align="center">65 <sup><sub>km</sub></sup></td>
-            <td align="center">640 <sup><sub>m</sub></sup></td>
-            <td align="center">2:01:30</td>
-            <td align="center">222 <sup><sub>w</sub></sup></td>
-            <td align="center">31.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
-        </tr>
-            <tr>
-            <td>02-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="ZippyZephyrSpin" title="ZippyZephyrSpin"/>
-<a href="https://www.strava.com/activities/13031814969" title="Kcal: 1301 | Gear: None ">ZippyZephyrSpin</a>
-            </td>
-            <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td align="center">322 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:27</td>
-            <td align="center">185 <sup><sub>w</sub></sup></td>
-            <td align="center">35.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">152</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
