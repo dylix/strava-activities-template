@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="SpandexSprinter" title="SpandexSprinter"/>
+<a href="https://www.strava.com/activities/13080481222" title="Kcal: 1652 | Gear: None ">SpandexSprinter</a>
+            </td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">553 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:56</td>
+            <td align="center">227 <sup><sub>w</sub></sup></td>
+            <td align="center">36.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">167</td>
+        </tr>
+            <tr>
             <td>08-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Pedal Pusher Extraordinaire" title="Pedal Pusher Extraordinaire"/>
@@ -59,19 +72,6 @@
             <td align="center">8:06</td>
             <td align="center">114 <sup><sub>w</sub></sup></td>
             <td align="center">20.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>06-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="The Turbo Turtle Spin" title="The Turbo Turtle Spin"/>
-<a href="https://www.strava.com/activities/13060816660" title="Kcal: 46 | Gear: None ">The Turbo Turtle Spin</a>
-            </td>
-            <td align="center">3 <sup><sub>km</sub></sup></td>
-            <td align="center">14 <sup><sub>m</sub></sup></td>
-            <td align="center">6:17</td>
-            <td align="center">121 <sup><sub>w</sub></sup></td>
-            <td align="center">28.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
