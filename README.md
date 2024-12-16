@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `10 years and 9 months` ago on `29-12-2014`,
+Since I began cycling `10 years and 10 months` ago on `29-12-2014`,
 I had `1865 cycling days`.<br />
 I recorded a total distance of `99 940 km`
 (`2.49` trips around the world 🌍 and
