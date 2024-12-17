@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>17-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - Fast Finish" title="TrainingPeaks Virtual - Fast Finish"/>
+<a href="https://www.strava.com/activities/13135548607" title="Kcal: 1553 | Gear: None ">TrainingPeaks Virtual - Fa...</a>
+            </td>
+            <td align="center">67 <sup><sub>km</sub></sup></td>
+            <td align="center">558 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:41</td>
+            <td align="center">214 <sup><sub>w</sub></sup></td>
+            <td align="center">33.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
+            <td>16-12-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="FrostyTrekker - 46 Miles of Icy Adventure" title="FrostyTrekker - 46 Miles of Icy Adventure"/>
+<a href="https://www.strava.com/activities/13129755169" title="Kcal: 2573 | Gear: None ">FrostyTrekker - 46 Miles o...</a>
+            </td>
+            <td align="center">75 <sup><sub>km</sub></sup></td>
+            <td align="center">526 <sup><sub>m</sub></sup></td>
+            <td align="center">2:54:59</td>
+            <td align="center">221 <sup><sub>w</sub></sup></td>
+            <td align="center">25.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
             <td>14-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Messing with GTA5 and the bike mod" title="Messing with GTA5 and the bike mod"/>
@@ -47,32 +73,6 @@
             <td align="center">190 <sup><sub>w</sub></sup></td>
             <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>12-12-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Frozen Pedaler" title="Frozen Pedaler"/>
-<a href="https://www.strava.com/activities/13101340741" title="Kcal: 2194 | Gear: None ">Frozen Pedaler</a>
-            </td>
-            <td align="center">65 <sup><sub>km</sub></sup></td>
-            <td align="center">498 <sup><sub>m</sub></sup></td>
-            <td align="center">2:29:19</td>
-            <td align="center">221 <sup><sub>w</sub></sup></td>
-            <td align="center">26.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">171</td>
-        </tr>
-            <tr>
-            <td>10-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TPV: Free ride on route 5 (Coastal Loop Reverse)" title="TPV: Free ride on route 5 (Coastal Loop Reverse)"/>
-<a href="https://www.strava.com/activities/13086459246" title="Kcal: 1322 | Gear: None ">TPV: Free ride on route 5 ...</a>
-            </td>
-            <td align="center">68 <sup><sub>km</sub></sup></td>
-            <td align="center">178 <sup><sub>m</sub></sup></td>
-            <td align="center">2:00:26</td>
-            <td align="center">183 <sup><sub>w</sub></sup></td>
-            <td align="center">34 <sup><sub>km/h</sub></sup></td>
-            <td align="center">143</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
