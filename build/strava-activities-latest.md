@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - Base Camp Redux" title="TrainingPeaks Virtual - Base Camp Redux"/>
+<a href="https://www.strava.com/activities/13149290500" title="Kcal: 1647 | Gear: None ">TrainingPeaks Virtual - Ba...</a>
+            </td>
+            <td align="center">58 <sup><sub>km</sub></sup></td>
+            <td align="center">1 005 <sup><sub>m</sub></sup></td>
+            <td align="center">2:00:35</td>
+            <td align="center">227 <sup><sub>w</sub></sup></td>
+            <td align="center">28.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">163</td>
+        </tr>
+            <tr>
+            <td>18-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - North Lake Loop" title="TrainingPeaks Virtual - North Lake Loop"/>
+<a href="https://www.strava.com/activities/13145392188" title="Kcal: 52 | Gear: None ">TrainingPeaks Virtual - No...</a>
+            </td>
+            <td align="center">3 <sup><sub>km</sub></sup></td>
+            <td align="center">53 <sup><sub>m</sub></sup></td>
+            <td align="center">7:48</td>
+            <td align="center">111 <sup><sub>w</sub></sup></td>
+            <td align="center">22 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>18-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - Fast Finish" title="TrainingPeaks Virtual - Fast Finish"/>
@@ -47,32 +73,6 @@
             <td align="center">221 <sup><sub>w</sub></sup></td>
             <td align="center">25.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">156</td>
-        </tr>
-            <tr>
-            <td>14-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Messing with GTA5 and the bike mod" title="Messing with GTA5 and the bike mod"/>
-<a href="https://www.strava.com/activities/13116356225" title="Kcal: 16 | Gear: None ">Messing with GTA5 and the ...</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">4:48</td>
-            <td align="center">65 <sup><sub>w</sub></sup></td>
-            <td align="center">19.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>14-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="TrainingPeaks Virtual - Mid Loops East" title="TrainingPeaks Virtual - Mid Loops East"/>
-<a href="https://www.strava.com/activities/13115172554" title="Kcal: 1701 | Gear: None ">TrainingPeaks Virtual - Mi...</a>
-            </td>
-            <td align="center">83 <sup><sub>km</sub></sup></td>
-            <td align="center">496 <sup><sub>m</sub></sup></td>
-            <td align="center">2:31:29</td>
-            <td align="center">187 <sup><sub>w</sub></sup></td>
-            <td align="center">33 <sup><sub>km/h</sub></sup></td>
-            <td align="center">147</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
