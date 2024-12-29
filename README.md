@@ -14,7 +14,7 @@ and a total time of `5mos 16h 33m` 🎉
 
 That's a daily average of `27 km`,
 a weekly average of `192 km` and a
-monthly average of `836 km` 🐣
+monthly average of `829 km` 🐣
 
 I burned `2475153 calories` doing so, that's about `9 167` pizza slices 🍕
 
